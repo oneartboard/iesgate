@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="999" viewBox="0 0 1920 999">
+  <defs>
+    <clipPath id="clip-hero-banner">
+      <rect width="1920" height="999"/>
+    </clipPath>
+  </defs>
+  <g id="hero-banner" clip-path="url(#clip-hero-banner)">
+    <rect width="1920" height="999" fill="#fff"/>
+    <g id="Slider" transform="translate(-5 -396)">
+      <g id="_01" data-name="01" transform="translate(-208 20.999)">
+        <path id="Shape_11" data-name="Shape 11" d="M4,1263.568s322.766-162.737,705-27.54c0,0,339.119,170.209,713-74.581,0,0,221.569-211.776,495.529-187.033L2063,851.641,2138,45,396,80.569-208,45-83,1104.075Z" transform="translate(208 -20.999)" fill="#ff8e32"/>
+        <path id="Shape_11_copy_2" data-name="Shape 11 copy 2" d="M4,1239.567s322.766-162.735,705-27.538c0,0,339.119,170.208,713-74.581,0,0,221.569-211.775,495.529-187.033L2063,827.642,2138,21,396,56.568-208,21-83,1080.077Z" transform="translate(208 -20.999)" fill="#f65e21"/>
+      </g>
+    </g>
+  </g>
+</svg>

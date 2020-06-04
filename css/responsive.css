@@ -1,0 +1,387 @@
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    //CSS
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    //CSS
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    //CSS
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    //CSS
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    //CSS
+    
+  }
+
+
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    .flex-col.col-6 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .flex-row {
+        flex-direction: column;
+    }
+
+    .enroll-box.left:before {
+               content: none;
+
+    }
+    .enroll-box.right:before {
+      content: none;
+
+    }
+
+    .sqbox {
+     
+        padding: 0px 15px;
+    }
+    .pl120 {
+        padding-left: 15px;
+    }
+    .pr120 {
+        padding-right: 15px;
+    }
+
+    .spacer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .c-tabs {
+        padding: 10px;
+    }
+.test-table {
+    border-radius: 0;
+}
+
+
+
+.rtbm {
+    max-width: 100% !important;
+    margin: 0 !important;
+    border: none !important;
+}
+
+.c-container {
+    width: 95%;
+}
+.test-table {
+    background-image: none;
+}
+
+.swiper-sq2 .swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper-sq2 .swiper-slide .overlay {
+    padding: 15px;
+}
+
+.swiper-sq2 .swiper-slide {
+    position: relative;
+    height: 550px;
+}
+.toppers-list li {
+    padding: 5px;
+    width: 140px;
+    margin: 10px;
+}
+
+.enroll-box {
+
+  background: #ffbb96;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+ .navbar-items {
+  flex-direction: column;
+
+}
+.right-heading {
+ padding-right: 40px;
+  width: 100%;
+}
+
+.or-devide {
+  font-size: 15px;
+}
+.or-devide div:not(.or) {
+  background: #FF9472;
+  padding: 6px 6px;
+  margin: 0 5px;
+  border-radius: 10px;
+}
+.hero-banner {
+ 
+  background-size: cover;
+}
+
+.mobile-menu {
+  display: block;
+}
+.mobile-menu img {
+  width: 30px ! important;
+}
+.logo img {
+  width: 250px;
+}
+
+.logo {
+  display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.navbar-items {
+  flex-direction: column;
+    background: #fff;
+    width: 100%;
+    position: absolute;
+    list-style: none;
+    transform-origin: top;
+    animation-fill-mode: forwards;
+    -webkit-transform: scaleY(0);
+    display: block;
+    transition: all .1s ease-out;
+    box-shadow: 0 5px 8px 0 #0000004a;
+    width: 100%;
+    background: #fff;
+    z-index: 10000;
+    margin-top: 10px;
+    padding: 10px 0px;
+    border-radius: 5px;
+    top: 50px;
+
+
+}
+.navbar-items.open {
+  -webkit-transform: scale(1); 
+  -moz-transform: scale(1);
+   transform: scale(1); 
+}
+
+
+
+
+.navbar-items li a {
+  
+  font-size: 16px;
+  color: #000;
+}
+
+.menu-icon {
+  display: block;
+  width: 30px;
+  filter: invert(1);
+}
+.simple-menu  {
+  position: relative;
+}
+.simple-menu .menu-visible {
+  display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.simple-menu .menu-visible a {
+  font-size: 24px;
+}
+.simple-menu .menu-item {
+  display: none; 
+  position: absolute;
+  top: 43px;
+  background: #fff;
+  width: 100%;
+  flex-direction: column;
+  z-index: 100;
+  padding: 10px 21px;
+  border-radius: 3px;
+  border: none;
+  box-shadow: 0 4px 4px #0000002e;
+}
+
+.cta-label {
+  display: flex;
+  position: fixed;
+  right: 0;
+  top: inherit;
+  transform-origin: center;
+  transform: none;
+  bottom: 0;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+}
+
+.cta-label a {
+  padding: 4px 10px;
+  background: #f65e21;
+  color: #fff;
+  text-decoration: none;
+  margin: 0px 8px;
+  direction: ltr;
+  width: 50%;
+  text-align: center;
+}
+
+.test-table .tabgroup {
+  border: 1px solid var(--theme-color);
+    margin-top: 10px;
+}
+.test-table .tabs a.active {
+  position: relative;
+}
+.test-table .tabs a.active:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 142%;
+  background: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--theme-color);
+}
+.test-table .tabs a.active:after {
+  content: '';
+  display: block;
+  width: 95%;
+  height: 6px;
+  background: #fff2ec;
+  position: absolute;
+  top: 31px;
+  left: -1px;
+  margin: auto;
+  right: 0;
+}
+
+.site-footer .simple-list h4 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.social-col {
+
+}
+
+.flex-inline-mobile {
+  display: flex;
+  justify-content: space-between;
+}
+.subscribe {
+  margin-top: 0;
+}
+
+.sbs-col {
+  width: 100%;
+ 
+}
+
+
+.copywrite {
+ 
+  position: relative;
+  bottom: 5px;
+}
+
+.video-loop {
+  width: 100%;
+}
+.stdc {
+  position: absolute;
+  top: 77px;
+  font-size: 16px;
+  background: #fff2ea;
+  padding: 0 30px;
+  display: block;
+}
+
+.mth {
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.right-heading {
+  padding-right: 15px;
+  width: 100%;
+  text-align: center;
+}
+.quote {
+  position: relative;
+  padding: 15px 15px;
+}
+
+.cta-wrapper {
+  position: relative;
+  height: 550px;
+}
+.cta-wrapper img {
+  width: 100%;
+  height: 100%;
+}
+
+.cta-wrapper .overlay {
+  padding: 0 15px;
+}
+
+.btn-big {
+  font-size: 22px;
+
+}
+
+}
