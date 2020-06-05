@@ -4,6 +4,7 @@
 body {
    
     font-family: 'Open Sans', sans-serif;
+    max-width: 1400px;
 }
 
 h1,h2,h3,h4 {
@@ -25,7 +26,7 @@ h1,h2,h3,h4 {
     --swiper-theme-color: #F65E21;
 }
 body {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 * {
@@ -76,7 +77,7 @@ body {
 .stripbar {
     background: #FF8E32;
     background: #FF8E32;
-    height: 50px;
+    height: 36px;
     line-height: 50px;
 }
 
@@ -193,6 +194,10 @@ body {
 }
 .text-purple {
     color: #571882 !important;
+}
+
+.noline-link a {
+    text-decoration: none;
 }
 
 .width100 {
