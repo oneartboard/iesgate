@@ -54,21 +54,23 @@
 
 			<div id="two" class="vtab-content">
 			   <h2 class="heading">
-				  MAHARATNA
+				  LIST and CATEGORIES OF PSUs
 			   </h2>
 			   <h4>List of Maharatna Companies</h4>
 			   <img src="img/maha.png">
 			  </div>
+
 			  <div id="three" class="vtab-content">
 				   <h2 class="heading">
-					  NAVRATNA
+					  PSUs THROUGH GATE SCORE
 				   </h2>
 				   <h4>List of Navratna Companies</h4>
 				   <img src="img/nav.png">
 			   </div>
+			   
 			   <div id="four" class="vtab-content">
 				   <h2 class="heading">
-					  MINIRATNA CATEGORY - I
+					  PSUs THROUGH INDIVIDUAL WRITTEN TEST
 				   </h2>
 				   <h4>List of Miniratna Category - I Companies</h4>
 				   <img src="img/mini1.png">
@@ -77,7 +79,7 @@
 
 			   <div id="five" class="vtab-content">
 				   <h2 class="heading">
-					  MINIRATNA CATEGORY - II
+					  PSUs ELIGIBILITY WITH ACADEMIC PERCENTAGE & AGE CRITERIA
 				   </h2>
 				   <h4>List of Miniratna Category - I Companies</h4>
 				   <img src="img/mini3.png">
