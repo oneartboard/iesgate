@@ -181,24 +181,162 @@
 			  <div id="three" class="vtab-content">
 			
 			   <h2 class="heading">
-				  STRUCTURE & PATTERN OF THE GATE
-  
+				  GATE Structure
 			   </h2>
-			  	<p class="read">
-					STRUCTURE: GATE is an ONLINE Computer Based Test (CBT) of 3hrs duration that consists of both multiple choice questions (MCQ) & Numerical answer type questions. For MCQ type questions, the candidates have to select the answer. For Numerical answer type questions, the candidates have to enter the answer using a mouse on a virtual keyboard. 	</p>
-				<p class="read">
-					PATTERN: GATE Paper is a total of 65 questions carrying a maximum of 100 marks, out of which 30 questions carry one mark each and 35 questions carry two mark each. 
-				</p>
-				<p class="read">Examination Paper is a combination of 35 questions from multiple choice & rest 30 questions are from Numerical answer type. For 1mark MCQs, 1/3mark is deducted for each wrong answer. Likewise, for 2mark MCQs, 2/3 mark is deducted for each wrong answer. <span style="color: ##F25822"> There is NO negative marking for numerical answer type questions. </span>
-				</p>
-
-				<ul>
-					<li>General aptitude carry 15% of the total marks which consists of (5) one mark questions and (5) two mark questions.</li>
-
-					<li>Engineering Mathematics carry around 15% of the total marks and the remaining 70% of the total marks is devoted to the subject of the paper. It is totally 85% which consists of (25) one mark questions and (30) two mark questions.</li>
-				</ul>
-
-				<img src="img/gate-s.png">
+			  	<table border="1" cellpadding="0" cellspacing="0" width="469">
+			<tbody>
+				<tr>
+					<td style="width:187px;height:20px;">
+						<p>
+							<strong>SECTION</strong></p>
+					</td>
+					<td style="width:108px;height:20px;">
+						<p>
+							<strong>QUESTION NO</strong></p>
+					</td>
+					<td style="width:126px;height:20px;">
+						<p>
+							<strong>NO OF QUESTIONS</strong></p>
+					</td>
+					<td style="width:103px;height:20px;">
+						<p>
+							<strong>MARKS PER QUESTION</strong></p>
+					</td>
+					<td style="width:101px;height:20px;">
+						<p>
+							<strong>TOTAL MARKS</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td rowspan="2" style="width:187px;height:14px;">
+						<p>
+							GENERAL APTITUDE</p>
+					</td>
+					<td style="width:108px;height:14px;">
+						<p align="center">
+							1 to 5</p>
+					</td>
+					<td style="width:126px;height:14px;">
+						<p>
+							5 Questions</p>
+					</td>
+					<td style="width:103px;height:14px;">
+						<p align="center">
+							1 Mark</p>
+					</td>
+					<td style="width:101px;height:14px;">
+						<p>
+							5 Marks</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:108px;height:14px;">
+						<p align="center">
+							6 to 10</p>
+					</td>
+					<td style="width:126px;height:14px;">
+						<p>
+							5 Questions</p>
+					</td>
+					<td style="width:103px;height:14px;">
+						<p align="center">
+							2 Mark</p>
+					</td>
+					<td style="width:101px;height:14px;">
+						<p>
+							10 Marks</p>
+					</td>
+				</tr>
+				<tr>
+					<td rowspan="2" style="width:187px;height:28px;">
+						<p>
+							TECHNICAL &nbsp;SUBJECTS</p>
+						<p>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +</p>
+						<p>
+							ENGINEERING MATHS</p>
+					</td>
+					<td style="width:108px;height:28px;">
+						<p align="center">
+							1 to 25</p>
+					</td>
+					<td style="width:126px;height:28px;">
+						<p>
+							25 Questions</p>
+					</td>
+					<td style="width:103px;height:28px;">
+						<p align="center">
+							1 Mark</p>
+						<p align="center">
+							&nbsp;</p>
+					</td>
+					<td style="width:101px;height:28px;">
+						<p>
+							25 Marks</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:108px;height:21px;">
+						<p align="center">
+							26 to 55</p>
+					</td>
+					<td style="width:126px;height:21px;">
+						<p>
+							30 Questions</p>
+					</td>
+					<td style="width:103px;height:21px;">
+						<p align="center">
+							2 Mark</p>
+					</td>
+					<td style="width:101px;height:21px;">
+						<p>
+							60 Marks</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:187px;height:28px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							TOTAL QUESTIONS: 65</p>
+					</td>
+					<td colspan="2" style="width:234px;height:28px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							TOTAL MARKS: 100</p>
+					</td>
+					<td colspan="2" style="width:204px;height:28px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							TOTAL DURATION: 3 HOURS</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:187px;height:19px;">
+						<p align="center">
+							TECHNICAL SECTION:</p>
+						<p align="center">
+							70 MARKS</p>
+					</td>
+					<td colspan="2" style="width:234px;height:19px;">
+						<p align="center">
+							GENERAL APTITUDE:</p>
+						<p align="center">
+							15 MARKS</p>
+					</td>
+					<td colspan="2" style="width:204px;height:19px;">
+						<p align="center">
+							ENGINEERING MATHEMATICS:</p>
+						<p align="center">
+							15 MARKS</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			Examination Paper is a combination of 35 questions from multiple choice &amp; rest 30 questions are from Numerical answer type. For 1mark MCQs, 1/3mark is deducted for each wrong answer. Likewise, for 2mark MCQs, 2/3 mark is deducted for each wrong answer.&nbsp;There is NO negative marking for numerical answer type questions.</p>
 
 			  </div>
 
@@ -238,14 +376,11 @@
 			   <div id="five" class="vtab-content">
 			
 				<h2 class="heading">
-				   GATE Difficulty Level
+				   Type of Questions
    
 				</h2>
 			   <p class="read">
-				   The rules for qualifying marks have varied from year to year. The qualifying marks (out of 100) are different for different disciplines as well as categories.</p>
-
-				<p class="read">Each year, Only around 15% of all appearing students qualify. High percentiles (more than 99th percentile, in some cases) are required to get admission in M.Tech. or M.E. degree programs in Indian Institute Of Technology and Indian Institute of Science, or to get shortlisted for job interviews in Indian public sector undertakings.
-			   </p>
+				   GATE is an Online Computer Based Test (CBT) of 3hrs duration that consists of Multiple-choice Questions and Numerical Type Question in all papers & sections. Multiple choice Questions will contain 4 options, of which only one is correct. For Numerical Type Questions, a numerical value as the answer should be entered using mouse and virtual keyboard on the monitor.</p>
 			   </div>
 
 
@@ -255,16 +390,446 @@
 				   GATE CUTOFF MARKS
    
 				</h2>
-			   <p class="read">
-				   GATE, for long, has been known to test the engineering basics in a smart way. Complaints of “lengthy” problems have been rare. But the task of mastering an entire course of engineering (around 30 undergraduate subjects) for a three-hour test, itself gives the test a certain level of toughness..
-			   </p>
-			   <p class="read">
-				   Each year, Only around 15% of all appearing students qualify. High percentiles (more than 99th percentile, in some cases) are required to get admission in M.Tech. or M.E. degree programs in Indian Institute Of Technology and Indian Institute of Science, or to get shortlisted for job interviews in Indian public sector undertakings.
-			   </p>
-			   <img src="img/instru.png">
-			   <p class="read">
-				   Where µ is the average (i.e., arithmetic mean) of marks of all candidate in the discipline(with negative marks converted to zero) and is the standard deviation of all marks in that discipline.
-			   </p>
+			   <table border="1" cellpadding="0" cellspacing="0" style="width:601px;" width="451">
+			<tbody>
+				<tr>
+					<td rowspan="2" style="width:85px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							<strong>Paper Code</strong></p>
+					</td>
+					<td colspan="3" style="width:177px;">
+						<p align="center">
+							<strong>2019</strong></p>
+					</td>
+					<td colspan="3" style="width:184px;">
+						<p align="center">
+							<strong>2018</strong></p>
+					</td>
+					<td colspan="3" style="width:155px;">
+						<p align="center">
+							<strong>2017</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:54px;">
+						<p>
+							<strong>GEN</strong></p>
+					</td>
+					<td style="width:61px;">
+						<p>
+							<strong>OBC</strong></p>
+					</td>
+					<td style="width:61px;">
+						<p>
+							<strong>SC/ST</strong></p>
+					</td>
+					<td style="width:61px;">
+						<p>
+							<strong>GEN</strong></p>
+					</td>
+					<td style="width:61px;">
+						<p>
+							<strong>OBC</strong></p>
+					</td>
+					<td style="width:61px;">
+						<p>
+							<strong>SC/ST</strong></p>
+					</td>
+					<td style="width:61px;">
+						<p>
+							<strong>GEN</strong></p>
+					</td>
+					<td style="width:46px;">
+						<p>
+							<strong>OBC</strong></p>
+					</td>
+					<td style="width:48px;">
+						<p>
+							<strong>SC/ST</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>EC</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							26.7</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							24</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							17.8</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							22.5</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							16.6</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							22.50</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							16.60</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>EE</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							39.6</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							35.6</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							26.4</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							29.1</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							26.1</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							19.4</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25.20</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							25.20</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							16.70</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>IN</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							31.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							28.7</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							21.3</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							37.1</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							33.3</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							24.7</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							34.60</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							31.10</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							23</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>CE</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							28.2</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25.4</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							18.8</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							26.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							24.2</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							17.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							28.70</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							25.8</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							19.10</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>ME</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							34.1</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							30.7</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							22.7</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							34.7</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							31.2</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							23.1</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							32.87</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							29</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							21</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>CS</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							29.5</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							26.6</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							19.7</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							22.5</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							16.6</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							22.50</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							16.60</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>CH</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							34.8</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							31.3</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							23.2</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							37.8</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							34</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25.1</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							44.30</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							39.80</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							29.50</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>BT</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							35.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							32.3</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							23.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							27.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							25.1</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							18.5</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							38.90</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							35</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							25.90</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:85px;">
+						<p align="center">
+							<strong>AE</strong></p>
+					</td>
+					<td style="width:54px;">
+						<p align="center">
+							33.5</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							30.2</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							22.3</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							34.4</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							30.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							22.9</p>
+					</td>
+					<td style="width:61px;">
+						<p align="center">
+							&nbsp;</p>
+					</td>
+					<td style="width:46px;">
+						<p align="center">
+							&nbsp;</p>
+					</td>
+					<td style="width:48px;">
+						<p align="center">
+							&nbsp;</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
 			   </div>
 			   <div id="seven" class="vtab-content">
 			
