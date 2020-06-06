@@ -93,107 +93,58 @@
 		</p>
 		<br>
 		<form class="enquire-form">
-			<div class="vgroup inline">
-				<label for="">Select <span>*</span></label>
-
-				<select name="" id="">
-					<option value="">Select Your Course</option>
-					<option value="">one</option>
-					<option value="">Two</option>
-
-					
-				</select>
-			</div>
 
 			<div class="vgroup inline">
-				<label for="">Name <span>*</span></label>
+				<label for="">Full Name <span>*</span></label>
 				<input type="text" required>
 			</div>
-			<div class="vgroup">
-				<label for="">Email <span>*</span></label>
-				<input type="text" required>
-			</div>
-			<div class="vgroup">
-				<label for="">Phone <span>*</span></label>
-				<input type="text" required>
-			</div>
-
-
-			<div class="vgroup">
-				<h4>Center</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Chennai</label>
+			<div class="row">
+				<div class="col">
+					<div class="vgroup">
+						<label for="">Email <span>*</span></label>
+						<input type="text" required>
+					</div>
 				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Coimbatore</label>
+				<div class="col">
+					<div class="vgroup">
+						<label for="">Phone <span>*</span></label>
+						<input type="text" required>
+					</div>
 				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">others</label>
-				</div>
-				
-			</div>
-			<div class="vgroup">
-				<h4>Select Stream</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">EC - Electronics & Communication Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">EE - Electrical & Electronics Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IN - Instrumentation Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">CE - Civil Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">ME - Mechanical Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">PI - Production & Industrial Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">CS - Computer Science Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IT - Information Technology</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">CH -  Chemical Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">PE - Petroleum Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">BT - Bio-Technology</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">AE - Aerospace Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Others</label>
-				</div>
-				
 			</div>
 
+			<div class="row">
+				<div class="col">
+					<div class="vgroup inline">
+						<label for="">Center?<span>*</span></label>
+						<select name="" id="">
+							<option value="">--Select Center--</option>
+							<option value="">Chennai</option>
+							<option value="">Coimbatore</option>
+						</select>
+					</div>
+				</div>
+				<div class="col">
+					<div class="vgroup inline">
+						<label for="">Select Stream</label>
+						<select name="" id="">
+							<option value="">--Select Stream--</option>
+							<option value="">EE - Electrical & Electronics Engineering</option>
+							<option value="">IN - Instrumentation Engineering</option>
+							<option value="">CE - Civil Engineering</option>
+							<option value="">ME - Mechanical Engineering</option>
+							<option value="">PI - Production & Industrial Engineering</option>
+							<option value="">CS - Computer Science Engineering</option>
+							<option value="">IT - Information Technology</option>
+							<option value="">CH -  Chemical Engineering</option>
+							<option value="">PE - Petroleum Engineering</option>
+							<option value="">BT - Bio-Technology</option>
+							<option value="">AE - Aerospace Engineering</option>
+							<option value="">Others</option>
+						</select>
+					</div>
+				</div>
+			</div>
 			<div class="vgroup">
 				<h4>Exams</h4>
 				
@@ -246,7 +197,7 @@
 				<textarea name="" id="" style="width: 100%;" rows="10"></textarea>
 				
 			</div>
-
+			<button class="btn-theme">Submit</button>
 		</form>
 		
 	</div>

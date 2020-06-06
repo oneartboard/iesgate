@@ -92,33 +92,37 @@
 		<br>
 		<h2>Student Details </h2>
 		<form class="enquire-form">
-			<div class="vgroup inline">
-				<label for="">First Name <span>*</span></label>
-				<input type="text" required>
-			</div>
-			<div class="vgroup">
-				<label for="">Last Name <span>*</span></label>
-				<input type="text" required>
-			</div>
-			
-
-			<div class="vgroup">
-				<h4>Gender</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Male</label>
+			<div class="row">
+				<div class="col">
+					<div class="vgroup inline">
+						<label for="">First Name <span>*</span></label>
+						<input type="text" required>
+					</div>
 				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Female</label>
+				<div class="col">
+					<div class="vgroup">
+						<label for="">Last Name <span>*</span></label>
+						<input type="text" required>
+					</div>
 				</div>
-				
 			</div>
-
-			<div class="vgroup">
-				<label for="">Date of Birth <span>*</span></label>
-				<input type="text" required placeholder="01/01/1990">
+			<div class="row">
+				<div class="col">
+					<div class="vgroup inline">
+						<label for="">Gender<span>*</span></label>
+						<select name="" id="">
+							<option value="">--Select Gender--</option>
+							<option value="">Female</option>
+							<option value="">Male</option>
+						</select>
+					</div>
+				</div>
+				<div class="col">
+					<div class="vgroup">
+						<label for="">Date of Birth <span>*</span></label>
+						<input type="text" required placeholder="01/01/1990">
+					</div>
+				</div>
 			</div>
 			<div class="vgroup">
 				<label for="">Email ID <span>*</span></label>
@@ -137,14 +141,20 @@
 				<label for="">Father's Name <span>*</span></label>
 				<input type="text" required >
 			</div>
-			<div class="vgroup">
-				<label for="">Occupation <span>*</span></label>
-				<input type="text" required >
-			</div>
-			<div class="vgroup">
-				<label for="">Mobile Number <span>*</span></label>
-				<input type="text" required >
-			</div>
+			<div class="row">
+				<div class="col">
+					<div class="vgroup">
+						<label for="">Occupation <span>*</span></label>
+						<input type="text" required >
+					</div>
+				</div>
+				<div class="col">
+					<div class="vgroup">
+						<label for="">Mobile Number <span>*</span></label>
+						<input type="text" required >
+					</div>
+				</div>
+			</div>	
 			<h2>Permanent Address </h2>
 			<div class="vgroup">
 				<label for="">Street Address <span>*</span></label>
@@ -158,12 +168,19 @@
 				<label for="">City/Town <span>*</span></label>
 				<input type="text" required >
 			</div>
-						<div class="vgroup">
-				<label for="">State <span>*</span></label>
-				<input type="text" required >
-			</div>			<div class="vgroup">
-				<label for="">Postal Code <span>*</span></label>
-				<input type="text" required >
+			<div class="row">
+				<div class="col">
+					<div class="vgroup">
+						<label for="">State <span>*</span></label>
+						<input type="text" required >
+					</div>
+				</div>
+				<div class="col">			
+					<div class="vgroup">
+						<label for="">Postal Code <span>*</span></label>
+						<input type="text" required >
+					</div>
+				</div>
 			</div>
 
 			<h2>Academic Details </h2>
@@ -209,132 +226,70 @@
 			</div>
 
 			<h2>Course Details </h2>
-			<div class="vgroup">
-				<h4>Select Course</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Classroom Coaching+Online Live Classes</label>
+			<div class="vgroup inline">
+				<label for="">Select Course<span>*</span></label>
+				<select name="" id="">
+					<option value="">Classroom Coaching+Online Live Classes</option>
+					<option value="">Online Live Classes</option>
+				</select>
+			</div>
+			<div class="row">
+				<div class="col">
+					<div class="vgroup inline">
+						<label for="">Center?<span>*</span></label>
+						<select name="" id="">
+							<option value="">--Select Center--</option>
+							<option value="">Chennai</option>
+							<option value="">Coimbatore</option>
+						</select>
+					</div>
 				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Online Live Classes</label>
+				<div class="col">
+					<div class="vgroup inline">
+						<label for="">Select Exam<span>*</span></label>
+						<select name="" id="">
+							<option value="">IES+GATE+PSUs-2021</option>
+							<option value="">GATE+PSUs-2021</option>
+							<option value="">IES+GATE+PSUs-2022</option>
+							<option value="">GATE+PSUs-2022</option>
+						</select>
+					</div>
 				</div>
 			</div>
-			<div class="vgroup">
-				<h4>Select Centre</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Chennai</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Coimbatore</label>
-				</div>
+			<div class="vgroup inline">
+				<label for="">Select Batch<span>*</span></label>
+				<select name="" id="">
+					<option value="">Regular Batch</option>
+					<option value="">Weekend Batch</option>
+				</select>
 			</div>
-			<div class="vgroup">
-				<h4>Select Exam</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IES+GATE+PSUs-2021</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">GATE+PSUs-2021</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IES+GATE+PSUs-2022</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">GATE+PSUs-2022</label>
-				</div>
-			</div>
-			<div class="vgroup">
-				<h4>Select Batch</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Regular Batch</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Weekend Batch</label>
-				</div>
-			</div>
-			<div class="vgroup">
-				<h4>Select Stream</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">EC - Electronics & Communication Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">EE - Electrical & Electronics Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IN - Instrumentation Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">CE - Civil Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">ME - Mechanical Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">PI - Production & Industrial Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">CS - Computer Science Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IT - Information Technology</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">CH -  Chemical Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">PE - Petroleum Engineering</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">BT - Bio-Technology</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">AE - Aerospace Engineering</label>
-				</div>
-				
+			<div class="vgroup inline">
+				<label for="">Select Stream</label>
+				<select name="" id="">
+					<option value="">--Select Stream--</option>
+					<option value="">EE - Electrical & Electronics Engineering</option>
+					<option value="">IN - Instrumentation Engineering</option>
+					<option value="">CE - Civil Engineering</option>
+					<option value="">ME - Mechanical Engineering</option>
+					<option value="">PI - Production & Industrial Engineering</option>
+					<option value="">CS - Computer Science Engineering</option>
+					<option value="">IT - Information Technology</option>
+					<option value="">CH -  Chemical Engineering</option>
+					<option value="">PE - Petroleum Engineering</option>
+					<option value="">BT - Bio-Technology</option>
+					<option value="">AE - Aerospace Engineering</option>
+					<option value="">Others</option>
+				</select>
 			</div>
 
 
-			<div class="vgroup">
-				<h4>Select Payment</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Registeration Free</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Full Payment</label>
-				</div>
-				
-				
+			<div class="vgroup inline">
+				<label for="">Select Payment?<span>*</span></label>
+				<select name="" id="">
+					<option value="">Registration Fee</option>
+					<option value="">Full Payment</option>
+				</select>
 			</div>
-			
 
 			<div class="vgroup">
 				<button class="btn-theme">Submit</button>
