@@ -500,7 +500,7 @@ blockquote.quote {
     background: #000;
 }
 .c-tabs ul li {
-    padding: 7px 0;
+    padding: 10px 15px;
 }
 .announce-tabs  .tabs li {
     margin: 0;
@@ -533,30 +533,7 @@ blockquote.quote {
     width: 70%;
     margin: auto;
 }
-.c-accr li {
-    background: #FFA587;
-    padding: 10px 25px;
-    margin: 12px 0;
-   font-size: 20px;
-    font-weight: 600;
-    position: relative;
-    cursor: pointer;
-    border-radius: 5px;
-}
-.c-accr li:after {
-    content: '';
-    background-image: url(../img/Polygon.svg);
-    width: 15px;
-    height: 15px;
-    display: block;
-    right: 0;
-    position: absolute;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    top: 20px;
-    right: 20px;
 
-}
 .toppers .flex-col {
     width: 210px;
 }
@@ -574,7 +551,7 @@ blockquote.quote {
     padding: 10px;
     width: 200px;
     margin: 15px;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
     color: var(--theme-color);
     text-align: center;
@@ -1022,3 +999,65 @@ ul.vtabs li a.active {
  .swiper-sq .swiper-slide img{
      width: 100%;
  } 
+
+ .select-city li a {
+     background: none;
+     box-shadow: none;
+     text-align: left;
+
+ }
+
+ .select-city li a.active {
+     color: var(--theme-color);
+ }
+
+ .select-city li {
+    margin: 0 10px;
+    flex-grow: 0;
+}
+.accr-heading {
+    position: relative;
+    margin: 0;
+}
+
+.c-accr li {
+    background: #FFA587;
+    padding: 10px 25px;
+    margin: 12px 0;
+   font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.accr-heading:after {
+    content: '';
+    background-image: url(../img/Polygon.svg);
+    width: 15px;
+    height: 15px;
+    display: block;
+    right: 0;
+    position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    top: 6px;
+    right: 0;
+
+}
+
+.c-accr li {
+    background: #FFA587;
+    padding: 10px 25px;
+    margin: 7px 0;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.accr-table td {
+    font-weight: 400;
+    padding: 7px 0;
+}

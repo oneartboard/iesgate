@@ -199,8 +199,8 @@ ScrollOut({
   });
   
 
-  $('.c-accr li').click(function () {
-	$(this).find('.accr-item').slideToggle().siblings().slideUp();
+  $('.c-accr .accr-heading').click(function () {
+	$(this).parent('.accr-li').find('.accr-item').slideToggle();
 })
 
 
