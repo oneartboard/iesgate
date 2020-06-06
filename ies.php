@@ -24,9 +24,9 @@
 				IES Coaching Chennai
 
 			</h4>
-		  <li><a class="active" href="#/one"> What is IES?</a></li>
-		  <li><a href="#/two"> ELIGIBILITY for IES</a></li>
-		  <li><a href="#/three"> STRUCTURE & PATTERN OF THE GATE</a></li>
+		  <li><a class="active" href="#/one"> What is ESE / IES Exam?</a></li>
+		  <li><a href="#/two"> Eligibility for IES Exam</a></li>
+		  <li><a href="#/three"> STRUCTURE AND PATTERN OF ENGINEERING SERVICE EXAMINATION</a></li>
 		  <li><a href="#/four"> IES EXAM STATISTICS</a></li>
 		  <li><a href="#/five"> IES-CUTOFF</a></li>
 		</ul>
@@ -34,13 +34,13 @@
 		<div id="content">
 
 		  <div id="one" class="vtab-content">
-			  <h3>What is IES?</h3>
+			  <h3>What is ESE / IES Exam?</h3>
 			 <h2 class="heading">
 				ABOUT IES (INDIAN ENGINEERING SERVICES)
 
 			 </h2>
 			<p class="read">
-				Indian Engineering Services (IES) Exam also called as Engineering Services (ES) Exam is a premier competitive Examination conducted every year by the Union Public Service Commission (UPSC) for recruitment to the Indian Engineering Services.
+				Indian Engineering Services (IES) Exam also called as Engineering Services (ES) Exam is a premier competitive Examination conducted every year by the Union Public Service Commission (UPSC) for recruitment to the Indian Engineering Services. 
 			</p>
 
 			<p class="read">
@@ -55,7 +55,7 @@
 			</div>
 
 			<div id="two" class="vtab-content">
-				<h3 class="heading">Eligibility</h3>
+				<h3 class="heading">ELIGIBILITY for IES Exam</h3>
 			   <!--<h2 class="heading">
 				  ABOUT IES (INDIAN ENGINEERING SERVICES)
   
@@ -74,10 +74,10 @@
 			  </p>
 			  <h3>Tentative Time Table</h3>
 			  <p class="read">
-					Date of notification : 28th SEPTEMBER<br>
-					Last data for receipt for application : 21st OCTOBER<br>
-					ENGINEERING SERVICES (PRELIMS) : 8th JANUARY<br>
-					ENGINEERING SERVICES (MAINS) : 14th MAY<br>
+					Date of notification : SEPTEMBER<br>
+					Last data for receipt for application : OCTOBER<br>
+					ENGINEERING SERVICES (PRELIMS) : JANUARY<br>
+					ENGINEERING SERVICES (MAINS) : MAY<br>
 			  </p>
 			  
 			  </div>
