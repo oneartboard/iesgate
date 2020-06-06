@@ -179,11 +179,645 @@
 			   <div id="five" class="vtab-content">
 			
 				<h2 class="heading">
-				   MARKS SECURED BY THE LAST FINALLY RECOMMENDED CANDIDATES (OUT OF 1200)
+				   IES CUT-OFF
    
 				</h2>
-			   <img src="img/cutoff1.png">
-			   <img src="img/cutoff2.png">
+			   <p>
+			<strong>CUT-OFF MARKS-2018</strong></p>
+		<table border="1" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td colspan="7" style="width:623px;">
+						<p align="center">
+							<strong>Preliminary / Stage-I (Objective Type Papers)</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td rowspan="2" style="width:89px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							<strong>STREAM</strong></p>
+					</td>
+					<td colspan="6" style="width:534px;">
+						<p align="center">
+							<strong>Minimum Qualifying Standards/Marks for admission to mains/Stage-II</strong></p>
+						<p align="center">
+							<strong>(Out of 500 Marks)</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p align="center">
+							GEN</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							OBC</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							SC</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							ST</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							PH-I</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							PH-3</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p align="center">
+							<strong>CE</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							207</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							194</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							169</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							188</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							114</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							087</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p align="center">
+							<strong>ME</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							256</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							255</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							220</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							223</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							138</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							098</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p align="center">
+							<strong>EE</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							230</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							218</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							190</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							191</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							127</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							071</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p align="center">
+							<strong>EC</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							213</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							206</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							173</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							155</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							125</p>
+					</td>
+					<td style="width:89px;">
+						<p align="center">
+							----</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			NOTE: Subject to candidates (General, OBC, SC and ST) having secured minimum 15% Marks and PH candidates minimum 10% marks in each of the two objective papers.</p>
+		<table border="1" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td colspan="7" style="width:623px;">
+						<p align="center">
+							<strong>Mains/Stage-II (Conventional Type Paper)</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td rowspan="2" style="width:89px;">
+						<p>
+							<strong>Stream</strong></p>
+					</td>
+					<td colspan="6" style="width:534px;">
+						<p align="center">
+							<strong>Minimum Qualifying Standards/Marks{Out of 1100 Marks (500 Marks of Preliminary/Stage-I + 600 Marks of Mains/Stage-II)}</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							GEN</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							OBC</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							SC</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							ST</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							PH-1</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							PH-3</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>CE</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							546</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							502</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							467</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							513</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							318</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							161</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>ME</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							611</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							611</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							542</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							564</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							374</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							288</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>EE</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							541</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							488</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							452</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							481</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							303</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							----</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>EC</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							504</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							476</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							405</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							403</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							301</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							----</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			<strong>NOTE:</strong> Subject to candidates (General, OBC, SC and ST) having secured minimum 20% Marks and PH candidates minimum 10% marks in each of the two conventional papers.</p>
+		<table border="1" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td colspan="7" style="width:623px;">
+						<p>
+							<strong>Final Stage /Stage-III</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td rowspan="2" style="width:89px;">
+						<p>
+							<strong>Stream</strong></p>
+					</td>
+					<td colspan="6" style="width:534px;">
+						<p>
+							<strong>Marks Secured by the Last Recommended Candidate(Out of 1300 Marks)</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							GEN</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							OBC</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							SC</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							ST</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							PH-1</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							PH-3</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>CE</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							710</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							676</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							609</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							671</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							476</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							425</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>ME</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							767</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							782</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							699</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							699</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							505</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							551</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>EE</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							711</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							691</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							603</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							624</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							473</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							----</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:89px;">
+						<p>
+							<strong>EC</strong></p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							660</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							648</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							567</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							524</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							429</p>
+					</td>
+					<td style="width:89px;">
+						<p>
+							----</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p align="center">
+			<strong>The All India 1<sup>st</sup> Ranker in ESE-2018 Secured following marks</strong></p>
+		<p align="center">
+			<strong>(Written Exam: 1100 Marks; Interview: 200 Marks; Total: 1300 Marks)</strong></p>
+		<table border="1" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td style="width:84px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							<strong>AIR</strong></p>
+						<p align="center">
+							&nbsp;</p>
+					</td>
+					<td style="width:216px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							<strong>DISCIPLINE (ENGG)</strong></p>
+					</td>
+					<td style="width:102px;">
+						<p align="center">
+							<strong>WRITTEN EXAM MARKS</strong></p>
+					</td>
+					<td style="width:107px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							<strong>INTERVIEW</strong></p>
+					</td>
+					<td style="width:115px;">
+						<p align="center">
+							&nbsp;</p>
+						<p align="center">
+							<strong>TOTAL</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:84px;">
+						<p align="center">
+							1</p>
+					</td>
+					<td style="width:216px;">
+						<p align="center">
+							CIVIL ENGG</p>
+					</td>
+					<td style="width:102px;">
+						<p align="center">
+							744</p>
+					</td>
+					<td style="width:107px;">
+						<p align="center">
+							130</p>
+					</td>
+					<td style="width:115px;">
+						<p align="center">
+							874</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:84px;">
+						<p align="center">
+							1</p>
+					</td>
+					<td style="width:216px;">
+						<p align="center">
+							MECH ENGG</p>
+					</td>
+					<td style="width:102px;">
+						<p align="center">
+							758</p>
+					</td>
+					<td style="width:107px;">
+						<p align="center">
+							128</p>
+					</td>
+					<td style="width:115px;">
+						<p align="center">
+							886</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:84px;">
+						<p align="center">
+							1</p>
+					</td>
+					<td style="width:216px;">
+						<p align="center">
+							ELECTRICAL ENGG</p>
+					</td>
+					<td style="width:102px;">
+						<p align="center">
+							729</p>
+					</td>
+					<td style="width:107px;">
+						<p align="center">
+							110</p>
+					</td>
+					<td style="width:115px;">
+						<p align="center">
+							839</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:84px;">
+						<p align="center">
+							1</p>
+					</td>
+					<td style="width:216px;">
+						<p align="center">
+							E &amp; T</p>
+					</td>
+					<td style="width:102px;">
+						<p align="center">
+							610</p>
+					</td>
+					<td style="width:107px;">
+						<p align="center">
+							136</p>
+					</td>
+					<td style="width:115px;">
+						<p align="center">
+							746</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
 			   </div>
 		</div>
 		
