@@ -332,13 +332,6 @@ blockquote.quote {
     color: #06218F;
 }
 
-.sqbox {
-    background: url(../img/qbox.png) center no-repeat;
-    width: 100%;
-    /* height: 280px; */
-    border-radius: 30px;
-    padding: 50px 130px;
-}
 
 .swiper-pagination.custom {
     left: 0;
