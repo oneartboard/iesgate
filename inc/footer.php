@@ -34,14 +34,14 @@
 						<h4>Quick Links</h4>
 						<li><a href="ies.php">IES</a></li>
 						<li><a href="gate.php">GATE</a></li>
-						<li><a href="psu.php">PSUs</a></li>
+						<li><a href="PSUs.php">PSUs</a></li>
 						<li><a href="">Courses</a></li>
 						<li><a href="classroom-course.php">- Classroom Courses</a></li>
 						<li><a href="liveroom.php">- Online Live Classes</a></li>
 						<li><a href="online-test.php">- Online Test Series  </a></li>
 						<li><a href="batches.php">Batches & Fee Structure</a></li>
 						<li><a href="contact.php">Contact us</a></li>
-						<li><a href="enquiry.php">Enquiry</a></li>
+						<li><a href="enquire.php">Enquiry</a></li>
 						
 					</ul>
 				</div>

@@ -11,8 +11,8 @@
 					<div class="menu-item">
 						<a href="#">Online admission</a>
 						<a href="#">Student Portal</a>
-						<a href="online-test.html">Online Test Series</a>
-						<a href="liveroom.html">Live Online Classes</a>
+						<a href="online-test.php">Online Test Series</a>
+						<a href="liveroom.php">Live Online Classes</a>
 					</div>
 			</div>
 			</ul>
@@ -34,7 +34,7 @@
 					<ul class="navbar-items">
 						<li><a href="ies.php">IES</a></li>
 						<li><a href="gate.php">GATE</a></li>
-						<li><a href="psu.php">PSUs</a></li>
+						<li><a href="PSUs.php">PSUs</a></li>
 					
 						<li class="drop">
 							<a href="#" class="click-me">
@@ -50,7 +50,7 @@
 
 						<li><a href="batches.php">Batches & Fee Structure</a></li>
 						<li><a href="contact.php">Contact us</a></li>
-						<li><a href="enquiry.php">Enquiry</a></li>
+						<li><a href="enquire.php">Enquiry</a></li>
 					</ul>
 				
 			</nav>
