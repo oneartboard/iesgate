@@ -24,19 +24,19 @@
 				Gate Coaching Chennai
 
 			</h4>
-		  <li><a class="active" href="#/one"> What is GATE?</a></li>
+		  <li><a class="active" href="#/one"> What is GATE Exam?</a></li>
+		  <li><a href="#/three"> GATE structure</a></li>
 		  <li><a href="#/two"> ELIGIBILITY for GATE</a></li>
-		  <li><a href="#/three"> STRUCTURE & PATTERN OF THE GATE</a></li>
-		  <li><a href="#/four"> Advantages of GATE Coaching</a></li>
-		  <li><a href="#/five"> GATE Difficulty Level</a></li>
+		  <li><a href="#/four"> Advantages of GATE</a></li>
+		  <li><a href="#/five"> Type of questions</a></li>
 		  <li><a href="#/six"> GATE CUTOFF MARKS</a></li>
-		  <li><a href="#/seven"> GATE STATISTICS</a></li>
+		  <li><a href="#/seven"> List of colleges offering M.Tech Courses</a></li>
 		</ul>
 		
 		<div id="content">
 
 		  <div id="one" class="vtab-content">
-			  <h3>What is GATE?			</h3>
+			  <h3>What is GATE Exam?			</h3>
 			 <h2 class="heading">
 				GATE (GRADUATE APTITUDE TEST IN ENGINEERING)
 

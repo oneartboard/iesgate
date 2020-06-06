@@ -25,13 +25,10 @@
 
 			</h4>
 		  <li><a class="active" href="#/one"> What is PSU?</a></li>
-		  <li><a href="#/two"> MAHARATNA</a></li>
-		  <li><a href="#/three"> NABRATNA</a></li>
-		  <li><a href="#/four"> MINIRATNA CATEGORY - 1</a></li>
-		  <li><a href="#/five"> MINIRATNA CATEGORY - 2</a></li>
-		  <li><a href="#/six"> PSUs THROUGH GATE SCORE</a></li>
-		  <li><a href="#/seven"> PSUs THROUGH INDIVIDUAL WRITTEN TEST</a></li>
-		  <li><a href="#/eight"> PSUs ELIGIBILITY WITH ACADEMIC PERCENTAGE & AGE CRITERIA</a></li>
+		  <li><a href="#/two"> LIST and CATEGORIES OF PSUs</a></li>
+		  <li><a href="#/three"> PSUs THROUGH GATE SCORE</a></li>
+		  <li><a href="#/four"> PSUs THROUGH INDIVIDUAL WRITTEN TEST</a></li>
+		  <li><a href="#/five"> PSUs ELIGIBILITY WITH ACADEMIC PERCENTAGE & AGE CRITERIA</a></li>
 		</ul>
 		
 		<div id="content">
@@ -52,82 +49,38 @@
 			<p class="read">
 				Usually these companies release their recruitment notifications right after GATE notification, indicating that candidates have to take GATE for a job in their organizations. Thus, GATE score is used as a screening tool for recruiting engineers at entry level positions.
 
-
 			</p>
-			
 			</div>
 
 			<div id="two" class="vtab-content">
-				
 			   <h2 class="heading">
 				  MAHARATNA
 			   </h2>
 			   <h4>List of Maharatna Companies</h4>
 			   <img src="img/maha.png">
-			  
 			  </div>
-
 			  <div id="three" class="vtab-content">
-			
-			   <h2 class="heading">
-				  NAVRATNA
-			   </h2>
-			   <h4>List of Navratna Companies</h4>
-			   <img src="img/nav.png">
-			  
+				   <h2 class="heading">
+					  NAVRATNA
+				   </h2>
+				   <h4>List of Navratna Companies</h4>
+				   <img src="img/nav.png">
 			   </div>
-
 			   <div id="four" class="vtab-content">
-			
-			   <h2 class="heading">
-				  MINIRATNA CATEGORY - I
-			   </h2>
-			   <h4>List of Miniratna Category - I Companies</h4>
-			   <img src="img/mini1.png">
-			   <img src="img/mini2.png">
-			  
+				   <h2 class="heading">
+					  MINIRATNA CATEGORY - I
+				   </h2>
+				   <h4>List of Miniratna Category - I Companies</h4>
+				   <img src="img/mini1.png">
+				   <img src="img/mini2.png">
 			   </div>
 
 			   <div id="five" class="vtab-content">
-			
-			   <h2 class="heading">
-				  MINIRATNA CATEGORY - II
-			   </h2>
-			   <h4>List of Miniratna Category - I Companies</h4>
-			   <img src="img/mini3.png">
-			  
-			   </div>
-
-			   <div id="six" class="vtab-content">
-			
-			   <h2 class="heading">
-				  PSUs THROUGH GATE SCORE
-			   </h2>
-			   <h4>List of Miniratna Category - I Companies</h4>
-			   <img src="img/score1.png">
-			   <img src="img/score2.png">
-			  
-			   </div>
-
-			   <div id="seven" class="vtab-content">
-			
-			   <h2 class="heading">
-				  PSUs THROUGH INDIVIDUAL WRITTEN TEST
-			   </h2>
-			   <h4>List of Miniratna Category - I Companies</h4>
-			   <img src="img/wri1.png">
-			   <p class="read">VIZAG STEEL PLANT, JINDAL, RELIANCE, GE, L & T, Mahindra & Mahindra.</p>
-			  
-			   </div>
-
-			   <div id="eight" class="vtab-content">
-			
-				<h2 class="heading">
-				   PSUs ELIGIBILITY WITH ACADEMIC PERCENTAGE & AGE CRITERIA
-   
-				</h2>
-			   <img src="img/aca1.png">
-			    <img src="img/aca2.png">
+				   <h2 class="heading">
+					  MINIRATNA CATEGORY - II
+				   </h2>
+				   <h4>List of Miniratna Category - I Companies</h4>
+				   <img src="img/mini3.png">
 			   </div>
 		</div>
 	  </div>
