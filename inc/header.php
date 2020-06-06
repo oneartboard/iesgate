@@ -41,16 +41,16 @@
 								Courses
 							</a>
 							<ul class="drop-menu">
-							  <li><a href="classroom-course.html">Classroom Course</a></li>
+							  <li><a href="classroom-course.php">Classroom Course</a></li>
 
-							  <li><a href="liveroom.html">Liveroom Course</a></li>
+							  <li><a href="liveroom.php">Liveroom Course</a></li>
 							  
 							</ul>
 
 
-						<li><a href="batches.html">Batches & Fee Structure</a></li>
-						<li><a href="">Contact us</a></li>
-						<li><a href="">Enquiry</a></li>
+						<li><a href="batches.php">Batches & Fee Structure</a></li>
+						<li><a href="contact.php">Contact us</a></li>
+						<li><a href="enquiry.php">Enquiry</a></li>
 					</ul>
 				
 			</nav>
