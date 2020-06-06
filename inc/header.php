@@ -22,7 +22,7 @@
 		<div class="c-container">
 			<nav class="c-navbar">
 				<div class="logo">
-					<a href="index.html">
+					<a href="index.php">
 					<img class="logo-img" src="img/IES Logo 1 White.png" alt="">
 
 					</a>
@@ -33,9 +33,9 @@
 				</div>
 	
 					<ul class="navbar-items">
-						<li><a href="ESE.html">ESE</a></li>
-						<li><a href="GATE.html">GATE</a></li>
-						<li><a href="PSUs.html">PSUs</a></li>
+						<li><a href="ies.php">IES</a></li>
+						<li><a href="gate.php">GATE</a></li>
+						<li><a href="psu.php">PSUs</a></li>
 					
 						<li class="drop">
 							<a href="#" class="click-me">
