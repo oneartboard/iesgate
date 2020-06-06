@@ -13,6 +13,7 @@
 	<title>IES GATE ACADEMY</title>
 </head>
 <?php include 'inc/header.php' ?>
+<section class="hero-banner bg-gray ">
 	<div class="c-container text-center text-white spacer">
 		<h1 class="hero-title">
 			Aim GATE / ESE Examinations 
