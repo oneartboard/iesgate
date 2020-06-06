@@ -309,7 +309,7 @@ blockquote.quote {
     position: absolute;
     Z-INDEX: -1;
     top: -90px;
-    left: 50px;
+    left: 30px;
 }
 .enroll-box.right:before {
     content: '';
@@ -322,7 +322,7 @@ blockquote.quote {
     position: absolute;
     Z-INDEX: -1;
     top: -20px;
-    left: 15px;
+    left: 35px;
 }
 
 
@@ -698,6 +698,7 @@ blockquote.quote {
     color: #fff;
     border: none;
     border-radius: 10px;
+    font-weight: 700;
 }
 
 .user-box {
