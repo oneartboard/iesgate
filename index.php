@@ -102,16 +102,6 @@ best utilization of lockdown period
 			</div>
 			
 		</div>
-		<div class="cta-label">
-			<a href="enquire.html">
-				<img class="icon" width="12" src="img/double-arrow.svg" alt="">
-				Enquire Now
-			</a>
-			<a href="enroll-now.html">
-		<img class="icon" width="12" src="img/double-arrow.svg" alt="">
-		Enroll Now
-			</a>
-		</div>
 	</section>
 <section style="background-color: #FFF2EC;" class="class-bg">
 	<div class="c-container spacer" >
