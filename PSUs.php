@@ -13,6 +13,9 @@
 	<title>PSU Coaching Chennai	</title>
 </head>
 <?php include 'inc/header.php' ?>
+<div class="banner-top">
+		<img class="width100" src="img/sb3.png" alt="">
+	</div>
 <div class="c-container spacer">
 	<div class="vwrap">
   
