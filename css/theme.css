@@ -10,6 +10,9 @@ body {
 h1,h2,h3,h4 {
     font-family: 'Montserrat', sans-serif;
 }
+.opan-sans {
+    font-family: 'Open Sans', sans-serif;
+}
 
 
 :root {
@@ -187,7 +190,7 @@ body {
     width: 100%;
     height: 100%;
     background-size: 100% 100%;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
 }
 .mt0 {
     margin-top: 0 !important;
@@ -255,13 +258,13 @@ blockquote.quote {
 }
 .simple-list li {
     padding: 8px 0;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.5;
 }
 .title {
     margin-top: 0;
     margin-bottom: 30px;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .heading {
@@ -319,7 +322,7 @@ blockquote.quote {
     position: absolute;
     Z-INDEX: -1;
     top: -20px;
-    left: 44px;
+    left: 15px;
 }
 
 
@@ -346,9 +349,8 @@ blockquote.quote {
 .custom .swiper-pagination-bullet {
     margin-left: 6px;
     margin-right: 6px;
-    width: 12px;
-    height: 12px;
-   
+    width: 18px;
+    height: 18px;
 }
 .mb20 {
     margin-bottom: 20px;
@@ -571,7 +573,11 @@ blockquote.quote {
 .toppers-list li {
     padding: 10px;
     width: 200px;
-   margin: 15px;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--theme-color);
+    text-align: center;
 }
 .toppers-list li img{
     width: 100%;
@@ -861,9 +867,15 @@ ul.vtabs {
     /* display: none; */
 }
 .read {
-    font-size: 17px;
+    font-size: 18px;
     line-height: 1.9;
 }
+
+p{
+    font-size: 18px;
+
+}
+
 ul.vtabs li a {
     position: relative;
     display: block;
@@ -982,3 +994,31 @@ ul.vtabs li a.active {
     font-size: 18px;
     border-radius: 3px;
  }
+
+ .live-span  {
+     position: relative;
+     color: red;
+ }
+
+ .live-span:before {
+    content: '';
+    --size: 8px;
+    width: var(--size);
+    height: var(--size);
+    display: block;
+    position: absolute;
+    background: red;
+    /* border-radius: 50%; */
+    left: -10px;
+    top: 8px;
+ }
+
+ .class-bg {
+     background: url(../img/Classroom-course.png);
+     background-repeat: no-repeat;
+    background-position: right 65px;
+ }
+
+ .swiper-sq .swiper-slide img{
+     width: 100%;
+ } 
