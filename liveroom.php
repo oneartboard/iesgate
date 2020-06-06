@@ -826,7 +826,7 @@ understanding of the concepts.
 				   Thanks to Ies gate academy.
 				 </p>
 				 <div class="user-box">
-					<img style="border-radius: 50%" src="img/user1.jpg" alt="">
+					<img style="border-radius: 50%" src="img/user1.JPG" alt="">
 					<h4>KARAN H DAXINI</h4>
 				 </div>
 				
