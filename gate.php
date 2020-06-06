@@ -41,20 +41,114 @@
 				GATE (GRADUATE APTITUDE TEST IN ENGINEERING)
 
 			 </h2>
-			<p class="read">
-				Graduate Aptitude Test in Engineering (GATE) is an All-India Examination administered and conducted jointly by the Indian Institute of Science, Bangalore and seven Indian Institutes of Technology on behalf of the National Coordinating Board - GATE, Department of Education, Ministry of Human Resources Development (MHRD), Government of India. 
-			</p>
-
-			<p class="read">
-				It is conducted by a different institute every year among the 7 IITs & IISc, Bangalore. GATE Notification comes in the month of September and Test is conducted normally in the month of February and the Results are announced in the month of march every year.
-			</p>
-			<p class="read">
-				GATE has become online now for all the 23 disciplines of Engineering. Candidates have to apply GATE through online. The application fee is Rs.1500/- for General/OBC and Rs.750/- for SC/ST/PwD* categories and female applicants of any category.<br>
-
-				GATE SCORE is valid for 3 years and there is no restriction on number of attempts.
-
-
-			</p>
+			<p>
+			<strong>Graduate Aptitude Test in Engineering</strong> (GATE), is an All-India Examination administered and conducted jointly by the Indian Institute of Science, Bangalore and seven Indian Institutes of Technology on behalf of the National Coordinating Board - GATE, Department of Education, Ministry of Human Resources Development (MHRD), Government of India.</p>
+		<p>
+			It is conducted by a different institute every year among the 7 IITs &amp; IISc, Bangalore.</p>
+		<p>
+			The following table shows the organizing institutes in various years:</p>
+		<table align="center" border="1" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							<strong>Year</strong></p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							<strong>Organizing Institute</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2020</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IIT Delhi</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2019</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IIT Madras</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2018</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IIT Guwahati</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2017</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IIT Roorkee</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2016</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IISC Bangalore</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2015</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IIT Kanpur</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2014</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IIT Kharagpur</p>
+					</td>
+				</tr>
+				<tr>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							2013</p>
+					</td>
+					<td style="width:186px;height:17px;">
+						<p align="center">
+							IIT Bombay</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<div style="clear:both;">
+			&nbsp;</div>
+		<p>
+			<strong>GATE Notification comes in the month of September and Test is conducted normally in the month of February and the Results are announced in the month of march every year.</strong></p>
+		<p>
+			GATE has become online now for all the 24 disciplines of Engineering. Candidates have to apply GATE through online. The application fee is Rs.1500/- for General/OBC and Rs.750/- for SC/ST/PwD* categories and female applicants of any category.</p>
+		<p>
+			GATE SCORE is valid for 3 years and there is no restriction on number of attempts.</p>
 			
 			</div>
 
