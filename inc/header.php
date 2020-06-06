@@ -1,5 +1,4 @@
 <body style="background-color: #FFF2EC;">
-	<section class="hero-banner bg-gray ">
 	                                                     
 	<header>
 		<div class="stripbar">
