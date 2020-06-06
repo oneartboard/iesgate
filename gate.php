@@ -834,54 +834,94 @@
 			   <div id="seven" class="vtab-content">
 			
 				<h2 class="heading">
-				   GATE STATISTICS
+				   List of Colleges offering M.Tech Courses
    
 				</h2>
-				<img src="img/stats1.png">
-				<img src="img/stats2.png">
-				<img src="img/stats3.png">
+				<p>
+			<strong>List of colleges offering M.Tech Courses:</strong></p>
+		<ul>
+			<li>
+				Indian Institute of Science, Bangalore, Karnataka.</li>
+			<li>
+				Indian Institute of Technology, New Delhi.</li>
+			<li>
+				Indian Institute of Technology, Guwahati.</li>
+			<li>
+				Indian Institute of Technology, Kanpur, Uttar Pradesh.</li>
+			<li>
+				Indian Institute of Technology, Kharagpur, West Bengal.</li>
+			<li>
+				Indian Institute of Technology, Chennai.</li>
+			<li>
+				Indian Institute of Technology, Powai, Mumbai.</li>
+			<li>
+				Indian Institute of Technology, Roorkee.</li>
+			<li>
+				IIT Gandhinagar, Gujarat</li>
+			<li>
+				IIT Punjab&nbsp;</li>
+			<li>
+				IIT Patna, Bihar</li>
+			<li>
+				IIT Rajasthan</li>
+			<li>
+				IIT Bhubaneswar, Orissa</li>
+			<li>
+				IIT Hyderabad, Telangana&nbsp;</li>
+			<li>
+				Institute of Technology, Banaras Hindu University, Varanasi.</li>
+			<li>
+				Indian School of Mines, Dhanbad</li>
+		</ul>
+		<p>
+			<strong><u>List of NITs:</u></strong></p>
+		<ul>
+			<li>
+				Motilal Nehru National Institute of Technology, Allahabad (Uttar Pradesh)</li>
+			<li>
+				Maulana Azad National Institute of Technology, Bhopal (Madhya Pradesh)</li>
+			<li>
+				National Institute of Technology, Calicut (Kerala)</li>
+			<li>
+				National Institute of Technology, Durgapur (West Bengal)</li>
+			<li>
+				National Institute of Technology, Hamirpur (Himachal Pradesh)</li>
+			<li>
+				Malviya National Institute of Technology, Jaipur (Rajasthan)</li>
+			<li>
+				Dr. B R Ambedkar National Institute of Technology, Jalandhar (Punjab)</li>
+			<li>
+				National Institute of Technology, Jamshedpur (Jharkhand)</li>
+			<li>
+				National Institute of Technology, Kurukshetra (Haryana)</li>
+			<li>
+				Visvesvaraya National Institute of Technology, Nagpur (Maharashtra)</li>
+			<li>
+				National Institute of Technology, Patna (Bihar)</li>
+			<li>
+				National Institute of Technology, Rourkela (Orissa)</li>
+			<li>
+				National Institute of Technology, Silchar (Assam)</li>
+			<li>
+				National Institute of Technology, Hazartbal, Srinagar (J &amp; K)</li>
+			<li>
+				National Institute of Technology, Surathkal (Karnataka)</li>
+			<li>
+				Sardar Vallabhbhai National Institute of Technology, Surat (Gujarat)</li>
+			<li>
+				National Institute of Technology, Tiruchirappalli (Tamil Nadu)</li>
+			<li>
+				National Institute of Technology, Warangal (Andhra Pradesh)</li>
+			<li>
+				National Institute of Technology (NIT), Raipur, Chhattisgarh</li>
+			<li>
+				National Institute of Technology (NIT), Tripura, Agartala</li>
+		</ul>
+		<p>
+			Candidates who qualify GATE exam have to further participate in the counselling and seat allotment process conducted by COAP (Common Offer Acceptance Portal) and CCMT (Centralized Counselling for MTech).&nbsp;</p>
+	</body>
+</html>
 
-				<h4 class="heading">
-				   GATE Coaching Chennai
-   
-				</h4>
-			   <p class="read">
-				   IES GATE ACADEMY is the one of the best Institute for GATE Coaching in Chennai. Gate coaching classes are handled by expert faculty members.
-			   </p>
-			   <h4>List of colleges offering M.Tech Courses:</h4>
-			   <ol>
-			   	<li> Indian Institute of Science, Bangalore, Karnataka.</li>
-				<li> Indian Institute of Technology, New Delhi.</li>
-				<li> Indian Institute of Technology, Kanpur, Uttar Pradesh.</li>
-				<li> Indian Institute of Technology, Kharagpur, West Bengal.</li>
-				<li> Indian Institute of Technology, Chennai.</li>
-				<li> Indian Institute of Technology, Powai, Mumbai.</li>
-				<li> Indian Institute of Technology, Roorkee.</li>
-				<li> IIT Gandhinagar, Gujarat</li>
-				<li> IIT Patna, Bihar</li>
-				<li> IIT Rajasthan</li>
-				<li> IIT Bhubaneswar, Orissa</li>
-				<li> Institute of Technology, Banaras Hindu University, Varanasi.</li>
-				<li> Indian School of Mines, Dhanbad </li>
-			   </ol>
-
-			   <h4>List of NITs</h4>
-			   <ol>
-			   	<li> Motilal Nehru National Institute of Technology, Allahabad (Uttar Pradesh)</li>
-				<li> Maulana Azad National Institute of Technology, Bhopal (Madhya Pradesh)</li>
-				<li> National Institute of Technology, Durgapur (West Bengal)</li>
-				<li> National Institute of Technology, Hamirpur (Himachal Pradesh)</li>
-				<li> Malviya National Institute of Technology, Jaipur (Rajasthan)</li>
-				<li> Dr. B R Ambedkar National Institute of Technology, Jalandhar (Punjab)</li>
-				<li> National Institute of Technology, Jamshedpur (Jharkhand)</li>
-				<li> National Institute of Technology, Kurukshetra (Haryana)</li>
-				<li> National Institute of Technology, Patna (Bihar)</li>
-				<li> National Institute of Technology, Rourkela (Orissa)</li>
-				<li> National Institute of Technology, Silchar (Assam)</li>
-				<li> National Institute of Technology, Hazartbal, Srinagar (J & K)</li>
-				<li> National Institute of Technology, Surathkal (Karnataka)</li>
-				<li> SardarVallabhbhai National Institute of Technology, Surat (Gujarat)</li>
-			   </ol>
 			   </div>
 		</div>
 		
