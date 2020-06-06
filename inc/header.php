@@ -57,11 +57,11 @@
 		</div>
 	</header>
 	<div class="cta-label">
-			<a href="enquire.html">
+			<a href="enquire.php">
 				<img class="icon" width="12" src="img/double-arrow.svg" alt="">
 				Enquire Now
 			</a>
-			<a href="enroll-now.html">
+			<a href="enroll-now.php">
 		<img class="icon" width="12" src="img/double-arrow.svg" alt="">
 		Enroll Now
 			</a>
