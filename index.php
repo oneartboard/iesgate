@@ -26,11 +26,11 @@
 				Crack it with our
 			</h3>
 			<div class="or-devide">
-				<a href="classroom-course.html">
+				<a href="classroom-course.php">
 					CLASSROOM Course
 				</a>
 				<div class="or">Or</div>
-				<a href="liveroom.html"><span class="live-span">LIVE</span>ROOM Course </a>
+				<a href="liveroom.php"><span class="live-span">LIVE</span>ROOM Course </a>
 
 			</div>
 		</div>
@@ -412,7 +412,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE ME 2021 Test Series 60+ Total Tests
+									IES ME 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -1238,7 +1238,7 @@ understanding of the concepts.
 <section class="live-course text-center">
 
 	<h3 class="lead" style="font-size: 28px;">Click here to know about our</h3>
-	<a href="liveroom.html" style="color: #000; text-decoration: none;">
+	<a href="liveroom.php" style="color: #000; text-decoration: none;">
 	<h1 style="font-size: 36px;"><span style="color: #FF0000;">LIVE</span>ROOM Course</h1>
 </a>
 	<h3 class="lead" style="font-size: 28px;">(Exclusive Online Live Classes)</h3>

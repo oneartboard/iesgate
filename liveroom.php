@@ -468,7 +468,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE ME 2021 Test Series 60+ Total Tests
+									IES ME 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -521,7 +521,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE CE 2021 Test Series 60+ Total Tests
+									IES CE 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -802,7 +802,7 @@ understanding of the concepts.
 		Your browser does not support the video tag.
 	  </video>
 <center>
-	<a href="batches.html"><button class="btn-big ">
+	<a href="batches.php"><button class="btn-big ">
 		View Batches & Fee Structure
 	  </button></a>
 </center>

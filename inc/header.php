@@ -9,7 +9,7 @@
 						<img class="menu-icon" src="img/icons/menu-icon.svg" alt="">
 					</div>
 					<div class="menu-item">
-						<a href="#">Online admission</a>
+						<a href="enroll-now.php">Online admission</a>
 						<a href="#">Student Portal</a>
 						<a href="online-test.php">Online Test Series</a>
 						<a href="liveroom.php">Live Online Classes</a>
@@ -44,6 +44,7 @@
 							  <li><a href="classroom-course.php">Classroom Course</a></li>
 
 							  <li><a href="liveroom.php">Liveroom Course</a></li>
+							  <li><a href="online-test.php">Online Test Series</a></li>
 							  
 							</ul>
 
