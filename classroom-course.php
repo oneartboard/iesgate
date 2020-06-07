@@ -12,52 +12,48 @@
 	
 	<title>IES GATE ACADEMY</title>
 </head>
+
 <?php include 'inc/header.php' ?>
-		<div class="c-container  spacer " >
-			<h2 class="heading text-center no-margin" data-scroll>
-				CLASSROOM COURSE
-			</h2>
-			<p class="lead text-center" style="font-size: 26px;
-			margin-top: 10px;
-		">
-				(Intensive Classroom Training)
-			</p>
-	
-	
-			<div class="flex-row">
-				<div class="flex-col">
-					
-						<h2 class="" style="color: #227E84;font-size: 30px;">
-							What you’ll get
-						</h2>
-					</span>
+
+<section style="background-color: #FFF2EC;" class="class-bg" >
+	<div class="c-container" >
+		<center>
+		<h2 class="heading text-center" style="margin-bottom:0">
+			CLASSROOM COURSE
+		</h2>
+		<p class="lead text-center" style="font-size: 26px;
+		margin-top: 10px;
+	">
+			(Intensive Classroom Training)
+		</p>
+		</center>
+		<div class="flex-row">
+			<div class="flex-col">
 				
-					<ul class="simple-list semibold">
-						<li>Intensive Classroom Training</li>
-						<li>Study Materials</li>
-						<li>Online Lectures</li>
-						<li>Doubts Sessions</li>
-						<li>Discussion Forum</li>
-						<li>Online Practice tests & quizzes</li>
-						<li>Online Test Series</li>
-						<li>Personal Mentoring & Monitoring</li>
-					</ul>
-	
-				</div>
-				<div class="flex-col" style="align-self: flex-end;width: 60%;">
-					
-				</div>
-	
+					<h2 class="" style="color: #227E84;font-size: 30px;">
+						What you’ll get
+					</h2>
+				</span>
+			
+				<ul class="simple-list semibold">
+					<li>Intensive Classroom Training</li>
+					<li>Study Materials</li>
+					<li>Online Lectures</li>
+					<li>Doubts Sessions</li>
+					<li>Discussion Forum</li>
+					<li>Online Practice tests & quizzes</li>
+					<li>Online Test Series</li>
+					<li>Personal Mentoring & Monitoring</li>
+				</ul>
+
 			</div>
+			<div class="flex-col" style="align-self: flex-end;width: 60%;">
+				
+			</div>
+
 		</div>
-	</section>
-	
-
-
-
-<section style="background-color: #FFF2EC;">
-
-
+	</div>
+<div class="spacer"></div>
 	<div class="c-container spacer">
 		<h2 class="title text-purple text-center">
 			Course Features
@@ -71,13 +67,13 @@
 			  <!-- Swiper -->
 			<div class="swiper-container swiper-sq">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide">
-						<img src="img/coursefeatureslider1.jpg" alt="">
-					</div>
-					<div class="swiper-slide sqbox">
-						<img src="img/course feature slider2.png" alt="">
-					</div>
-					
+			
+				<div class="swiper-slide">
+					<img src="img/quality-content.png" alt="">
+				</div>
+				<div class="swiper-slide sqbox">
+					<img src="img/course feature slider2.png" alt="">
+				</div>
 				
 				</div>
 				<!-- Add Pagination -->
@@ -92,22 +88,28 @@
 		<h2 class="heading c-container" style="text-align: left;">
 			Study Materials 
 		</h2>
-		<video class="video-loop" autoplay loop muted>
+		<video class="video-loop" autoPlay loop muted>
 			<source src="video/StudyMaterials.mp4" type="video/mp4" />
 			
 			Your browser does not support the video tag.
 		  </video>
+
+		<!-- <div class="stdc">
+			High quality study material prepared by
+subject experts covers essential theory
+with solved examples.
+		</div> -->
 	</div>
 
 </section>
 
 
 <section >
-	<div class="c-container spacer" >
+	<div class="c-container spacer" style="padding-top:0" >
 		<div class="flex-row">
 			<div class="flex-col col-6 pr120">
 				
-				<h2 class="heading">
+				<h2 class="heading" style="margin-top:0">
 					Online Lectures
 				</h2>
 			
@@ -125,8 +127,8 @@ online lectures by our expert faculty.
 				</ul>
 	
 			</div>
-			<div class="flex-col col-6" >
-				<img class="width100 " data-scroll src="img/onlinelectures.svg" alt="">
+			<div class="flex-col col-6  text-right" >
+				<img data-scroll src="img/onlinelectures.svg" width="75%" style="margin-top:60px;" alt="">
 			</div>
 	
 		</div>
@@ -134,7 +136,7 @@ online lectures by our expert faculty.
 	<div class="c-container spacer" >
 		<div class="flex-row align-center">
 			<div class="flex-col col-6" >
-				<h2 class="heading mb30">
+				<h2 class="heading mb30" style="margin-top: -100px">
 					Doubts Sessions
 				</h2>
 				<br>
@@ -150,8 +152,7 @@ online lectures by our expert faculty.
 						Preparation is incomplete without doubts.
 We provide three ways to clear your doubts.
 					</li>
-					<li>All the lectures are structured in line
-						according to your exam syllabus.1) Ask your doubts and get them answered
+					<li>1) Ask your doubts and get them answered
 						immediately by the faculty during class or
 						in break time. </li>
 					<li>
@@ -175,7 +176,7 @@ student community.
 
 	<div class="c-container spacer" >
 		<div class="flex-row">
-			<div class="flex-col col-6 ">
+			<div class="" style="width: 40%;">
 				
 				<h2 class="heading">
 					Discussion Forum
@@ -189,11 +190,14 @@ student community.
 				</ul>
 	
 			</div>
-			<div class="flex-col col-6" >
+			<div class="" style="width: 60%;" >
 				<ul class="simple-list space30 semibold">
 				
-					<li class="text-center">
-						<video class="video-loop" autoplay loop muted>
+					<li class="">
+						<video class="video-loop" autoPlay loop muted style="width: 82%;
+    text-align: right;
+    float: right;
+    margin-right: -40px;">
 							<source src="video/DiscussionForum.mp4" type="video/mp4" />
 							
 							Your browser does not support the video tag.
@@ -207,6 +211,7 @@ student community.
 	
 		</div>
 	</div>
+
 
 
 	<div class="c-container spacer" >
@@ -324,7 +329,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE ME 2021 Test Series 60+ Total Tests
+									IES ME 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -353,7 +358,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE CE 2021 Test series 140+ Total Tests
+									GATE CE 2021 Test series <br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -377,7 +382,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE CE 2021 Test Series 60+ Total Tests
+									IES CE 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -429,7 +434,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EE 2021 Test Series 60+ Total Tests
+									IES EE 2021 Test Series <br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -457,7 +462,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE EC 2021 Test series 140+ Total Tests
+									GATE EC 2021 Test series<br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -481,7 +486,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EC 2021 Test Series 60+ Total Tests
+									IES EC 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -509,7 +514,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE IN 2021 Test series 30+ Total Tests
+									GATE IN 2021 Test series<br> 30+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -527,7 +532,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE IN 2021 Test Series 60+ Total Tests
+									IES IN 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -554,7 +559,7 @@ understanding of the concepts.
 
 					  <div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE CS 2021 Test series 140+ Total Tests
+									GATE CS 2021 Test series<br> 140+ Total Tests
 
 								</h2>
 								<br>
@@ -584,7 +589,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE CH 2021 Test series 100+ Total Tests
+									GATE CH 2021 Test series<br> 100+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -610,7 +615,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE BT 2021 Test series 100+ Total Tests
+									GATE BT 2021 Test series<br> 100+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -636,7 +641,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE AE 2021 Test series 50+ Total Tests
+									GATE AE 2021 Test series<br> 50+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -670,7 +675,7 @@ understanding of the concepts.
 		Tests Features
 	</h2>
 	
-	<video class="video-loop" autoplay loop muted>
+	<video class="video-loop" autoPlay loop muted>
 		<source src="video/TestsFeautures.mp4" type="video/mp4" />
 		
 		Your browser does not support the video tag.
@@ -678,7 +683,7 @@ understanding of the concepts.
 </div>
 
 
-<div class="c-container spacer" style="padding-bottom: 0;">
+<div class="c-container spacer">
 	<h2 class="heading">
 		Personal Mentoring & Monitoring
 	</h2>
@@ -687,15 +692,13 @@ understanding of the concepts.
 		<!-- Swiper -->
 	  <div class="swiper-container swiper-sq2">
 		  <div class="swiper-wrapper">
-			<div class="swiper-slide">
-				<img src="img/personal mentor slid1.png" class="width100" alt="">
-			  </div>
-			  <div class="swiper-slide">
-				<img src="img/personal mentor slid2.png" class="width100" alt="">
-	
+		  <div class="swiper-slide">
+			<img src="img/personal mentor slid1.png" class="width100" alt="">
 		  </div>
-			  
+		  <div class="swiper-slide">
+			<img src="img/personal mentor slid2.png" class="width100" alt="">
 
+	  </div>
 		  
 		  </div>
 		  <!-- Add Pagination -->
@@ -704,13 +707,373 @@ understanding of the concepts.
 	  <div class="swiper-pagination custom"></div>
   
   </section>
-  <div class="text-center spacer">
-	<a href="batches.html"><button class="btn-big ">
-		View Batches &amp; Fee Structure
-	  </button></a>
-  </div>
- 
 </div>
+
+<section class="table-wrapper c-container spacer ">
+	<h2 class="title text-purple text-center">
+		What’s New
+	</h2>
+	<div class="announce-tabs" >
+	
+		<ul class="tabs clearfix" data-tabgroup="first-tab-group2">
+		  <li><a href="#tab11" class="active">  ANNOUNCEMENTS</a></li>
+		  <li><a href="#tab22">NOTIFICATIONS</a></li>
+		  
+	
+		</ul>
+	
+		<section id="first-tab-group2" class="tabgroup">
+		  <div id="tab11" class="c-tabs">
+			<div class="news-ticker-wrap">
+				<ul id="news-ticker">
+					<li>IES / GATE - 2021 Regular batch admission are in progress.</li>
+						<li>Hostel facility available.</li>
+						<li>2 Years classroom course for 2nd & 3rd year students.</li>
+						<li>GATE / IES - 2021 & 2022 Weekend batches admissions are in progress.</li>
+						<li>Online live classes admissions started for GATE & ESE.</li>
+						<li>Lockdown period for classroom  courses.</li>	
+				  </ul>
+			</div>
+			
+		  </div>
+		  <div id="tab22">
+			  <!-- NOTIFICATIONS -->
+		  </div>
+		  
+		</section>
+		
+	  </div>
+</section>
+
+
+<div class="table-wrapper c-container">
+	<h2 class="title text-purple text-center">
+		Course Details
+	</h2>
+
+
+	<ul class="tabs clearfix select-city" data-tabgroup="first-tab-group3">
+		<span class="s-label">SELECTED CITY  -</span>
+	  <li><a href="#chn" class="active">Chennai</a></li>
+	  <li><a href="#chn2">Coimbatore</a></li>
+
+	</ul>
+	<section id="first-tab-group3" class="tabgroup">
+	  <div id="chn" class="c-tabs">
+		<div class="">
+		
+			<center>
+				<br>
+				<h2 class="title text-theme">
+					Join Once, Learn Till You Get Placed
+				</h2>
+		
+				<h3>
+					Pay once, Attend the classes till you get your expected rank. <br>
+		No fee for Rank Improvement Program.
+				</h3>
+				<p class="lead" style="font-size: 18px;">
+					2nd / 3rd Year Students are advised to join early to manage time in final year.
+		No additional Fee will be charged for 2 years Classroom Course.
+		
+				</p>
+				<h2 class="text-theme semibold">
+					Exclusive Weekend & Regular Batches 
+				</h2>
+			</center>
+			<ul class="c-accr">
+				<li class="accr-li">
+					<h4  class="accr-heading">
+						Weekend Batch Details
+					</h4>
+
+					<div class="accr-item">
+						<h4>
+						Class Venue: T. Nagar
+						</h4>
+					
+							<h5>
+								Streams Offered
+							</h5>
+							<ul class="simple-list">
+							<li>
+							- Electronics & Communication Engineering (EC)
+							</li>
+							<li>
+								- Electrical & Electronics Engineering (EC)
+
+							</li>
+								<li>
+									- Instrumentation Engineering (IN)
+
+								</li>
+								<li>
+									- Civil Engineering (CE)
+
+								</li>
+								<li>
+							- Mechanical Engineering (ME)
+
+								</li>
+								<li>
+									- Computer Science Engineering (CS)
+
+								</li>
+								<li>
+							- Computer Science Engineering (CS)
+
+								</li>
+								<li>
+									- Information Technology (IT)
+
+								</li>
+								<li>
+									- Chemical Engineering (CH)
+
+								</li>
+								<li>
+									- Petroleum Engineering (PE)
+
+								</li>
+								<li>
+									- Bio-Technology (BT)
+
+								</li>
+								<li>
+									- Aerospace Engineering (AE)
+
+								</li>
+
+							</ul>
+					
+						<h3>Class Timings</h3>
+						<p>Saturday (5pm to 8pm) Sunday, Festival & Public Holidays (8AM to 7PM)</p>
+						<table style="width: 100%" class="accr-table">
+							  <tr>
+								<th>Exam</th>
+								<th>Duration</th> 
+								<th>Fee</th>
+							  </tr>
+							  <tr>
+									<td>GATE+PSUs-2021</td>
+									<td>Upto January 2021</td>
+									<td>Rs. 25,000/-</td>
+							  </tr>
+							  <tr>
+									<td>IES+GATE+PSUs-2021</td>
+									<td>Upto April 2021</td>
+									<td>Rs. 40,000/-</td>
+							  </tr>
+							  <tr>
+									<td>GATE+PSUs-2022</td>
+									<td>Upto January 2022</td>
+									<td>Rs. 25,000/-</td>
+							  </tr>
+							  <tr>
+									<td>IES+GATE+PSUs-2022</td>
+									<td>Upto April 2022</td>
+									<td>Rs. 40,000/-</td>
+							  </tr>
+							  
+					</table>
+		
+					<p> Note: Course fee includes registration fee, FST, Study materials, Test Series (Offline & Online)</p>
+		
+					</div>
+				</li>
+
+				<li class="accr-li">
+					<h4  class="accr-heading">
+						Regular Batch Details
+					</h4>
+
+				
+					<div class="accr-item">
+						<h4>
+						Class Venue: T. Nagar
+						</h4>
+						<h5>
+							Streams Offered
+						</h5>
+						<ul class="simple-list">
+							<li>
+								- Electronics & Communication Engineering (EC)
+
+							</li>
+							<li>
+							- Electrical & Electronics Engineering (EC)
+								
+							</li>
+							<li>
+							- Instrumentation Engineering (IN)
+								
+							</li>
+							<li>
+							- Civil Engineering (CE)
+								
+							</li>
+							<li>
+							- Mechanical Engineering (ME)
+								
+							</li>
+						</ul>
+						
+						
+						</p>
+						<h3>Class Timings</h3>
+						<p>5-6 days in a week and 6 to 8 hours per day.</p>
+						<table style="width: 100%" class="accr-table">
+							  <tr>
+								<th>Exam</th>
+								<th>Duration</th> 
+								<th>Fee</th>
+							  </tr>
+							  <tr>
+									<td>GATE+PSUs-2021</td>
+									<td>Upto December 2021</td>
+									<td>Rs. 40,000/-</td>
+							  </tr>
+							  <tr>
+									<td>IES+GATE+PSUs-2021</td>
+									<td>Upto April 2021</td>
+									<td>Rs. 50,000/-</td>
+							  </tr>
+							  
+							  
+					</table>
+		
+						<p> Note: Course fee includes registration fee, FST, Study materials, Test Series (Offline & Online)</p>
+		
+		
+					</div>
+				</li>
+			</ul>
+		</div>
+	  </div>
+
+	  
+	  <div id="chn2" class="c-tabs">
+		<div class="">
+		
+			<center>
+				<br>
+				<h2 class="title text-theme">
+					Join Once, Learn Till You Get Placed
+				</h2>
+		
+				<h3>
+					Pay once, Attend the classes till you get your expected rank. <br>
+		No fee for Rank Improvement Program.
+				</h3>
+				<p class="lead" style="font-size: 18px;">
+					2nd / 3rd Year Students are advised to join early to manage time in final year.
+		No additional Fee will be charged for 2 years Classroom Course.
+		
+				</p>
+				<h2 class="text-theme semibold">
+					Exclusive Weekend & Regular Batches
+				</h2>
+			</center>
+			<ul class="c-accr">
+				<li class="accr-li">
+					<h4  class="accr-heading">
+						Weekend Batch Details
+					</h4>
+
+					<div class="accr-item">
+						<h4>
+						Class Venue - Gandhipuram
+
+						</h4>
+					
+							<h5>
+								Streams Offered
+							</h5>
+							<ul class="simple-list">
+							<li>
+							Electronics & Communication Engineering (EC)
+
+
+							</li>
+							<li>
+							Electrical & Electronics Engineering (EE)
+
+							</li>
+								<li>
+								Instrumentation Engineering (IN)
+
+								</li>
+								<li>
+								Civil Engineering (CE)
+
+								</li>
+								<li>
+								Mechanical Engineering (ME)
+
+								</li>
+							
+
+							</ul>
+					
+						<h3>Class Timings</h3>
+						<p>
+						Saturday (5PM to 8PM), Sunday, Festival & Public Holidays (8AM to 7PM)
+
+						</p>
+						<table style="width: 100%" class="accr-table">
+							  <tr>
+								<th>Exam</th>
+								<th>Duration</th> 
+								<th>Fee</th>
+							  </tr>
+							  <tr>
+							       
+
+									<td> GATE + PSUs - 2021</td>
+									<td>Upto January 2021 </td>
+									<td> Rs. 25,000/-</td>
+							  </tr>
+							  <tr>
+							    
+									<td> IES + GATE + PSUs - 2021</td>
+									<td>Upto April 2021</td>
+									<td> Rs. 40,000/-</td>
+							  </tr>
+							  <tr>
+							                                                        
+
+									<td>GATE + PSUs - 2022</td>
+									<td> Upto December 2021 </td>
+									<td> Rs. 25,000/-</td>
+							  </tr>
+							  <tr>
+							    
+									<td>IES + GATE + PSUs - 2022  </td>
+									<td> Upto April 2022</td>
+									<td> Rs. 40,000/-</td>
+							  </tr>
+							  
+					</table>
+		
+					<p> 
+					Note : Course Fee includes Registration Fee, GST, Study Materials, Test Series (Offline & Online)
+
+				</p>
+				<div class="inline-item">
+				<button class="btn btn-theme">ENQUIRE NOW</button>
+				<button class="btn btn-theme">ENROLL NOW</button>
+		
+				</div>
+			
+					</div>
+				</li>
+
+			</ul>
+		</div>
+	  </div>
+	 
+	</section>
+	</div>
 
 
 <div class="c-container spacer">
@@ -782,6 +1145,6 @@ understanding of the concepts.
 	</ul>
 </div>
 
-	<?php include 'inc/footer.php' ?>
+<?php include 'inc/footer.php' ?>
 </body>
 </html>

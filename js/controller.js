@@ -131,7 +131,7 @@ ScrollOut({
 	},
 
 	autoplay: {
-		delay: 100,
+		delay:  1500,
 	  },
 
 
