@@ -114,7 +114,7 @@ body {
 .stripbar ul  a {
     text-decoration: none;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 36px;
     text-align: left;
     color: #000;
@@ -131,11 +131,33 @@ body {
     text-align: left;
     color: #fff;
     font-weight: 600;
-   margin: 0 15px;
+   margin: 0 10px;
+   position: relative;
+}
+.navbar-items  li a:before{
+    content: '';
+    height: 2px;
+    background: #fff;
+    width: 0px;
+    display: block;
+    position: absolute;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    transition: .2s width;
+    bottom: -3px;
 }
 
+
+.navbar-items li a:hover:before {
+    width: 90%;
+}
+
+
+
 .logo-img {
-    width: 300px;
+    width: 330px;
 }
 
 
@@ -144,8 +166,8 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .text-center {
     text-align: center;
@@ -314,7 +336,7 @@ blockquote.quote {
 .enroll-box.right:before {
     content: '';
     background-image: url(../img/cloud-vector-free-647228.png);
-    width: 427px;
+    width: 467px;
     height: 378px;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -322,7 +344,7 @@ blockquote.quote {
     position: absolute;
     Z-INDEX: -1;
     top: -20px;
-    left: 35px;
+    left: 5px;
 }
 
 
@@ -817,7 +839,7 @@ header {
     width: 12px;
     height: 11px;
     position: absolute;
-    right: -1px;
+    right: -4px;
     top: 0;
     margin-top: 13px;
     
@@ -1016,7 +1038,6 @@ ul.vtabs li a.active {
 }
 
 .c-accr li {
-    background: #FFA587;
     padding: 10px 25px;
     margin: 12px 0;
    font-size: 20px;
@@ -1041,7 +1062,6 @@ ul.vtabs li a.active {
 }
 
 .c-accr li {
-    background: #FFA587;
     padding: 10px 25px;
     margin: 7px 0;
     font-size: 20px;
@@ -1050,6 +1070,11 @@ ul.vtabs li a.active {
     cursor: pointer;
     border-radius: 5px;
     font-size: 16px;
+}
+
+.accr-li {
+    background: #fff;
+    border: 1px solid var(--theme-color);
 }
 
 .accr-table td {
@@ -1069,4 +1094,23 @@ ul.vtabs li a.active {
     width: 50%;
     padding-right: 15px;
     padding-left: 15px;
+}
+
+.cta-label a:hover {
+background-color: #cc440d;
+}
+
+.faqs-sec {
+    width: 92%;
+    margin: auto;
+}
+.btn {
+    cursor: pointer;
+}
+.inline-item {
+    display: flex;
+}
+
+.inline-item .btn{
+  margin-right: 15px;
 }

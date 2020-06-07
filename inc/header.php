@@ -5,7 +5,7 @@
 			<ul class="c-container">
 				<div class="simple-menu">
 					<div class="menu-visible">
-						<a href=""> <img width="14" src="img/Shape 1.svg" alt=""> +91 9445017000</a>
+						<a href="tell:+91 9445017000"> <img width="14" src="img/Shape 1.svg" alt=""> +91 9445017000</a>
 						<img class="menu-icon" src="img/icons/menu-icon.svg" alt="">
 					</div>
 					<div class="menu-item">

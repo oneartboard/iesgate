@@ -33,6 +33,12 @@ $('.tabs a').click(function(e){
 		  dynamicBullets: false,
 	clickable: true,
 		},
+
+		autoplay: {
+			delay: 1500,
+			disableOnInteraction: false,
+		  },
+		  
 	  });
 
 	  
@@ -43,6 +49,11 @@ $('.tabs a').click(function(e){
 		  dynamicBullets: false,
 	clickable: true,
 		},
+		autoplay: {
+			delay: 1500,
+			disableOnInteraction: false,
+		  },
+
 	  });
 
 
@@ -118,6 +129,12 @@ ScrollOut({
 	  dynamicBullets: false,
 	  clickable: true,
 	},
+
+	autoplay: {
+		delay: 100,
+	  },
+
+
   });
 
 
@@ -130,6 +147,10 @@ ScrollOut({
 	dynamicBullets: false,
 	clickable: true,
   },
+  autoplay: {
+	delay: 1500,
+	disableOnInteraction: false,
+  },
 });
 
 
@@ -141,6 +162,10 @@ ScrollOut({
 	el: '.swiper-pagination',
 	dynamicBullets: false,
 	clickable: true,
+  },
+  autoplay: {
+	delay: 1500,
+	disableOnInteraction: false,
   },
 });
 
@@ -157,9 +182,12 @@ ScrollOut({
   });
   
 
+
   $('.c-accr .accr-heading').click(function () {
+	$('.accr-li').find('.accr-item').slideUp();
 	$(this).parent('.accr-li').find('.accr-item').slideToggle();
 })
+
 
 
 $('.simple-menu .menu-icon').click(function () {

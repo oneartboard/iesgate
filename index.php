@@ -12,7 +12,9 @@
 	
 	<title>IES GATE ACADEMY</title>
 </head>
+
 <?php include 'inc/header.php' ?>
+
 <section class="hero-banner bg-gray ">
 	<div class="c-container text-center text-white spacer">
 		<h1 class="hero-title">
@@ -39,7 +41,7 @@
 		<h1 class="hero-title">
 			ESE / GATE / PSUS - 2021 / 2022 
 		</h1>
-		<p class="lead" style="font-size: 35px;">Admissions are in Progress </p>
+		<p class="lead" style="font-size: 35px;margin-top:10px">Admissions are in Progress </p>
 
 	
 	</div>
@@ -54,7 +56,7 @@
 				Attending our online live classes till offline classes resume is the <br>
 best utilization of lockdown period
 			</blockquote>
-			<p class="right-heading spacer-30  fade-in delay_1" data-scroll>
+			<p class="right-heading  fade-in delay_1" data-scroll>
 				Pay registration fee only. Once the offline classes resume, pay the remaining fee  of the respective classroom course and get access to attend both offline & online live classes.
 			</p>
 
@@ -81,14 +83,14 @@ best utilization of lockdown period
 
 				</div>
 			</div>
-			<p class="text-center lead">
+			<p class="text-center lead" style="margin-top:-30px">
 				(Registration fee is inclusive in course fee. Check our fee structure page to know more or contact us)
 			</p>
 			<p class="right-heading" >
 				If the lockdown extends or if your date of registration is more than a month, pay the remaining fee of the respective online live class course to continue.
 			</p>
 			<div class="spacer-30">
-				<div class="quote">
+				<div class="quote faqs-sec">
 					<h2 class="text-center heading no-margin">FAQ's</h2>
 					<ul class="simple-list">
 						<li>(Q : What to do when i want to continue classroom courses after  lockdown  but paid complete
@@ -98,7 +100,7 @@ best utilization of lockdown period
 							</li>
 					</ul>
 				</div>
-				<h2 class="text-purple text-center noline-link"><a href="liveroom.html">Click here to Know more about Online Live Class Course</a></h3>
+				<h2 class="text-purple text-center noline-link"><a href="liveroom.php">Click here to Know more about Online Live Class Course</a></h3>
 			</div>
 			
 		</div>
@@ -154,7 +156,7 @@ best utilization of lockdown period
 				<div class="swiper-wrapper">
 			
 				<div class="swiper-slide">
-					<img src="img/coursefeatureslider1.jpg" alt="">
+					<img src="img/quality-content.png" alt="">
 				</div>
 				<div class="swiper-slide sqbox">
 					<img src="img/course feature slider2.png" alt="">
@@ -190,11 +192,11 @@ with solved examples.
 
 
 <section >
-	<div class="c-container spacer" >
+	<div class="c-container spacer" style="padding-top:0" >
 		<div class="flex-row">
 			<div class="flex-col col-6 pr120">
 				
-				<h2 class="heading">
+				<h2 class="heading" style="margin-top:0">
 					Online Lectures
 				</h2>
 			
@@ -212,7 +214,7 @@ online lectures by our expert faculty.
 				</ul>
 	
 			</div>
-			<div class="flex-col col-6" >
+			<div class="flex-col col-6  text-right" >
 				<img data-scroll src="img/onlinelectures.svg" width="75%" style="margin-top:60px;" alt="">
 			</div>
 	
@@ -221,7 +223,7 @@ online lectures by our expert faculty.
 	<div class="c-container spacer" >
 		<div class="flex-row align-center">
 			<div class="flex-col col-6" >
-				<h2 class="heading mb30">
+				<h2 class="heading mb30" style="margin-top: -100px">
 					Doubts Sessions
 				</h2>
 				<br>
@@ -237,8 +239,7 @@ online lectures by our expert faculty.
 						Preparation is incomplete without doubts.
 We provide three ways to clear your doubts.
 					</li>
-					<li>All the lectures are structured in line
-						according to your exam syllabus.1) Ask your doubts and get them answered
+					<li>1) Ask your doubts and get them answered
 						immediately by the faculty during class or
 						in break time. </li>
 					<li>
@@ -279,8 +280,11 @@ student community.
 			<div class="" style="width: 60%;" >
 				<ul class="simple-list space30 semibold">
 				
-					<li class="text-center">
-						<video class="video-loop" autoPlay loop muted>
+					<li class="">
+						<video class="video-loop" autoPlay loop muted style="width: 82%;
+    text-align: right;
+    float: right;
+    margin-right: -40px;">
 							<source src="video/DiscussionForum.mp4" type="video/mp4" />
 							
 							Your browser does not support the video tag.
@@ -441,7 +445,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE CE 2021 Test series 140+ Total Tests
+									GATE CE 2021 Test series <br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -465,7 +469,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE CE 2021 Test Series 60+ Total Tests
+									IES CE 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -517,7 +521,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EE 2021 Test Series 60+ Total Tests
+									IES EE 2021 Test Series <br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -545,7 +549,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE EC 2021 Test series 140+ Total Tests
+									GATE EC 2021 Test series<br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -569,7 +573,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EC 2021 Test Series 60+ Total Tests
+									IES EC 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -597,7 +601,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE IN 2021 Test series 30+ Total Tests
+									GATE IN 2021 Test series<br> 30+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -615,7 +619,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE IN 2021 Test Series 60+ Total Tests
+									IES IN 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -642,7 +646,7 @@ understanding of the concepts.
 
 					  <div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE CS 2021 Test series 140+ Total Tests
+									GATE CS 2021 Test series<br> 140+ Total Tests
 
 								</h2>
 								<br>
@@ -672,7 +676,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE CH 2021 Test series 100+ Total Tests
+									GATE CH 2021 Test series<br> 100+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -698,7 +702,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE BT 2021 Test series 100+ Total Tests
+									GATE BT 2021 Test series<br> 100+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -724,7 +728,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE AE 2021 Test series 50+ Total Tests
+									GATE AE 2021 Test series<br> 50+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -1065,7 +1069,8 @@ understanding of the concepts.
 
 					<div class="accr-item">
 						<h4>
-						Class Venue: T. Nagar
+						Class Venue - Gandhipuram
+
 						</h4>
 					
 							<h5>
@@ -1073,57 +1078,35 @@ understanding of the concepts.
 							</h5>
 							<ul class="simple-list">
 							<li>
-							- Electronics & Communication Engineering (EC)
+							Electronics & Communication Engineering (EC)
+
+
 							</li>
 							<li>
-								- Electrical & Electronics Engineering (EC)
+							Electrical & Electronics Engineering (EE)
 
 							</li>
 								<li>
-									- Instrumentation Engineering (IN)
+								Instrumentation Engineering (IN)
 
 								</li>
 								<li>
-									- Civil Engineering (CE)
+								Civil Engineering (CE)
 
 								</li>
 								<li>
-							- Mechanical Engineering (ME)
+								Mechanical Engineering (ME)
 
 								</li>
-								<li>
-									- Computer Science Engineering (CS)
-
-								</li>
-								<li>
-							- Computer Science Engineering (CS)
-
-								</li>
-								<li>
-									- Information Technology (IT)
-
-								</li>
-								<li>
-									- Chemical Engineering (CH)
-
-								</li>
-								<li>
-									- Petroleum Engineering (PE)
-
-								</li>
-								<li>
-									- Bio-Technology (BT)
-
-								</li>
-								<li>
-									- Aerospace Engineering (AE)
-
-								</li>
+							
 
 							</ul>
 					
 						<h3>Class Timings</h3>
-						<p>Saturday (5pm to 8pm) Sunday, Festival & Public Holidays (8AM to 7PM)</p>
+						<p>
+						Saturday (5PM to 8PM), Sunday, Festival & Public Holidays (8AM to 7PM)
+
+						</p>
 						<table style="width: 100%" class="accr-table">
 							  <tr>
 								<th>Exam</th>
@@ -1131,30 +1114,44 @@ understanding of the concepts.
 								<th>Fee</th>
 							  </tr>
 							  <tr>
-									<td>GATE+PSUs-2021</td>
-									<td>Upto January 2021</td>
-									<td>Rs. 25,000/-</td>
+							       
+
+									<td> GATE + PSUs - 2021</td>
+									<td>Upto January 2021 </td>
+									<td> Rs. 25,000/-</td>
 							  </tr>
 							  <tr>
-									<td>IES+GATE+PSUs-2021</td>
+							    
+									<td> IES + GATE + PSUs - 2021</td>
 									<td>Upto April 2021</td>
-									<td>Rs. 40,000/-</td>
+									<td> Rs. 40,000/-</td>
 							  </tr>
 							  <tr>
-									<td>GATE+PSUs-2022</td>
-									<td>Upto January 2022</td>
-									<td>Rs. 25,000/-</td>
+							                                                        
+
+									<td>GATE + PSUs - 2022</td>
+									<td> Upto December 2021 </td>
+									<td> Rs. 25,000/-</td>
 							  </tr>
 							  <tr>
-									<td>IES+GATE+PSUs-2022</td>
-									<td>Upto April 2022</td>
-									<td>Rs. 40,000/-</td>
+							    
+									<td>IES + GATE + PSUs - 2022  </td>
+									<td> Upto April 2022</td>
+									<td> Rs. 40,000/-</td>
 							  </tr>
 							  
 					</table>
 		
-					<p> Note: Course fee includes registration fee, FST, Study materials, Test Series (Offline & Online)</p>
+					<p> 
+					Note : Course Fee includes Registration Fee, GST, Study Materials, Test Series (Offline & Online)
+
+				</p>
+				<div class="inline-item">
+				<button class="btn btn-theme">ENQUIRE NOW</button>
+				<button class="btn btn-theme">ENROLL NOW</button>
 		
+				</div>
+			
 					</div>
 				</li>
 
