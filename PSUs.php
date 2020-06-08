@@ -690,52 +690,136 @@
 				   <h2 class="heading">
 					  PSUs THROUGH INDIVIDUAL WRITTEN TEST
 				   </h2>
-				   <p>
-			<strong>BSNL(JTO)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><em><strong>Bharat Sanchar Nigam Limited</strong></em><strong>,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RRB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Railway Recruitment Board,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Staff Selection Commission,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AAI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Airports Authority of India,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAIL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Steel Authority of India Limited,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISRO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><em><strong>Indian Space Research Organization</strong></em><strong>,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DRDO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Defense Research and Development Organization,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GRSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Garden Reach Shipbuilders &amp; Engineers Limited,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TVNL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>TenughatVidyut Nigam Limited,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bureau of Indian Standards,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JUVNL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><em><strong>Jharkhand UrjaVikash Nigam Limited</strong></em><strong>,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BEL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Bharat Electronics Limited</em></strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JPSC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Jharkhand Public Service Commission</em></strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WAPCOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Water Resources, Power and Infrastructure Sectors,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TSGENCO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telangana State Power Generation Corporation Ltd,</strong></p>
-		<p>
-			<strong>TSNPDCL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Telangana State Northern Power Distribution Company &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><strong>Limited</strong></em><strong>,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TSTRANSCO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Transmission Corporation of Telangana Limited</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MESCOM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Mangalore Electricity Supply Company Limited,</strong></p>
-		<p>
-			<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EIL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ------------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><em><strong>Engineers India Limited</strong></em><strong>.</strong></p>
+				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
+			<colgroup>
+				<col width="100" />
+				<col width="363" />
+			</colgroup>
+			<tbody>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BSNL (JTO)&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						BSNL (JTO)</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bharat Sanchar Nigam Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Bharat Sanchar Nigam Limited</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RRB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						RRB</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Railway Recruitment Board&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Railway Recruitment Board</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						SSC</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Staff Selection Commission&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Staff Selection Commission</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;AAI&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						AAI</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Airports Authority of India&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Airports Authority of India</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SAIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						SAIL</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Steel Authority of India Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Steel Authority of India Limited</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ISRO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						ISRO</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Indian Space Research Organization&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Indian Space Research Organization</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DRDO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						DRDO</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Defense Research and Development Organization&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Defense Research and Development Organization</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GRSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						GRSC</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Garden Reach Shipbuilders &amp; Engineers Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Garden Reach Shipbuilders &amp; Engineers Limited</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TVNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						TVNL</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TenughatVidyut Nigam Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						TenughatVidyut Nigam Limited</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BIS&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						BIS</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bureau of Indian Standards&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Bureau of Indian Standards</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JUVNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						JUVNL</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jharkhand UrjaVikash Nigam Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Jharkhand UrjaVikash Nigam Limited</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BEL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						BEL</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bharat Electronics Limite&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Bharat Electronics Limite</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JPSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						JPSC</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jharkhand Public Service Commissio&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Jharkhand Public Service Commissio</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;WAPCOS&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						WAPCOS</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Water Resources, Power and Infrastructure Sectors&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Water Resources, Power and Infrastructure Sectors</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TSGENCO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						TSGENCO</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Telangana State Power Generation Corporation Ltd&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Telangana State Power Generation Corporation Ltd</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TSNPDCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						TSNPDCL</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Telangana State Northern Power Distribution Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Telangana State Northern Power Distribution Limited</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TSTRANSCO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						TSTRANSCO</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Transmission Corporation of Telangana Limite&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Transmission Corporation of Telangana Limite</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MESCOM&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						MESCOM</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mangalore Electricity Supply Company Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Mangalore Electricity Supply Company Limited</td>
+				</tr>
+				<tr style="height: 21px;">
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;EIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						EIL</td>
+					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Engineers India Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+						Engineers India Limited</td>
+				</tr>
+			</tbody>
+		</table>
 			   </div>
 
 			   <div id="five" class="vtab-content">
 				   <h2 class="heading">
 					  PSUs ELIGIBILITY WITH ACADEMIC PERCENTAGE & AGE CRITERIA
 				   </h2>
-				   <table border="1" cellpadding="0" cellspacing="0" width="482">
-			<tbody>
+				   <table border="1" cellpadding="0" cellspacing="0" width="682">
+			<tbody align="center">
 				<tr>
 					<td rowspan="2" style="width:109px;height:25px;">
 						<p>
