@@ -229,7 +229,7 @@
 				WAPCOS Limited</li>
 		</ol>
 			<h3 class="orange">MINIRATNA CATEGORY-II</h3>
-		<ol>
+		<ul style="list-style-type:none;margin-left: -24px;">
 			<li>57.&nbsp; Bharat Pumps &amp; Compressors Limited</li>
 		
 			<li>58.&nbsp; Broadcast Engineering Consultants (I) Limited</li>
@@ -263,7 +263,7 @@
 			72.&nbsp; P E C Limited</li>
 		<li>
 			73.&nbsp; Rajasthan Electronics &amp; Instruments Limited.</li>
-		</ol>
+		</ul>
 			  </div>
 
 			  <div id="three" class="vtab-content">
