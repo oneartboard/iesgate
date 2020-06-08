@@ -299,6 +299,9 @@ blockquote.quote {
     color: var(--theme-color);
     font-size: 35px;
 }
+.orange {
+    color: var(--theme-color);
+}
 
 .enroll-box {
     font-family: 'Open Sans', sans-serif;
