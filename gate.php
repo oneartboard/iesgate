@@ -50,31 +50,31 @@
 		<table align="center" border="1" cellpadding="0" cellspacing="0">
 			<tbody align="center">
 				<tr>
-					<td style="width:20%;height:17px;">
+					<td style="width:186px;height:17px;">
 						<p align="center">
 							<strong>Year</strong></p>
 					</td>
-					<td style="width:20%;height:17px;">
+					<td style="width:186px;height:17px;">
 						<p align="center">
 							<strong>Organizing Institute</strong></p>
 					</td>
 				</tr>
 				<tr>
-					<td style="width:20%;height:17px;">
+					<td style="width:186px;height:17px;">
 						<p align="center">
 							2020</p>
 					</td>
-					<td style="width:20%;height:17px;">
+					<td style="width:186px;height:17px;">
 						<p align="center">
 							IIT Delhi</p>
 					</td>
 				</tr>
 				<tr>
-					<td style="width:20%;height:17px;">
+					<td style="width:186px;height:17px;">
 						<p align="center">
 							2019</p>
 					</td>
-					<td style="width:20%;height:17px;">
+					<td style="width:186px;height:17px;">
 						<p align="center">
 							IIT Madras</p>
 					</td>
@@ -160,12 +160,16 @@
 				  ELIGIBILITY for GATE:
   
 			   </h2>
-			  <p class="read">
-				  AGE ELIGIBILITY: There is no upper age limit.
+			  
+				<h3 class="orange"> AGE ELIGIBILITY:</h3>
+				<p class="read">
+				  	There is no upper age limit.
 			  </p>
   
-			  <p class="read">
-				  ACADEMIC ELIGIBLITY: The following categories of candidates are eligible to appear for GATE
+			  
+				  <h3 class="orange"> ACADEMIC ELIGIBLITY: </h3>
+				  <p class="read">
+				  	The following categories of candidates are eligible to appear for GATE
 			  </p>
 			  <p class="read">
 				  B.E/B.Tech/B.Arch/B.Pharm graduates (Post-B.Sc/Post-Diploma/4 years after 10+2) and those who are in the final year of such programs.
@@ -186,8 +190,8 @@
 			   <h2 class="heading">
 				  GATE Structure
 			   </h2>
-			  	<table border="1" cellpadding="0" cellspacing="0" width="469">
-			<tbody>
+			  	<table border="1" cellpadding="0" cellspacing="0" width="669">
+			<tbody align="center">
 				<tr>
 					<td style="width:187px;height:20px;">
 						<p>
@@ -384,7 +388,7 @@ entered using mouse and virtual keyboard on the monitor.
 			   </div>
 			   <div id="five" class="vtab-content">
 			
-				<h2 class="heading">
+				<h3 class="orange">
 				   Type of Questions
    
 				</h2>
@@ -399,8 +403,8 @@ entered using mouse and virtual keyboard on the monitor.
 				   GATE CUTOFF MARKS
    
 				</h2>
-			   <table border="1" cellpadding="0" cellspacing="0" style="width:601px;" width="451">
-			<tbody>
+			   <table border="1" cellpadding="0" cellspacing="0" style="width:751px;" width="451">
+			<tbody align="center">
 				<tr>
 					<td rowspan="2" style="width:85px;">
 						<p align="center">
@@ -842,10 +846,10 @@ entered using mouse and virtual keyboard on the monitor.
 			   </div>
 			   <div id="seven" class="vtab-content">
 			
-				<h2 class="heading">
+				<h3 class="orange">
 				   List of Colleges offering M.Tech Courses
    
-				</h2>
+				</h3>
 				<p>
 			<strong>List of colleges offering M.Tech Courses:</strong></p>
 		<ul>
@@ -882,8 +886,7 @@ entered using mouse and virtual keyboard on the monitor.
 			<li>
 				Indian School of Mines, Dhanbad</li>
 		</ul>
-		<p>
-			<strong><u>List of NITs:</u></strong></p>
+			<h3 class="orange">List of NITs:</h3>
 		<ul>
 			<li>
 				Motilal Nehru National Institute of Technology, Allahabad (Uttar Pradesh)</li>
