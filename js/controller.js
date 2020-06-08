@@ -35,7 +35,7 @@ $('.tabs a').click(function(e){
 		},
 
 		autoplay: {
-			delay: 1500,
+			delay: 3000,
 			disableOnInteraction: false,
 		  },
 		  
@@ -50,7 +50,7 @@ $('.tabs a').click(function(e){
 	clickable: true,
 		},
 		autoplay: {
-			delay: 1500,
+			delay: 3000,
 			disableOnInteraction: false,
 		  },
 
@@ -67,7 +67,7 @@ var swiper = new Swiper('.swiper-container.testimonial', {
 
   
 	autoplay: {
-		delay:  1500,
+		delay:  3000,
 	  },
 	  
 });
@@ -82,7 +82,7 @@ var mySwiper = new Swiper('.swiper-container.hero-banner', {
   spaceBetween: 50,
   effect: 'fade',
   autoplay: {
-    delay: 1500,
+    delay: 3000,
     disableOnInteraction: false,
   },
   pagination: {
@@ -137,7 +137,7 @@ ScrollOut({
 	},
 
 	autoplay: {
-		delay:  1500,
+		delay:  3000,
 	  },
 
 
@@ -154,7 +154,7 @@ ScrollOut({
 	clickable: true,
   },
   autoplay: {
-	delay: 1500,
+	delay: 3000,
 	disableOnInteraction: false,
   },
 });
@@ -170,7 +170,7 @@ ScrollOut({
 	clickable: true,
   },
   autoplay: {
-	delay: 1500,
+	delay: 3000,
 	disableOnInteraction: false,
   },
 });
@@ -185,16 +185,12 @@ ScrollOut({
 	  viewportY: true
 	},
 	targets: ".scrollable-pane",
-  });
-  
+});
 
-
-  $('.c-accr .accr-heading').click(function () {
-	$('.accr-li').find('.accr-item').slideUp();
+$('.c-accr .accr-heading').click(function () {
+	$(this).parent('.accr-li').siblings().find('.accr-item').slideUp();
 	$(this).parent('.accr-li').find('.accr-item').slideToggle();
-})
-
-
+});
 
 $('.simple-menu .menu-icon').click(function () {
 	$(this).parents('.simple-menu').find('.menu-item').slideToggle();

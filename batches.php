@@ -13,49 +13,21 @@
 	<title>IES GATE ACADEMY</title>
 </head>
 <?php include 'inc/header.php' ?>
-
-<div class="table-wrapper c-container">
+<div class="c-container spacer">
 <h2 class="title  text-center text-theme spacer-top">
 			Batches & Fee Structure
 		</h2>
-		<h1 class="text-center" style="font-weight: 600;">
-			Classroom Courses <span style="color: gray;" class="batch-togglebox-btn">Liveroom Course</span>
-		</h1>
-
-
-
-
-		<div class="batch-togglebox spacer-bottom">
-			<h2 class="text-theme no-margin">Streams Offered</h2>
-			<ul class="simple-list">
-		<li>	Electronics & Communication Engineering (EC)</li>
-		<li>	Electrical & Electronics Engineering (EE)</li>
-		<li>	Instrumentation Engineering (IN)</li>
-		<li>	Civil Engineering (CE)</li>
-		<li>	Mechanical Engineering (ME)</li>
-		<li>	Computer Science Engineering (CS)</li>
-		<li>	Information Technology (IT)</li>
-		<li>	Chemical Engineering (CH)</li>
-		<li>	Petroleum Engineering (PE)</li>
-		<li>	Bio-Technology (BT)</li>
-		<li>	Aerospace Engineering (AE)</li>
-			</ul>
-
-
-<p  class="text-center"><b style="font-size: 30px;
-    color: var(--theme-color);">Class Timings</b> – Monday to Saturday (6PM to 9PM) & Sunday (9AM to 6PM)</p>
+<div class="batch-tabs" >
+		<ul class="tabs clearfix" data-tabgroup="first-tab-group2" style="justify-content:center">
+		  <li class="bt-li"><a href="#tab11" class="active">Classroom Courses</a></li>
+		  <li class="bt-li"><a href="#tab22" style="color: gray;">Liveroom Course</a></li>
+		</ul>
 	
-	
-	<p class="note" >
-		  Our Class timings are suitable for Working professionals, College-goers, Graduates etc.,
-            who are planning to do their preparation in full time or part time. Contact us to know
-            more in detail about preparation & study plans.
-	</p>
-
-
-		</div>
-
-	<ul class="tabs clearfix select-city" data-tabgroup="first-tab-group3">
+		<section id="first-tab-group2" class="tabgroup">
+		  <div id="tab11" class="c-tabs">
+			  
+<div class="table-wrapper c-container">
+	<ul class="tabs clearfix select-city" data-tabgroup="first-tab-group3" style="align-items:center">
 		<span class="s-label">SELECTED CITY  -</span>
 	  <li><a href="#chn" class="active">Chennai</a></li>
 	  <li><a href="#chn2">Coimbatore</a></li>
@@ -377,6 +349,40 @@
 	 
 	</section>
 </div>
+
+		  </div>
+		  <div id="tab22">
+		  <div class=" spacer">
+			<h2 class="text-theme no-margin">Streams Offered</h2>
+			<ul class="simple-list">
+		<li>	Electronics & Communication Engineering (EC)</li>
+		<li>	Electrical & Electronics Engineering (EE)</li>
+		<li>	Instrumentation Engineering (IN)</li>
+		<li>	Civil Engineering (CE)</li>
+		<li>	Mechanical Engineering (ME)</li>
+		<li>	Computer Science Engineering (CS)</li>
+		<li>	Information Technology (IT)</li>
+		<li>	Chemical Engineering (CH)</li>
+		<li>	Petroleum Engineering (PE)</li>
+		<li>	Bio-Technology (BT)</li>
+		<li>	Aerospace Engineering (AE)</li>
+	</ul>
+
+<p  class="text-center"><b style="font-size: 30px;
+    color: var(--theme-color);">Class Timings</b> – Monday to Saturday (6PM to 9PM) & Sunday (9AM to 6PM)</p>
+	<p class="note" >
+		  Our Class timings are suitable for Working professionals, College-goers, Graduates etc.,
+            who are planning to do their preparation in full time or part time. Contact us to know
+            more in detail about preparation & study plans.
+	</p>
+		</div>
+		  </div>
+		  
+		</section>
+		
+	  </div>
+</div>
+
 
 
 		<?php include 'inc/footer.php' ?>

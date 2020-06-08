@@ -802,12 +802,9 @@ understanding of the concepts.
 		What’s New
 	</h2>
 	<div class="announce-tabs" >
-	
 		<ul class="tabs clearfix" data-tabgroup="first-tab-group2">
 		  <li><a href="#tab11" class="active">  ANNOUNCEMENTS</a></li>
 		  <li><a href="#tab22">NOTIFICATIONS</a></li>
-		  
-	
 		</ul>
 	
 		<section id="first-tab-group2" class="tabgroup">
