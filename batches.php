@@ -14,7 +14,7 @@
 </head>
 <?php include 'inc/header.php' ?>
 <div class="c-container spacer">
-<h2 class="title  text-center text-theme spacer-top">
+<h2 class="title  text-center text-theme">
 			Batches & Fee Structure
 		</h2>
 <div class="batch-tabs" >
@@ -368,9 +368,9 @@
 		<li>	Aerospace Engineering (AE)</li>
 	</ul>
 
-<p  class="text-center"><b style="font-size: 30px;
+<p ><b style="font-size: 30px;
     color: var(--theme-color);">Class Timings</b> – Monday to Saturday (6PM to 9PM) & Sunday (9AM to 6PM)</p>
-	<p class="note" >
+	<p class="note" style="width:100%">
 		  Our Class timings are suitable for Working professionals, College-goers, Graduates etc.,
             who are planning to do their preparation in full time or part time. Contact us to know
             more in detail about preparation & study plans.

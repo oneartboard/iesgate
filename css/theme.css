@@ -719,7 +719,8 @@ blockquote.quote {
     color: #fff;
     border: none;
     border-radius: 10px;
-    font-weight: 700;
+    font-weight: 600;
+    text-decoration: none;
 }
 
 .user-box {

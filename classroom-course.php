@@ -1077,9 +1077,8 @@ understanding of the concepts.
 	</section>
 	</div>
 	<div class="text-center spacer c-container">
-	<button class="btn-big ">
-		View Batches &amp; Fee Structure
-	  </button>
+
+	  <a href="batches.php" class="btn-big ">View Batches &amp; Fee Structure</a>
   </div>
 
 <div class="c-container spacer" style="padding-top:20px">

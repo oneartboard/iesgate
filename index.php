@@ -1145,9 +1145,9 @@ understanding of the concepts.
 
 				</p>
 				<div class="inline-item">
-				<button class="btn btn-theme">ENQUIRE NOW</button>
-				<button class="btn btn-theme">ENROLL NOW</button>
-		
+			
+				<a class="btn btn-theme" href="enquire.php">ENQUIRE NOW</a>
+				<a class="btn btn-theme" href="enroll-now.php">ENROLL NOW</a>
 				</div>
 			
 					</div>
