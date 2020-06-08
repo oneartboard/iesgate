@@ -581,12 +581,13 @@ blockquote.quote {
     width: 100%;
     
 } 
-
 .live-course {
     background-image: url(../img/lc.png);
     width: 100%;
     height: 100%;
     padding: 50px 15px;
+    background-size: contain;
+    background-position: center center;
 }
 
 .site-footer {
@@ -1117,6 +1118,7 @@ background-color: #cc440d;
 }
 .inline-item {
     display: flex;
+    justify-content: space-between;
 }
 
 .inline-item .btn{
@@ -1185,8 +1187,15 @@ background-color: #cc440d;
     flex-basis: 27%;
     margin: 10px 13px;
     flex-grow: 1;
+    border: 1px solid var(--theme-color);
+}
+.add-box strong {
+    color: var(--theme-color);
 }
 .c-map {
     width: 100%;
     height: 250px;
+}
+.accr-li h4,.accr-li th ,.accr-li h3 {
+    color: var(--theme-color);
 }
