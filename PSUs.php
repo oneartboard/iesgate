@@ -690,7 +690,7 @@
 				   <h2 class="heading">
 					  PSUs THROUGH INDIVIDUAL WRITTEN TEST
 				   </h2>
-				   <table border: 1px solid rgb(204, 204, 204); cellpadding="0" cellspacing="0" dir="ltr" style="table-layout: fixed; font-size: 11pt; width: 100%; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
+				   <table cellpadding="0" cellspacing="0" dir="ltr" style="border: 1px solid rgb(204, 204, 204); table-layout: fixed; font-size: 11pt; width: 100%; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
 			<colgroup>
 				<col width="100" />
 				<col width="563" />
