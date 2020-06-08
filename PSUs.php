@@ -733,16 +733,15 @@
 						Indian Space Research Organization</td>
 				</tr>
 				<tr style="height: 45px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GRSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						DRDO</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GRSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Defense Research and Development Organization</td>
 				</tr>
 				<tr style="height: 45px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GRSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						GRSC</td>
-
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GRSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;>
+					<td >
 						Garden Reach Shipbuilders &amp; Engineers Limited</td>
 				</tr>
 				<tr style="height: 45px;">
