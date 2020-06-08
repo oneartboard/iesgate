@@ -57,213 +57,213 @@
 				  LIST and CATEGORIES OF PSUs
 			   </h2>
 			   <p align="center">
-			<strong><u>MAHARATNA</u></strong></p>
+			<h3 class="orange">MAHARATNA</h3>
 		<ol>
 			<li>
-				<strong>Bharat Heavy Electricals Limited</strong></li>
+				Bharat Heavy Electricals Limited</li>
 			<li>
-				<strong>Coal India Limited</strong></li>
+				Coal India Limited</li>
 			<li>
-				<strong>GAIL (India) Limited</strong></li>
+				GAIL (India) Limited</li>
 			<li>
-				<strong>Indian Oil Corporation Limited</strong></li>
+				Indian Oil Corporation Limited</li>
 			<li>
-				<strong>NTPC Limited</strong></li>
+				NTPC Limited</li>
 			<li>
-				<strong>Oil &amp; Natural Gas Corporation Limited</strong></li>
+				Oil &amp; Natural Gas Corporation Limited</li>
 			<li>
-				<strong>Steel Authority of India Limited</strong></li>
+				Steel Authority of India Limited</li>
 		</ol>
 		<p align="center">
-			<strong><u>NAVRATNA</u></strong></p>
+			<h3 class="orange">NAVRATNA</h3>
 		<ol>
 			<li>
-				<strong>Bharat Electronics Limited</strong></li>
+				Bharat Electronics Limited</li>
 			<li>
-				<strong>Bharat Petroleum Corporation Limited</strong></li>
+				Bharat Petroleum Corporation Limited</li>
 			<li>
-				<strong>Container Corporation of India Limited</strong></li>
+				Container Corporation of India Limited</li>
 			<li>
-				<strong>Engineers India Limited</strong></li>
+				Engineers India Limited</li>
 			<li>
-				<strong>Hindustan Aeronautics Limited</strong></li>
+				Hindustan Aeronautics Limited</li>
 			<li>
-				<strong>Hindustan Petroleum Corporation Limited</strong></li>
+				Hindustan Petroleum Corporation Limited</li>
 			<li>
-				<strong>Mahanagar Telephone Nigam Limited</strong></li>
+				Mahanagar Telephone Nigam Limited</li>
 			<li>
-				<strong>National Aluminium Company Limited</strong></li>
+				National Aluminium Company Limited</li>
 			<li>
-				<strong>National Buildings Construction Corporation Limited</strong></li>
+				National Buildings Construction Corporation Limited</li>
 			<li>
-				<strong>NMDC Limited</strong></li>
+				NMDC Limited</li>
 			<li>
-				<strong>Neyveli Lignite Corporation Limited</strong></li>
+				Neyveli Lignite Corporation Limited</li>
 			<li>
-				<strong>Oil India Limited</strong></li>
+				Oil India Limited</li>
 			<li>
-				<strong>Power Finance Corporation Limited</strong></li>
+				Power Finance Corporation Limited</li>
 			<li>
-				<strong>Power Grid Corporation of India Limited</strong></li>
+				Power Grid Corporation of India Limited</li>
 			<li>
-				<strong>RashtriyaIspat Nigam Limited</strong></li>
+				RashtriyaIspat Nigam Limited</li>
 			<li>
-				<strong>Rural Electrification Corporation Limited</strong></li>
+				Rural Electrification Corporation Limited</li>
 			<li>
-				<strong>Shipping Corporation of India Limited</strong></li>
+				Shipping Corporation of India Limited</li>
 		</ol>
 		<p align="center">
-			<strong><u>MINIRATNA CATEGORY - I</u></strong></p>
+			<h3 class="orange">MINIRATNA CATEGORY - I</h3>
 		<ol>
 			<li>
-				<strong>Airports Authority of India</strong></li>
+				Airports Authority of India</li>
 			<li>
-				<strong>Antrix Corporation Limited</strong></li>
+				Antrix Corporation Limited</li>
 			<li>
-				<strong>BalmerLawrie&amp; Co. Limited</strong></li>
+				BalmerLawrie&amp; Co. Limited</li>
 			<li>
-				<strong>Bharat Coking Coal Limited</strong></li>
+				Bharat Coking Coal Limited</li>
 			<li>
-				<strong>Bharat Dynamics Limited</strong></li>
+				Bharat Dynamics Limited</li>
 			<li>
-				<strong>BEML Limited</strong></li>
+				BEML Limited</li>
 			<li>
-				<strong>Bharat Sanchar Nigam Limited</strong></li>
+				Bharat Sanchar Nigam Limited</li>
 			<li>
-				<strong>Bridge &amp; Roof Company (India) Limited</strong></li>
+				Bridge &amp; Roof Company (India) Limited</li>
 			<li>
-				<strong>Central Warehousing Corporation</strong></li>
+				Central Warehousing Corporation</li>
 			<li>
-				<strong>Central Coalfields Limited</strong></li>
+				Central Coalfields Limited</li>
 			<li>
-				<strong>Chennai Petroleum Corporation Limited</strong></li>
+				Chennai Petroleum Corporation Limited</li>
 			<li>
-				<strong>Cochin Shipyard Limited</strong></li>
+				Cochin Shipyard Limited</li>
 			<li>
-				<strong>Dredging Corporation of India Limited</strong></li>
+				Dredging Corporation of India Limited</li>
 			<li>
-				<strong>Kamarajar Port Limited</strong></li>
+				Kamarajar Port Limited</li>
 			<li>
-				<strong>Garden Reach Shipbuilders &amp; Engineers Limited</strong></li>
+				Garden Reach Shipbuilders &amp; Engineers Limited</li>
 			<li>
-				<strong>Goa Shipyard Limited</strong></li>
+				Goa Shipyard Limited</li>
 			<li>
-				<strong>Hindustan Copper Limited</strong></li>
+				Hindustan Copper Limited</li>
 			<li>
-				<strong>HLL Lifecare Limited</strong></li>
+				HLL Lifecare Limited</li>
 			<li>
-				<strong>Hindustan Newsprint Limited</strong></li>
+				Hindustan Newsprint Limited</li>
 			<li>
-				<strong>Hindustan Paper Corporation Limited</strong></li>
+				Hindustan Paper Corporation Limited</li>
 			<li>
-				<strong>Housing &amp; Urban Development Corporation Limited</strong></li>
+				Housing &amp; Urban Development Corporation Limited</li>
 			<li>
-				<strong>India Tourism Development Corporation Limited</strong></li>
+				India Tourism Development Corporation Limited</li>
 			<li>
-				<strong>Indian Rare Earths Limited</strong></li>
+				Indian Rare Earths Limited</li>
 			<li>
-				<strong>Indian Railway Catering &amp; Tourism Corporation Limited</strong></li>
+				Indian Railway Catering &amp; Tourism Corporation Limited</li>
 			<li>
-				<strong>Indian Renewable Energy Development Agency Limited</strong></li>
+				Indian Renewable Energy Development Agency Limited</li>
 			<li>
-				<strong>India Trade Promotion Organization</strong></li>
+				India Trade Promotion Organization</li>
 			<li>
-				<strong>IRCON International Limited</strong></li>
+				IRCON International Limited</li>
 			<li>
-				<strong>KIOCL Limited</strong></li>
+				KIOCL Limited</li>
 			<li>
-				<strong>Mazagaon Dock Limited</strong></li>
+				Mazagaon Dock Limited</li>
 			<li>
-				<strong>Mahanadi Coalfields Limited</strong></li>
+				Mahanadi Coalfields Limited</li>
 			<li>
-				<strong>Manganese Ore (India) Limited</strong></li>
+				Manganese Ore (India) Limited</li>
 			<li>
-				<strong>Mangalore Refinery &amp; Petrochemical Limited</strong></li>
+				Mangalore Refinery &amp; Petrochemical Limited</li>
 			<li>
-				<strong>Mishra Dhatu Nigam Limited</strong></li>
+				Mishra Dhatu Nigam Limited</li>
 			<li>
-				<strong>MMTC Limited</strong></li>
+				MMTC Limited</li>
 			<li>
-				<strong>MSTC Limited</strong></li>
+				MSTC Limited</li>
 			<li>
-				<strong>National Fertilizers Limited</strong></li>
+				National Fertilizers Limited</li>
 			<li>
-				<strong>National Seeds Corporation Limited</strong></li>
+				National Seeds Corporation Limited</li>
 			<li>
-				<strong>NHPC Limited</strong></li>
+				NHPC Limited</li>
 			<li>
-				<strong>Northern Coalfields Limited</strong></li>
+				Northern Coalfields Limited</li>
 			<li>
-				<strong>North Eastern Electric Power Corporation Limited</strong></li>
+				North Eastern Electric Power Corporation Limited</li>
 			<li>
-				<strong>Numaligarh Refinery Limited</strong></li>
+				Numaligarh Refinery Limited</li>
 			<li>
-				<strong>ONGC Videsh Limited</strong></li>
+				ONGC Videsh Limited</li>
 			<li>
-				<strong>Pawan Hans Helicopters Limited</strong></li>
+				Pawan Hans Helicopters Limited</li>
 			<li>
-				<strong>Projects &amp; Development India Limited</strong></li>
+				Projects &amp; Development India Limited</li>
 			<li>
-				<strong>Railtel Corporation of India Limited</strong></li>
+				Railtel Corporation of India Limited</li>
 			<li>
-				<strong>Rail Vikas Nigam Limited</strong></li>
+				Rail Vikas Nigam Limited</li>
 			<li>
-				<strong>Rashtriya Chemicals &amp; Fertilizers Limited</strong></li>
+				Rashtriya Chemicals &amp; Fertilizers Limited</li>
 			<li>
-				<strong>RITES Limited</strong></li>
+				RITES Limited</li>
 			<li>
-				<strong>SJVN Limited</strong></li>
+				SJVN Limited</li>
 			<li>
-				<strong>Security Printing and Minting Corporation of India Limited</strong></li>
+				Security Printing and Minting Corporation of India Limited</li>
 			<li>
-				<strong>South Eastern Coalfields Limited</strong></li>
+				South Eastern Coalfields Limited</li>
 			<li>
-				<strong>State Trading Corporation of India Limited</strong></li>
+				State Trading Corporation of India Limited</li>
 			<li>
-				<strong>Telecommunications Consultants India Limited</strong></li>
+				Telecommunications Consultants India Limited</li>
 			<li>
-				<strong>THDC India Limited</strong></li>
+				THDC India Limited</li>
 			<li>
-				<strong>Western Coalfields Limited</strong></li>
+				Western Coalfields Limited</li>
 			<li>
-				<strong>WAPCOS Limited</strong></li>
+				WAPCOS Limited</li>
 		</ol>
 		<p align="center">
-			<strong><u>MINIRATNA CATEGORY-II</u></strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>57.&nbsp; </strong><strong>Bharat Pumps &amp; Compressors Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>58.&nbsp; </strong><strong>Broadcast Engineering Consultants (I) Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>59.&nbsp; </strong><strong>Central Mine Planning &amp; Design Institute Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>60.&nbsp; </strong><strong>Central Railside Warehouse Company Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>61.&nbsp; </strong><strong>Ed.CIL (India) Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>62.&nbsp; </strong><strong>Engineering Projects (India) Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>63.&nbsp; </strong><strong>FCI Aravali Gypsum &amp; Minerals India Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>64.&nbsp; </strong><strong>Ferro Scrap Nigam Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>65.&nbsp; </strong><strong>HMT (International) Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>66.&nbsp; </strong><strong>HSCC (India) Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>67.&nbsp; </strong><strong>Indian Medicines &amp; Pharmaceuticals Corporation Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>68.&nbsp; </strong><strong>M E C O N Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>69.&nbsp; </strong><strong>Mineral Exploration Corporation Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>70.&nbsp; </strong><strong>National Film Development Corporation Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>71.&nbsp; </strong><strong>National Small Industries Corporation Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>72.&nbsp; </strong><strong>P E C Limited</strong></p>
-		<p style="margin-left:39.25pt;">
-			<strong>73.&nbsp; </strong><strong>Rajasthan Electronics &amp; Instruments Limited.</strong></p>
+			<h3 class="orange">MINIRATNA CATEGORY-II<h3>
+		<p>
+			57.&nbsp; Bharat Pumps &amp; Compressors Limited</p>
+		<p>
+			58.&nbsp; Broadcast Engineering Consultants (I) Limited</p>
+		<p>
+			59.&nbsp; Central Mine Planning &amp; Design Institute Limited</p>
+		<p>
+			60.&nbsp; Central Railside Warehouse Company Limited</p>
+		<p>
+			61.&nbsp; Ed.CIL (India) Limited</p>
+		<p>
+			62.&nbsp; Engineering Projects (India) Limited</p>
+		<p>
+			63.&nbsp; FCI Aravali Gypsum &amp; Minerals India Limited</p>
+		<p>
+			64.&nbsp; Ferro Scrap Nigam Limited</p>
+		<p>
+			65.&nbsp; HMT (International) Limited</p>
+		<p>
+			66.&nbsp; HSCC (India) Limited</p>
+		<p>
+			67.&nbsp; Indian Medicines &amp; Pharmaceuticals Corporation Limited</p>
+		<p>
+			68.&nbsp; M E C O N Limited</p>
+		<p>
+			69.&nbsp; Mineral Exploration Corporation Limited</p>
+		<p>
+			70.&nbsp; National Film Development Corporation Limited</p>
+		<p>
+			71.&nbsp; National Small Industries Corporation Limited</p>
+		<p>
+			72.&nbsp; P E C Limited</p>
+		<p>
+			73.&nbsp; Rajasthan Electronics &amp; Instruments Limited.</p>
 			  </div>
 
 			  <div id="three" class="vtab-content">
