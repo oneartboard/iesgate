@@ -171,17 +171,18 @@
 				  <p class="read">
 				  	The following categories of candidates are eligible to appear for GATE
 			  </p>
-			  <p class="read">
-				  B.E/B.Tech/B.Arch/B.Pharm graduates (Post-B.Sc/Post-Diploma/4 years after 10+2) and those who are in the final year of such programs.
-			  </p>
 			  <ul>
+				  <li>B.E/B.Tech/B.Arch/B.Pharm graduates (Post-B.Sc/Post-Diploma/4 years after 10+2) and those who are in the final year of such programs.</li>
+
 			  	<li>Master’s degree holders in any branch of Science/Mathematics/Statistics/Computers or equivalent and those who are in the final year of such programs.</li>
 
 			  	<li>Candidates in the second or higher year of the Four-year Integrated Master’s degree program (Post-B.Sc.) in Engineering/Technology or candidates in the fourth or higher year of Five-year Integrated Master’s degree program or Dual degree program in Engineering/Technology.</li>
 
-			  	<li>Candidates with qualifications obtained through examination conducted by professional societies recognized by UPSC/AICTE like AMIE, AMICE as equivalent to B.E./B.Tech. Those who have completed Section A are also eligible.</li>
+			  	</ul>
 
-			  </ul>
+			  	<p class="read">Candidates with qualifications obtained through examination conducted by professional societies recognized by UPSC/AICTE like AMIE, AMICE as equivalent to B.E./B.Tech. Those who have completed Section A are also eligible.</p>
+
+			  
 			  
 			  </div>
 
@@ -344,7 +345,7 @@
 		</table>
 		<p>
 			Examination Paper is a combination of 35 questions from multiple choice &amp; rest 30 questions are from Numerical answer type. For 1mark MCQs, 1/3mark is deducted for each wrong answer. Likewise, for 2mark MCQs, 2/3 mark is deducted for each wrong answer.&nbsp;There is NO negative marking for numerical answer type questions.</p>
-			<h2>TYPE OF QUESTIONS</h2>
+			<h2 class="orange">TYPE OF QUESTIONS</h2>
 			<p>
 			<b>GATE</b> is an Online Computer Based Test (CBT) of 3hrs duration that consists of Multiple-choice Questions
 and Numerical Type Question in all papers &amp; sections. Multiple choice Questions will contain 4 options,
@@ -360,28 +361,30 @@ entered using mouse and virtual keyboard on the monitor.
 				</h2>
 			   <ul>
 
-			   	<li>Students who qualify in GATE Exam are entitled to a stipend of Rs12,400/- per month during their M.E, M.TECH M.S (By Research) Program in IISc, IITs, NITs, Central universities, Government colleges, and Private colleges.</li>
+			   	<li>Students who qualify in GATE Exam are entitled to a stipend of <b>Rs.12,400/- </b> per month during their M.E, M.TECH M.S (By Research) Program and <b>Rs. 28,000/- </b> per month for PhD Program in IISc, IITs, NITs, Central universities, Government colleges, and Private colleges</li>
 
 			   	<li>
-			   		Clearing GATE is also an eligibility clause for the award of Junior Research Fellowship in CSIR Laboratories. M.Tech. degree is mandatory for those wishing to apply for research positions in R&D centers.
+			   		Clearing GATE is also an eligibility clause for the award of Junior Research Fellowship in CSIR Laboratories. M.Tech. degree is mandatory for those wishing to apply for research positions in R&D centers
 			   	</li>
 			   	<li>
 			   		Many public sector undertakings (PSUs) such as HAL, BHEL, Indian Oil Corporation, NTPC, Power Grid, Bhabha Atomic Research Centre (there are PSUs around 200 in number) are using the GATE score for recruiting candidates for their organizations.
+
 			   	</li>
 			   	<li>
-			   		The Students who qualify this test are eligible for Master’s degree at NTU &NUS, (National University of Singapore), Singapore.
+			   		<b>OVERSEAS EDUCATION :</b> The Students who qualify GATE are eligible for MS and PhD Programs in <b> SINGAPORE (National University of Singapore-NUS, Nanyang Technological University-NTU), GERMANY (RWTH AACHEN Technical University of Munich) and some of the universities in SWITZERLAND.</b>
 			   	</li>
 			   	<li>
-			   		A GATE Score is helpful to get Ph.D. admissions in IISc, IITs and Central Universities.
+			   		<b>MANAGEMENT PROGRAMS AT NITIE, MUMBAI :</b> Offers three PG Diploma Programs – PGDIE, PGDPM, PGDMM (Equivalent to MBA) 
 			   	</li>
 			   	<li>
-			   		A GATE score is preferred for Technical interviews in many Private Sector companie
+			   		<b>FELLOW PROGRAM IN MANAGEMENT – IIMs :</b> The Fellow Program in Management (FPM) is the doctorial program of the IIMs. Specializations that accept GATE score for FPM admissions are Behaviour sciences, HRM, MIS, OR, PQM, IS, Industrial Relations, Public Systems, Strategic Management with stipend of Rs. 22,000/-
 			   	</li>	
 			   	<li>
-			   		A GATE score helps students to join in reputed companies as well as off-campus recruitments. 
+			   		A GATE score is preferred for Technical interviews in many Private Sector companies and it also helps students to join in reputed companies as well as off-campus recruitments 
 			   	</li>
 			   	<li>
 			   		For those who couldn’t pursue their B.Tech in IIT, it provides another opportunity to study in the prestigious IITs. 
+ 
 			   	</li>
 
 			   </ul>
