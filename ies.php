@@ -67,10 +67,12 @@
 			  	<li>AGE Limit for SC/ST UPTO 35yrs.</li> 
 			  </ol>
   
-			  <p class="read">
-				  ACADEMIC ELIGIBLITY: A degree in Engineering from recognized university or equivalent. Final year Engineering candidates or equivalent are also eligible.
+			  
+				<h3 class="orange">  ACADEMIC ELIGIBLITY: </h3>
+				<p class="read">
+				 A degree in Engineering from recognized university or equivalent. Final year Engineering candidates or equivalent are also eligible.
 			  </p>
-			  <h3>Tentative Time Table</h3>
+			  <h3 class="orange">Tentative Time Table</h3>
 			  <p class="read">
 					Date of notification : SEPTEMBER<br>
 					Last data for receipt for application : OCTOBER<br>
@@ -115,7 +117,7 @@
 				   Qualified Candidates of Engineering Services Examination will be posted under the following mentioned posts.
 			   </p>
 
-			   <h2>A. Civil Engineering</h2>
+			   <h3 class="orange">A. Civil Engineering</h3>
 			   <ol>
 			   		<li> Indian Railway Service of Engineers</li>
 					<li> Central Engineering Service</li>
@@ -127,7 +129,7 @@
     				<li> AEE in P&T building works Group-A Services</li>
     				<li> AEE in Border Road Engg. Services GR-A</li>
 			   </ol>
-			    <h2>B. Mechanical Engineering</h2>
+			    <h3 class="orange">B. Mechanical Engineering</h3>
 			   <ol>
 			   		<li> Indian Railway Service of Mechanical Engineers</li>
 					<li> Indian Railway Stores Service</li>
@@ -145,7 +147,7 @@
 					<li> Assistant Executive Engineer in Corps of EME, Ministry of Defense</li>
 			   </ol>
 
-			   <h2>C. Electrical Engineering</h2>
+			   <h3 class="orange">C. Electrical Engineering</h3>
 			   <ol>
 			   		<li> Indian Railway Service of Electrical Engineers</li>
     				<li> Indian Railway Stores Service</li>
@@ -183,7 +185,7 @@
 			   <p>
 			<strong>CUT-OFF MARKS-2018</strong></p>
 		<table border="1" cellpadding="0" cellspacing="0">
-			<tbody>
+			<tbody align="center">
 				<tr>
 					<td colspan="7" style="width:623px;">
 						<p align="center">
@@ -355,7 +357,7 @@
 		<p>
 			NOTE: Subject to candidates (General, OBC, SC and ST) having secured minimum 15% Marks and PH candidates minimum 10% marks in each of the two objective papers.</p>
 		<table border="1" cellpadding="0" cellspacing="0">
-			<tbody>
+			<tbody align="center">
 				<tr>
 					<td colspan="7" style="width:623px;">
 						<p align="center">
@@ -523,7 +525,7 @@
 		<p>
 			<strong>NOTE:</strong> Subject to candidates (General, OBC, SC and ST) having secured minimum 20% Marks and PH candidates minimum 10% marks in each of the two conventional papers.</p>
 		<table border="1" cellpadding="0" cellspacing="0">
-			<tbody>
+			<tbody align="center">
 				<tr>
 					<td colspan="7" style="width:623px;">
 						<p>
@@ -693,7 +695,7 @@
 		<p align="center">
 			<strong>(Written Exam: 1100 Marks; Interview: 200 Marks; Total: 1300 Marks)</strong></p>
 		<table border="1" cellpadding="0" cellspacing="0">
-			<tbody>
+			<tbody align="center">
 				<tr>
 					<td style="width:84px;">
 						<p align="center">
