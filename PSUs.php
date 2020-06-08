@@ -229,7 +229,7 @@
 				WAPCOS Limited</li>
 		</ol>
 		<p align="center">
-			<h3 class="orange">MINIRATNA CATEGORY-II<h3>
+			<h3 class="orange">MINIRATNA CATEGORY-II</h3>
 		<p>
 			57.&nbsp; Bharat Pumps &amp; Compressors Limited</p>
 		<p>
