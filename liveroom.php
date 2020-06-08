@@ -29,10 +29,10 @@
 		<h2 class="heading text-center no-margin" data-scroll>
 			Now, CLASSROOM is at your HOME
 		</h2>
-		<h3 class="text-center">Get access to Interactive live classes & recorded online lectures by our top faculties</h3>
+		<h3 class="text-center" style="font-size:24px">Get access to Interactive live classes & recorded online lectures by our top faculties</h3>
 	</div>
 
-	<div class="spacer c-container">
+	<div class="c-container">
 		<div class="flex-row">
 			<div class="flex-col col-6">
 				<h2 class="text-center" style="color: #227E84;">
@@ -53,14 +53,14 @@
 	<section class="c-container spacer">
 		<h2 class="text-purple title text-center">Course Features</h2>
 		<h2 class="text-theme heading">Interactive Live Classes</h2>
-		<h3 class="text-center">
+		<h3 class="text-center" style="line-height:2;">
 			Interactive live classes are more than just watching the lectures. <br>
 Do all while the class is going on.
 
 		</h3>
 		<ul class="simple-list text-center">
-			<li>Live chat - Chat with your expert faculty and ask doubts.</li>
-			<li>
+			<li class="text-left">Live chat - Chat with your expert faculty and ask doubts.</li>
+			<li class="text-left">
 				Live discussions – Engage in discussions during the live class & get your doubts
 						   clarified instantly.
 
@@ -115,7 +115,6 @@ covering from basic to advanced level with unique techniques.
 top subject matter experts to train you with a designed structured program to cover the syllabus in detail within prescribed examination timelines. Follow their guidance to crack
 GATE / ESE examinations.
 		</p>
-		<h2 class="text-center">Time is very precious, Content is much more important</h2>
 
 	</section>
 
@@ -123,6 +122,7 @@ GATE / ESE examinations.
 
 	
 <div class="c-container ">
+		<h2 class="text-center">Time is very precious, Content is much more important</h2>
 
 	<section class="">
 			
@@ -130,42 +130,12 @@ GATE / ESE examinations.
 		<div class="swiper-container pcr">
 			<div class="swiper-wrapper">
 			  <div class="swiper-slide cta-wrapper">
-				<img src="img/qbox.png" alt="">
-				<div class="overlay" style="color: #06218F;">
-
-					<h2 class="text-center">
-						Content is always a king
-					</h2>
-
-					<ul class="simple-list semibold">
-						<li>
-							Content is more important to build the concepts; our intensive live class
-training program covers in detail for GATE batch in 700hrs to 900hrs
-approximately and for ESE + GATE batch in 1000hrs to 1200hrs approximately
-to provide complete and quality coaching for aspirants. 
-						</li>
-							
-					</ul>
-				</div>
+				<img src="img/2121.png" alt="">
+				
 			  </div>
 			  <div class="swiper-slide cta-wrapper">
-				<img src="img/qbox.png" alt="">
-				<div class="overlay" style="color: #06218F;">
-
-					<h2 class="text-center">
-						Your Time is Precious
-					</h2>
-
-					<ul class="simple-list semibold">
-						<li>
-							Advice from toppers are that "Since GATE?ESE syllabus is vast, after
-							attending the lectures aaspirants should spend ample time on practicing and
-							revising the concepts taught".<br>
-							Our Designed structured program will help in effectively utilizing your time. 
-						</li>
-							
-					</ul>
-				</div>
+				<img src="img/23112.png" alt="">
+				
 			  </div>
 			 
 			</div>
@@ -226,7 +196,7 @@ Watch the classes any number of times
 				
 			
 			
-				<ul class="simple-list space30 semibold">
+				<ul class="simple-list space30">
 					<li>
 						You can download the Class notes, pdf’s, 
 questions to practice and revise them later
@@ -308,13 +278,12 @@ Analyze & Improve by learning & practicing again.
 				
 			
 			
-				<ul class="simple-list space30 semibold">
+				<ul class="simple-list space30">
 					<li>
 						Preparation is incomplete without doubts.
 We provide three ways to clear your doubts.
 					</li>
-					<li>All the lectures are structured in line
-						according to your exam syllabus.1) Ask your doubts and get them answered
+					<li>1) Ask your doubts and get them answered
 						immediately by the faculty during class or
 						in break time. </li>
 					<li>
@@ -417,8 +386,7 @@ understanding of the concepts.
 			
 		</ul>
 
-
-<div class="spacer">
+		<div class="spacer">
 			<h2 class="blue-heading text-center">
 				Tests Structure
 			</h2>
@@ -497,7 +465,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE CE 2021 Test series 140+ Total Tests
+									GATE CE 2021 Test series <br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -573,7 +541,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EE 2021 Test Series 60+ Total Tests
+									IES EE 2021 Test Series <br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -601,7 +569,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE EC 2021 Test series 140+ Total Tests
+									GATE EC 2021 Test series<br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -625,7 +593,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EC 2021 Test Series 60+ Total Tests
+									IES EC 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -653,7 +621,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE IN 2021 Test series 30+ Total Tests
+									GATE IN 2021 Test series<br> 30+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -671,7 +639,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE IN 2021 Test Series 60+ Total Tests
+									IES IN 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -695,90 +663,108 @@ understanding of the concepts.
 					</div>
 
 					<div id="tab6" class="c-tabs">
-						<div class="text-center">
-							<h2 class="blue-heading text-center">
-								GATE CS 2021 Test series 140+ Total Tests
 
-							</h2>
-							<ul class="simple-list semibold">
-								<li>
-									74 Topic wise tests
-								</li>
-								<li>05 Multi subject wise tests
-								</li>
-								<li>
-									22 Subject wise tests
+					  <div class="text-center">
+								<h2 class="blue-heading text-center">
+									GATE CS 2021 Test series<br> 140+ Total Tests
 
-								</li>
-								
-								<li>12 Full length tests</li>
-								<li>11 Previous year full paper tests</li>
-								<li>11 Previous year subject wise tests</li>
+								</h2>
+								<br>
+								<ul class="simple-list semibold">
+									<li>
+										74 Topic wise tests
+									</li>
+									<li>05 Multi subject wise tests
+									</li>
+									<li>
+										22 Subject wise tests
 
-							</ul>
+									</li>
+									
+									<li>12 Full length tests</li>
+									<li>11 Previous year full paper tests</li>
+									<li>11 Previous year subject wise tests</li>
+
+								</ul>
+														
 						</div>
-					
+						<h3 class="text-center text-blue"></h3>
 					</div>
 
 					<div id="tab7" class="c-tabs">
-						<div class="text-center">
-							<h2 class="blue-heading text-center">
-								GATE CH 2021 Test series 100+ Total Tests
 
-							</h2>
-							<ul class="simple-list semibold">
-								
-								<li>
-									73 Subject wise tests
+					  <div class="">
+							<div class="text-center">
+								<h2 class="blue-heading text-center">
+									GATE CH 2021 Test series<br> 100+ Total Tests
 
-								</li>
-								
-								<li>03 Full length tests</li>
-								<li>11 Previous year full paper tests</li>
-								<li>16 Previous year subject wise tests</li>
+								</h2>
+								<ul class="simple-list semibold">
+									
+									<li>
+										73 Subject wise tests
 
-							</ul>
-						</div>
+									</li>
+									
+									<li>03 Full length tests</li>
+									<li>11 Previous year full paper tests</li>
+									<li>16 Previous year subject wise tests</li>
+
+								</ul>
+							</div>
 						
+						</div>
+						<h3 class="text-center text-blue"></h3>
 					</div>
 
-					<div id="tab8" class="c-tabs text-center">
+					<div id="tab8" class="c-tabs">
 
-						<h2 class="blue-heading text-center">
-							GATE BT 2021 Test series 100+ Total Tests
+					  <div class="">
+							<div class="text-center">
+								<h2 class="blue-heading text-center">
+									GATE BT 2021 Test series<br> 100+ Total Tests
 
-						</h2>
-						<ul class="simple-list semibold">
+								</h2>
+								<ul class="simple-list semibold">
+									
+									<li>
+										75 Subject wise tests
+
+									</li>
+									
+									<li>08 Full length tests</li>
+									<li>08 Previous year full paper tests</li>
+									<li>09 Previous year subject wise tests</li>
+
+								</ul>
+							</div>
 							
-							<li>
-								75 Subject wise tests
-
-							</li>
-							
-							<li>08 Full length tests</li>
-							<li>08 Previous year full paper tests</li>
-							<li>09 Previous year subject wise tests</li>
-
-						</ul>
+						</div>
+						<h3 class="text-center text-blue"></h3>
 					</div>
 
-					<div id="tab9" class="c-tabs text-center">
+					<div id="tab9" class="c-tabs">
 
-						<h2 class="blue-heading text-center">
-							GATE AE 2021 Test series 50+ Total Tests
+					  <div class="">
+							<div class="text-center">
+								<h2 class="blue-heading text-center">
+									GATE AE 2021 Test series<br> 50+ Total Tests
 
-						</h2>
-						<ul class="simple-list semibold">
-							<li>
-								40 Subject wise tests
+								</h2>
+								<ul class="simple-list semibold">
+									<li>
+										40 Subject wise tests
 
-							</li>
-							
-							<li>05 Full length tests</li>
-							<li>10 Previous year full paper tests</li>
-							
-						</ul>
-
+									</li>
+									
+									<li>05 Full length tests</li>
+									<li>10 Previous year full paper tests</li>
+									
+								</ul>
+							</div>
+						
+						</div>
+						<h3 class="text-center text-blue"></h3>
 					</div>
 
 
@@ -787,7 +773,9 @@ understanding of the concepts.
 			</div>
 		</div>
 		
-	</div>
+
+
+
 
 </section>
 

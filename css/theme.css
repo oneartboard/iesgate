@@ -96,6 +96,12 @@ body {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+.spacer-top {
+    padding-top: 50px;
+}
+.spacer-bottom {
+    padding-bottom: 50px;
+}
 
 .spacer-30 {
     padding-top: 30px;
@@ -1113,4 +1119,29 @@ background-color: #cc440d;
 
 .inline-item .btn{
   margin-right: 15px;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.note {
+    text-align: left;
+    width: 66%;
+    margin: auto;
+}
+.note:before {
+   content: 'Note : ';
+   color: red;
+   font-weight: 700;
+}
+.batch-togglebox-btn {
+    cursor: pointer;
+}
+.batch-togglebox {
+    display: none;
+}
+
+.batch-togglebox-btn:hover {
+    color: var(--theme-color) !important;
 }

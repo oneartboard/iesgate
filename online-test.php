@@ -13,8 +13,8 @@
 	<title>IES GATE ACADEMY</title>
 </head>
 <?php include 'inc/header.php' ?>
-	<div class="c-container spacer">
-		<h2 class="heading mb30">
+	<div class="c-container">
+		<h2 class="heading mb30 text-center">
 			Online Test Series
 		</h2>
 		<h2 class="blue-heading text-center">
@@ -30,9 +30,8 @@ understanding of the concepts.
 			
 		</ul>
 
-
 		<div class="spacer">
-			<h2 class="blue-heading text-center">
+			<h2 class="blue-heading text-center mt0">
 				Tests Structure
 			</h2>
 			<div class="test-table">
@@ -81,7 +80,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE ME 2021 Test Series 60+ Total Tests
+									IES ME 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -110,7 +109,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE CE 2021 Test series 140+ Total Tests
+									GATE CE 2021 Test series <br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -134,7 +133,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE CE 2021 Test Series 60+ Total Tests
+									IES CE 2021 Test Series 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -186,7 +185,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EE 2021 Test Series 60+ Total Tests
+									IES EE 2021 Test Series <br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -214,7 +213,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE EC 2021 Test series 140+ Total Tests
+									GATE EC 2021 Test series<br> 140+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -238,7 +237,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE EC 2021 Test Series 60+ Total Tests
+									IES EC 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -266,7 +265,7 @@ understanding of the concepts.
 					  <div class="flex-row">
 							<div class="flex-col col-6">
 								<h2 class="blue-heading text-center">
-									GATE IN 2021 Test series 30+ Total Tests
+									GATE IN 2021 Test series<br> 30+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -284,7 +283,7 @@ understanding of the concepts.
 							margin-left: 50px;
 							max-width: 40%;">
 								<h2 class="blue-heading text-center">
-									ISE IN 2021 Test Series 60+ Total Tests
+									IES IN 2021 Test Series<br> 60+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -311,7 +310,7 @@ understanding of the concepts.
 
 					  <div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE CS 2021 Test series 140+ Total Tests
+									GATE CS 2021 Test series<br> 140+ Total Tests
 
 								</h2>
 								<br>
@@ -341,7 +340,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE CH 2021 Test series 100+ Total Tests
+									GATE CH 2021 Test series<br> 100+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -367,7 +366,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE BT 2021 Test series 100+ Total Tests
+									GATE BT 2021 Test series<br> 100+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -393,7 +392,7 @@ understanding of the concepts.
 					  <div class="">
 							<div class="text-center">
 								<h2 class="blue-heading text-center">
-									GATE AE 2021 Test series 50+ Total Tests
+									GATE AE 2021 Test series<br> 50+ Total Tests
 
 								</h2>
 								<ul class="simple-list semibold">
@@ -418,9 +417,25 @@ understanding of the concepts.
 			</div>
 		</div>
 		
+
 	</div>
 
 </section>
+
+
+<div class="c-container spacer-bottom">
+	<h2 class="blue-heading text-center mt0">
+		Tests Features
+	</h2>
+	
+	<video class="video-loop" autoPlay loop muted>
+		<source src="video/TestsFeautures.mp4" type="video/mp4" />
+		
+		Your browser does not support the video tag.
+	  </video>
+</div>
+
+
 <?php include 'inc/footer.php' ?>
 </body>
 </html>

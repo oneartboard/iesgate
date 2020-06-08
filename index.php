@@ -175,7 +175,8 @@ best utilization of lockdown period
 		<h2 class="heading c-container" style="text-align: left;">
 			Study Materials 
 		</h2>
-		<video class="video-loop" autoPlay loop muted>
+		<video class="video-loop" autoPlay loop muted style="width: 70%;
+    margin: auto;">
 			<source src="video/StudyMaterials.mp4" type="video/mp4" />
 			
 			Your browser does not support the video tag.
@@ -753,7 +754,7 @@ understanding of the concepts.
 			</div>
 		</div>
 		
-	</div>
+</div>
 
 </section>
 
@@ -1160,7 +1161,7 @@ understanding of the concepts.
 	  </div>
 	 
 	</section>
-	</div>
+</div>
 
 
 <div class="c-container spacer">

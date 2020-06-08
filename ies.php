@@ -35,10 +35,7 @@
 
 		  <div id="one" class="vtab-content">
 			  <h3>What is ESE / IES Exam?</h3>
-			 <h2 class="heading">
-				ABOUT IES (INDIAN ENGINEERING SERVICES)
-
-			 </h2>
+			 
 			<p class="read">
 				Indian Engineering Services (IES) Exam also called as Engineering Services (ES) Exam is a premier competitive Examination conducted every year by the Union Public Service Commission (UPSC) for recruitment to the Indian Engineering Services. 
 			</p>
@@ -97,7 +94,7 @@
 					Stage-III: Personality test.<br>
 				</p>
 
-				<img src="img/ies-s.png">
+				<img class="widht100" src="img/ies-s.png">
 
 				
 			  </div>

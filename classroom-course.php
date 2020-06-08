@@ -88,11 +88,13 @@
 		<h2 class="heading c-container" style="text-align: left;">
 			Study Materials 
 		</h2>
-		<video class="video-loop" autoPlay loop muted>
+		<video class="video-loop" autoPlay loop muted style="width: 70%;
+    margin: auto;">
 			<source src="video/StudyMaterials.mp4" type="video/mp4" />
 			
 			Your browser does not support the video tag.
 		  </video>
+
 
 		<!-- <div class="stdc">
 			High quality study material prepared by
@@ -1074,9 +1076,13 @@ understanding of the concepts.
 	 
 	</section>
 	</div>
+	<div class="text-center spacer c-container">
+	<button class="btn-big ">
+		View Batches &amp; Fee Structure
+	  </button>
+  </div>
 
-
-<div class="c-container spacer">
+<div class="c-container spacer" style="padding-top:20px">
 	<h2 class="title text-purple text-center">
 		“Our Toppers”
 	</h2>

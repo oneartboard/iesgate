@@ -64,6 +64,12 @@ var swiper = new Swiper('.swiper-container.testimonial', {
 	dynamicBullets: false,
 	clickable: true,
   },
+
+  
+	autoplay: {
+		delay:  1500,
+	  },
+	  
 });
 
 
@@ -240,3 +246,7 @@ $('#news-ticker').marquee({
 		});
 	
 	})(jQuery);
+
+	$('.batch-togglebox-btn').click(function() {
+		$('.batch-togglebox').slideToggle()
+	})

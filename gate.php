@@ -152,6 +152,9 @@
 			
 			</div>
 
+
+
+
 			<div id="two" class="vtab-content">
 			   <h2 class="heading">
 				  ELIGIBILITY for GATE:
@@ -337,7 +340,13 @@
 		</table>
 		<p>
 			Examination Paper is a combination of 35 questions from multiple choice &amp; rest 30 questions are from Numerical answer type. For 1mark MCQs, 1/3mark is deducted for each wrong answer. Likewise, for 2mark MCQs, 2/3 mark is deducted for each wrong answer.&nbsp;There is NO negative marking for numerical answer type questions.</p>
-
+			<h2>TYPE OF QUESTIONS</h2>
+			<p>
+			<b>GATE</b> is an Online Computer Based Test (CBT) of 3hrs duration that consists of Multiple-choice Questions
+and Numerical Type Question in all papers &amp; sections. Multiple choice Questions will contain 4 options,
+of which only one is correct. For Numerical Type Questions, a numerical value as the answer should be
+entered using mouse and virtual keyboard on the monitor.
+			</p>
 			  </div>
 
 			  <div id="four" class="vtab-content">
