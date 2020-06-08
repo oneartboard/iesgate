@@ -228,42 +228,42 @@
 			<li>
 				WAPCOS Limited</li>
 		</ol>
-		<p align="center">
 			<h3 class="orange">MINIRATNA CATEGORY-II</h3>
-		<p>
-			57.&nbsp; Bharat Pumps &amp; Compressors Limited</p>
-		<p>
-			58.&nbsp; Broadcast Engineering Consultants (I) Limited</p>
-		<p>
-			59.&nbsp; Central Mine Planning &amp; Design Institute Limited</p>
-		<p>
-			60.&nbsp; Central Railside Warehouse Company Limited</p>
-		<p>
-			61.&nbsp; Ed.CIL (India) Limited</p>
-		<p>
-			62.&nbsp; Engineering Projects (India) Limited</p>
-		<p>
-			63.&nbsp; FCI Aravali Gypsum &amp; Minerals India Limited</p>
-		<p>
-			64.&nbsp; Ferro Scrap Nigam Limited</p>
-		<p>
-			65.&nbsp; HMT (International) Limited</p>
-		<p>
-			66.&nbsp; HSCC (India) Limited</p>
-		<p>
-			67.&nbsp; Indian Medicines &amp; Pharmaceuticals Corporation Limited</p>
-		<p>
-			68.&nbsp; M E C O N Limited</p>
-		<p>
-			69.&nbsp; Mineral Exploration Corporation Limited</p>
-		<p>
-			70.&nbsp; National Film Development Corporation Limited</p>
-		<p>
-			71.&nbsp; National Small Industries Corporation Limited</p>
-		<p>
-			72.&nbsp; P E C Limited</p>
-		<p>
-			73.&nbsp; Rajasthan Electronics &amp; Instruments Limited.</p>
+		<ol>
+			<li>57.&nbsp; Bharat Pumps &amp; Compressors Limited</li>
+		
+			<li>58.&nbsp; Broadcast Engineering Consultants (I) Limited</li>
+		
+			<li>59.&nbsp; Central Mine Planning &amp; Design Institute Limited</li>
+		
+			<li>60.&nbsp; Central Railside Warehouse Company Limited</li>
+		
+			<li>61.&nbsp; Ed.CIL (India) Limited</li>
+		
+			<li>62.&nbsp; Engineering Projects (India) Limited</li>
+		<li>
+			63.&nbsp; FCI Aravali Gypsum &amp; Minerals India Limited</li>
+		<li>
+			64.&nbsp; Ferro Scrap Nigam Limited</li>
+		<li>
+			65.&nbsp; HMT (International) Limited</li>
+		<li>
+			66.&nbsp; HSCC (India) Limited</li>
+		<li>
+			67.&nbsp; Indian Medicines &amp; Pharmaceuticals Corporation Limited</li>
+		<li>
+			68.&nbsp; M E C O N Limited</li>
+		<li>
+			69.&nbsp; Mineral Exploration Corporation Limited</li>
+		<li>
+			70.&nbsp; National Film Development Corporation Limited</li>
+		<li>
+			71.&nbsp; National Small Industries Corporation Limited</li>
+		<li>
+			72.&nbsp; P E C Limited</li>
+		<li>
+			73.&nbsp; Rajasthan Electronics &amp; Instruments Limited.</li>
+		</ol>
 			  </div>
 
 			  <div id="three" class="vtab-content">
