@@ -690,124 +690,124 @@
 				   <h2 class="heading">
 					  PSUs THROUGH INDIVIDUAL WRITTEN TEST
 				   </h2>
-				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
+				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr">
 			<colgroup>
 				<col width="100" />
-				<col width="363" />
+				<col width="563" />
 			</colgroup>
 			<tbody>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BSNL (JTO)&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						BSNL (JTO)</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bharat Sanchar Nigam Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Bharat Sanchar Nigam Limited</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RRB&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						RRB</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Railway Recruitment Board&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Railway Recruitment Board</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						SSC</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Staff Selection Commission&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Staff Selection Commission</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;AAI&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						AAI</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Airports Authority of India&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Airports Authority of India</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SAIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						SAIL</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Steel Authority of India Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Steel Authority of India Limited</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ISRO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						ISRO</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Indian Space Research Organization&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Indian Space Research Organization</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DRDO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						DRDO</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Defense Research and Development Organization&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Defense Research and Development Organization</td>
 				</tr>
 				<tr style="height: 21px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GRSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						GRSC</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Garden Reach Shipbuilders &amp; Engineers Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Garden Reach Shipbuilders &amp; Engineers Limited</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TVNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						TVNL</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TenughatVidyut Nigam Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						TenughatVidyut Nigam Limited</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BIS&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						BIS</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bureau of Indian Standards&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Bureau of Indian Standards</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JUVNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						JUVNL</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jharkhand UrjaVikash Nigam Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Jharkhand UrjaVikash Nigam Limited</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BEL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						BEL</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bharat Electronics Limite&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Bharat Electronics Limite</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JPSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						JPSC</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jharkhand Public Service Commissio&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Jharkhand Public Service Commissio</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;WAPCOS&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						WAPCOS</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Water Resources, Power and Infrastructure Sectors&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Water Resources, Power and Infrastructure Sectors</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TSGENCO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						TSGENCO</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Telangana State Power Generation Corporation Ltd&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Telangana State Power Generation Corporation Ltd</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TSNPDCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						TSNPDCL</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Telangana State Northern Power Distribution Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Telangana State Northern Power Distribution Limited</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TSTRANSCO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						TSTRANSCO</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Transmission Corporation of Telangana Limite&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Transmission Corporation of Telangana Limite</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MESCOM&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						MESCOM</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mangalore Electricity Supply Company Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Mangalore Electricity Supply Company Limited</td>
 				</tr>
 				<tr style="height: 21px;">
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;EIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						EIL</td>
-					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Engineers India Limited&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
+					<td>
 						Engineers India Limited</td>
 				</tr>
 			</tbody>
