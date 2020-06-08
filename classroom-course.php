@@ -567,7 +567,7 @@ understanding of the concepts.
 								<br>
 								<ul class="simple-list semibold">
 									<li>
-										74 Topic wise tests
+										64 Topic wise tests
 									</li>
 									<li>05 Multi subject wise tests
 									</li>
@@ -578,7 +578,7 @@ understanding of the concepts.
 									
 									<li>12 Full length tests</li>
 									<li>11 Previous year full paper tests</li>
-									<li>11 Previous year subject wise tests</li>
+									<li>10 Previous year subject wise tests</li>
 
 								</ul>
 														
@@ -747,7 +747,9 @@ understanding of the concepts.
 	  </div>
 </section>
 
+<?php include 'inc/course-details.php' ?>
 
+<!--
 <div class="table-wrapper c-container">
 	<h2 class="title text-purple text-center">
 		Course Details
@@ -1076,6 +1078,7 @@ understanding of the concepts.
 	 
 	</section>
 	</div>
+-->
 	<div class="text-center spacer c-container">
 
 	  <a href="batches.php" class="btn-big ">View Batches &amp; Fee Structure</a>

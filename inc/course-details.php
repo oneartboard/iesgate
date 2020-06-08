@@ -220,7 +220,7 @@
 		
 				</p>
 				<h2 class="text-theme semibold">
-					Exclusive Weekend & Regular Batches
+					Exclusive Weekend Batches
 				</h2>
 			</center>
 			<ul class="c-accr">
