@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="css/theme.css">
 	<link rel="stylesheet" href="css/responsive.css">
 	
-	<title>IES GATE ACADEMY</title>
+	<title>Home - IES GATE ACADEMY</title>
 </head>
 
 <?php include 'inc/header.php' ?>
