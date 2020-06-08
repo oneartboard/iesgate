@@ -270,13 +270,13 @@
 				   <h2 class="heading">
 					  PSUs THROUGH GATE SCORE
 				   </h2>
-				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout: fixed; font-size: 11pt; width: 100px; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
+				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout: fixed; font-size: 11pt; width: 100%; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
 			<colgroup>
 				<col width="100" />
 				<col width="100" />
 			</colgroup>
 			<tbody>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IOCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						IOCL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Indian oil corporation Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -286,7 +286,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;HPCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						HPCL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hindustan Petroleum Corporation Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -296,7 +296,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ONGC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						ONGC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Oil&amp; Natural Gas Corporation Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -306,7 +306,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NTPC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NTPC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Thermal Power Corporation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -316,7 +316,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NHPC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NHPC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Hydroelectric Power Corporation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -326,7 +326,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BARC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						BARC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Baba Atomic Research center&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -336,7 +336,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BPCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						BPCL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bharath Petroleum Corporation Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -346,7 +346,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CEL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						CEL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Central Electronics Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -356,7 +356,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;COAL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						COAL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coal India Pvt Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -366,7 +366,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;OPGC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						OPGC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Orissa power generation corporation ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -376,7 +376,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MDL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						MDL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mazagon Dock Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -386,7 +386,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NLCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NLCL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Neyveli Lignite Corporation Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -396,7 +396,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NBCC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NBCC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Buildings Construction Corporation Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -406,23 +406,23 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;WBSEDCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						WBSEDCL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;West Bengal State Electricity Distribution Company Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
-						<div style="white-space: nowrap; overflow: hidden; position: relative; width: 398px; left: 3px;">
+						<div style="white-space: nowrap; overflow: hidden; position: relative; width: 100%; left: 3px;">
 							<div style="float: left;">
 								West Bengal State Electricity Distribution Company Limited</div>
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;OIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						OIL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Oil India Limite&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						Oil India Limite</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MECL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						MECL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mineral Exploration Corporation Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -432,7 +432,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NFL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NFL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Fertilizers Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -442,7 +442,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IPR&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						IPR</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Institute for Plasma Research&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -452,7 +452,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PSPCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						PSPCL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Punjab State Power Corporation Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -462,7 +462,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PSTCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						PSTCL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Punjab State Transmission Corporation Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -472,7 +472,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;THDC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						THDC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tehri Hydro Development Corporation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -482,7 +482,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BBNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						BBNL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bharat Broadband Network Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -492,7 +492,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RITES&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						RITES</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Railway Infrastructure Technical &amp; Economic Services&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -502,7 +502,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IRCON&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						IRCON</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Indian Railway Construction Company Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -512,7 +512,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GSCEL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						GSCEL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Gujarat State Electricity Corporation Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -522,7 +522,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NHAI&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NHAI</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Highway Authority of India&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -532,7 +532,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;KRIBHCO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						KRIBHCO</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Krishak Bharati Cooperative Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -542,7 +542,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MRVC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						MRVC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Maharashtra Road Vikas Corporation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -552,7 +552,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NTC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NTC</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Textile Corporation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -562,7 +562,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RVNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						RVNL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rail Vikas Nigam Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -572,7 +572,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BNPM&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						BNPM</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bank Note Paper Mill India Pvt Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -582,7 +582,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;EDCIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						EDCIL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Educational Consultants India Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -592,7 +592,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NALCO&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						NALCO</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Aluminium Company Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -602,7 +602,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PGCIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						PGCIL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Power Grid Corporation of India Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -612,7 +612,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;HAL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						HAL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hindustan Aeronautics Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -622,7 +622,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BHEL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						BHEL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bharath heavy electrical Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -632,7 +632,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MTNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						MTNL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mahanagar Telephone Nigam Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -642,7 +642,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;VSNL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						VSNL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Videsi Sanchar Nigam Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -652,7 +652,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IGCAR&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						IGCAR</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Indira Gandhi Centre for Atomic Research&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -662,7 +662,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GAIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						GAIL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Gas Authority of India Ltd&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -672,7 +672,7 @@
 						</div>
 					</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ECIL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						ECIL</td>
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Electronics Corporation of India Limited&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) transparent rgb(204, 204, 204) rgb(204, 204, 204); border-image: initial; overflow: visible; padding: 2px 3px; vertical-align: bottom;">
@@ -696,115 +696,115 @@
 				<col width="563" />
 			</colgroup>
 			<tbody>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						BSNL (JTO)</td>
 					<td>
 						Bharat Sanchar Nigam Limited</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						RRB</td>
 					<td>
 						Railway Recruitment Board</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						SSC</td>
 					<td>
 						Staff Selection Commission</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						AAI</td>
 					<td>
 						Airports Authority of India</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						SAIL</td>
 					<td>
 						Steel Authority of India Limited</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						ISRO</td>
 					<td>
 						Indian Space Research Organization</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						DRDO</td>
 					<td>
 						Defense Research and Development Organization</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GRSC&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
 						GRSC</td>
 					<td>
 						Garden Reach Shipbuilders &amp; Engineers Limited</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						TVNL</td>
 					<td>
 						TenughatVidyut Nigam Limited</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						BIS</td>
 					<td>
 						Bureau of Indian Standards</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						JUVNL</td>
 					<td>
 						Jharkhand UrjaVikash Nigam Limited</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						BEL</td>
 					<td>
 						Bharat Electronics Limite</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						JPSC</td>
 					<td>
 						Jharkhand Public Service Commissio</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						WAPCOS</td>
 					<td>
 						Water Resources, Power and Infrastructure Sectors</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						TSGENCO</td>
 					<td>
 						Telangana State Power Generation Corporation Ltd</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						TSNPDCL</td>
 					<td>
 						Telangana State Northern Power Distribution Limited</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						TSTRANSCO</td>
 					<td>
 						Transmission Corporation of Telangana Limite</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						MESCOM</td>
 					<td>
 						Mangalore Electricity Supply Company Limited</td>
 				</tr>
-				<tr style="height: 30px;">
+				<tr style="height: 45px;">
 					<td>
 						EIL</td>
 					<td>
