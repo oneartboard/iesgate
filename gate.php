@@ -48,33 +48,33 @@
 		<p>
 			The following table shows the organizing institutes in various years:</p>
 		<table align="center" border="1" cellpadding="0" cellspacing="0">
-			<tbody>
+			<tbody align="center">
 				<tr>
-					<td style="width:186px;height:17px;">
+					<td style="width:20%;height:17px;">
 						<p align="center">
 							<strong>Year</strong></p>
 					</td>
-					<td style="width:186px;height:17px;">
+					<td style="width:20%;height:17px;">
 						<p align="center">
 							<strong>Organizing Institute</strong></p>
 					</td>
 				</tr>
 				<tr>
-					<td style="width:186px;height:17px;">
+					<td style="width:20%;height:17px;">
 						<p align="center">
 							2020</p>
 					</td>
-					<td style="width:186px;height:17px;">
+					<td style="width:20%;height:17px;">
 						<p align="center">
 							IIT Delhi</p>
 					</td>
 				</tr>
 				<tr>
-					<td style="width:186px;height:17px;">
+					<td style="width:20%;height:17px;">
 						<p align="center">
 							2019</p>
 					</td>
-					<td style="width:186px;height:17px;">
+					<td style="width:20%;height:17px;">
 						<p align="center">
 							IIT Madras</p>
 					</td>
