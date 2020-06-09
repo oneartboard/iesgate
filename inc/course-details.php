@@ -95,12 +95,12 @@
 					
 						<h3>Class Timings</h3>
 						<p>Saturday (5pm to 8pm), Sunday, Festival & Public Holidays (8AM to 7PM)</p>
-						<p style="color: #808080"> 
+						<p style="color: #808080; font-weight: 300; font-size: 15px;"> 
 					Note : GATE syllabus will be covered on weekends & public holidays only.<br>
 					Extra ESE syllabus for prelims will be covered on weekdays.
 
 				</p>
-						<table style="width: 100%; text-decoration: bold;" class="accr-table">
+						<table style="width: 100%; font-weight: 700;" class="accr-table">
 							  <tr>
 								<th>Exam</th>
 								<th>Duration</th> 
@@ -129,7 +129,7 @@
 							  
 					</table>
 		
-					<p style="color: #808080"> Note: Course fee includes registration fee, GST, Study materials, Test Series (Offline & Online)</p>
+					<p style="color: #808080; font-weight: 300; font-size: 15px;"> Note: Course fee includes registration fee, GST, Study materials, Test Series (Offline & Online)</p>
 					<div class="inline-item">
 					<a class="btn btn-theme" href="enquire.php">ENQUIRE NOW</a>
 					<a class="btn btn-theme" href="enroll-now.php">ENROLL NOW</a>
@@ -145,7 +145,7 @@
 				
 					<div class="accr-item">
 						<h4>
-						Class Venue: T. Nagar
+						Class Venue: <span style="color: #000000">T. Nagar</span>
 						</h4>
 						<h4>
 							Streams Offered
@@ -177,7 +177,7 @@
 						</p>
 						<h3>Class Timings</h3>
 						<p>5-6 days in a week and 6 to 8 hours per day.</p>
-						<table style="width: 100%" class="accr-table">
+						<table style="width: 100%; font-weight: 700;" class="accr-table">
 							  <tr>
 								<th>Exam</th>
 								<th>Duration</th> 
@@ -197,7 +197,7 @@
 							  
 					</table>
 		
-						<p> Note: Course fee includes registration fee, GST, Study materials, Test Series (Offline & Online)</p>
+						<p style="color: #808080; font-weight: 300; font-size: 15px;"> Note: Course fee includes registration fee, GST, Study materials, Test Series (Offline & Online)</p>
 		
 						<div class="inline-item">
 					<a class="btn btn-theme" href="enquire.php">ENQUIRE NOW</a>
@@ -235,7 +235,7 @@
 
 					<div class="accr-item">
 						<h4>
-						Class Venue - Gandhipuram
+						Class Venue - <span style="color: #000000">Gandhipuram</span>
 
 						</h4>
 					
@@ -273,12 +273,12 @@
 						Saturday (5PM to 8PM), Sunday, Festival & Public Holidays (8AM to 7PM)
 
 						</p>
-						<p> 
+						<p style="color: #808080; font-weight: 300; font-size: 15px;"> 
 					Note : GATE syllabus will be covered on weekends & public holidays only.<br>
 					Extra ESE syllabus for prelims will be covered on weekdays.
 
 				</p>
-						<table style="width: 100%" class="accr-table">
+						<table style="width: 100%; font-weight: 700;" class="accr-table">
 							  <tr>
 								<th>Exam</th>
 								<th>Duration</th> 
@@ -313,7 +313,7 @@
 							  
 					</table>
 		
-					<p> 
+					<p style="color: #808080; font-weight: 300; font-size: 15px;"> 
 					Note : Course Fee includes Registration Fee, GST, Study Materials, Test Series (Offline & Online)
 
 				</p>
