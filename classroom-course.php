@@ -711,6 +711,9 @@ understanding of the concepts.
   </section>
 </div>
 
+
+
+<!--
 <section class="table-wrapper c-container spacer ">
 	<h2 class="title text-purple text-center">
 		What’s New
@@ -747,9 +750,10 @@ understanding of the concepts.
 	  </div>
 </section>
 
+
 <?php include 'inc/course-details.php' ?>
 
-<!--
+
 <div class="table-wrapper c-container">
 	<h2 class="title text-purple text-center">
 		Course Details
