@@ -28,7 +28,7 @@
 		
 				</p>
 				<h2 class="text-theme semibold">
-					Exclusive Weekend &  Batches 
+					Exclusive Weekend & Regular Batches 
 				</h2>
 			</center>
 			<ul class="c-accr">
