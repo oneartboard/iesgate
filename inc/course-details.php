@@ -39,7 +39,7 @@
 
 					<div class="accr-item">
 						<h4>
-						Class Venue: T. Nagar
+						Class Venue: <span style="color: #000000">T. Nagar</span>
 						</h4>
 					
 							<h4>
