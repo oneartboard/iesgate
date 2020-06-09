@@ -50,7 +50,7 @@
 							- Electronics & Communication Engineering (EC)
 							</li>
 							<li>
-								- Electrical & Electronics Engineering (EC)
+								- Electrical & Electronics Engineering (EE)
 
 							</li>
 								<li>
@@ -69,10 +69,7 @@
 									- Computer Science Engineering (CS)
 
 								</li>
-								<li>
-							- Computer Science Engineering (CS)
-
-								</li>
+								
 								<li>
 									- Information Technology (IT)
 
@@ -154,7 +151,7 @@
 
 							</li>
 							<li>
-							- Electrical & Electronics Engineering (EC)
+							- Electrical & Electronics Engineering (EE)
 								
 							</li>
 							<li>
@@ -213,15 +210,17 @@
 		
 			<center>
 				<br>
+
+				<h2 class="text-theme semibold">
+					Exclusive Weekend Batches
+				</h2>
 				
 				<p class="lead" style="font-size: 18px;">
 					2nd / 3rd Year Students are advised to join early to manage time in final year.
 		No additional Fee will be charged for 2 years Classroom Course.
 		
 				</p>
-				<h2 class="text-theme semibold">
-					Exclusive Weekend Batches
-				</h2>
+				
 			</center>
 			<ul class="c-accr">
 				<li class="accr-li">
@@ -269,6 +268,11 @@
 						Saturday (5PM to 8PM), Sunday, Festival & Public Holidays (8AM to 7PM)
 
 						</p>
+						<p> 
+					Note : GATE syllabus will be covered on weekends & public holidays only.<br>
+					Extra ESE syllabus for prelims will be covered on weekdays.
+
+				</p>
 						<table style="width: 100%" class="accr-table">
 							  <tr>
 								<th>Exam</th>
@@ -292,7 +296,7 @@
 							                                                        
 
 									<td>GATE + PSUs - 2022</td>
-									<td> Upto December 2021 </td>
+									<td> Upto December 2022 </td>
 									<td> Rs. 25,000/-</td>
 							  </tr>
 							  <tr>

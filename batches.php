@@ -54,6 +54,46 @@
             who are planning to do their preparation in full time or part time. Contact us to know
             more in detail about preparation & study plans.
 	</p>
+	<table style="width: 100%" class="accr-table">
+							  <tr>
+								<th>Exam</th>
+								<th>Duration</th> 
+								<th>Fee</th>
+							  </tr>
+							  <tr>
+							       
+
+									<td> GATE + PSUs - 2021</td>
+									<td>Upto January 2021 </td>
+									<td> Rs. 20,000/-</td>
+							  </tr>
+							  <tr>
+							    
+									<td> IES + GATE + PSUs - 2021</td>
+									<td>Upto April 2021</td>
+									<td> Rs. 25,000/-</td>
+							  </tr>
+							  <tr>
+							                                                        
+
+									<td>GATE + PSUs - 2022</td>
+									<td> Upto December 2022 </td>
+									<td> Rs. 22,000/-</td>
+							  </tr>
+							  <tr>
+							    
+									<td>IES + GATE + PSUs - 2022  </td>
+									<td> Upto April 2022</td>
+									<td> Rs. 30,000/-</td>
+							  </tr>
+							  
+					</table>
+
+			<p ><b style="font-size: 30px;
+    color: var(--theme-color);">Course Validity</b> – Till end of the respective examinations</p>
+    <p ><b style="font-size: 30px;
+    color: var(--theme-color);">Enquire Today & avail attractive discounts.</b></p>
+		
 	<div class="inline-item" style="justify-content:flex-start;margin-top:20px">
 				<button class="btn btn-theme">ENQUIRE NOW</button>
 				<button class="btn btn-theme">ENROLL NOW</button>
