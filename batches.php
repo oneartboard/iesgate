@@ -56,9 +56,9 @@
 	</p>
 					<table style="width: 100%" class="accr-table">
 							  <tr>
-								<th style="align-content: left;">Exam</th>
-								<th style="align-content: left;">Duration</th> 
-								<th style="align-content: left;">Fee</th>
+								<th>Exam</th>
+								<th>Duration</th> 
+								<th>Fee</th>
 							  </tr>
 							  <tr>
 							       
@@ -85,6 +85,41 @@
 									<td>IES + GATE + PSUs - 2022  </td>
 									<td> Upto April 2022</td>
 									<td> Rs. 30,000/-</td>
+							  </tr>
+							  
+					</table>
+
+					<table style="width: 100%" class="accr-table">
+							  <tr>
+								<th>Exam</th>
+								<th>Duration</th> 
+								<th>Fee</th>
+							  </tr>
+							  <tr>
+							       
+
+									<td> GATE + PSUs - 2021</td>
+									<td>Upto January 2021 </td>
+									<td> Rs. 25,000/-</td>
+							  </tr>
+							  <tr>
+							    
+									<td> IES + GATE + PSUs - 2021</td>
+									<td>Upto April 2021</td>
+									<td> Rs. 40,000/-</td>
+							  </tr>
+							  <tr>
+							                                                        
+
+									<td>GATE + PSUs - 2022</td>
+									<td> Upto December 2022 </td>
+									<td> Rs. 25,000/-</td>
+							  </tr>
+							  <tr>
+							    
+									<td>IES + GATE + PSUs - 2022  </td>
+									<td> Upto April 2022</td>
+									<td> Rs. 40,000/-</td>
 							  </tr>
 							  
 					</table>
