@@ -710,9 +710,6 @@ understanding of the concepts.
   
   </section>
 </div>
-
-
-
 <!--
 <section class="table-wrapper c-container spacer ">
 	<h2 class="title text-purple text-center">
@@ -742,16 +739,18 @@ understanding of the concepts.
 			
 		  </div>
 		  <div id="tab22">
+		  -->
 			  <!-- NOTIFICATIONS -->
+		<!--
 		  </div>
 		  
 		</section>
 		
 	  </div>
 </section>
-
-
-<?php include 'inc/course-details.php' ?>
+-->
+<!--
+<?php include '' ?>
 
 
 <div class="table-wrapper c-container">
