@@ -23,7 +23,7 @@
 		  <li class="bt-li"><a href="#tab22" style="color: gray;">Liveroom Course</a></li>
 		</ul>
 
-		<div style="height: 100px"></div>
+		<div style="height: 50px"></div>
 	
 		<section id="first-tab-group2" class="tabgroup">
 		  <div id="tab11" >
