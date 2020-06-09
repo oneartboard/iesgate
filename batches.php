@@ -56,9 +56,9 @@
 	</p>
 					<table style="width: 100%;" class="accr-table">
 							  <tr>
-								<th style="color: var(--theme-color)";>Exam</th>
-								<th>Duration</th> 
-								<th>Fee</th>
+								<th style="color: var(--theme-color); text-align: left; font-size: 1.2em; padding-top:15px; padding-bottom:10px;">Exam</th>
+								<th style="color: var(--theme-color); text-align: left; font-size: 1.2em; padding-top:15px; padding-bottom:10px;">Duration</th> 
+								<th style="color: var(--theme-color); text-align: left; font-size: 1.2em; padding-top:15px; padding-bottom:10px;">Fee</th>
 							  </tr>
 							  <tr>
 							       
