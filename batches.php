@@ -22,6 +22,8 @@
 		  <li class="bt-li"><a href="#tab11" class="active">Classroom Courses</a></li>
 		  <li class="bt-li"><a href="#tab22" style="color: gray;">Liveroom Course</a></li>
 		</ul>
+
+		<div style="height: 100px"></div>
 	
 		<section id="first-tab-group2" class="tabgroup">
 		  <div id="tab11" >
@@ -47,8 +49,7 @@
 		<li>	Aerospace Engineering (AE)</li>
 	</ul>
 
-<p ><b style="font-size: 30px;
-    color: var(--theme-color);">Class Timings</b> – Monday to Saturday (6PM to 9PM) & Sunday (9AM to 6PM)</p>
+<p ><b class="text-theme no-margin">Class Timings</b> – Monday to Saturday (6PM to 9PM) & Sunday (9AM to 6PM)</p>
 	<p class="note" style="width:100%">
 		  Our Class timings are suitable for Working professionals, College-goers, Graduates etc.,
             who are planning to do their preparation in full time or part time. Contact us to know
@@ -90,9 +91,9 @@
 					</table>
 
 
-				<p ><b style="font-size: 30px; color: var(--theme-color);">Course Validity</b> – 	Till end of the respective examinations</p>
+				<p ><b class="text-theme no-margin">Course Validity</b> – 	Till end of the respective examinations</p>
 
-    			<p ><b style="font-size: 30px;color: var(--theme-color);">Enquire Today & avail attractive discounts.</b></p>
+    			<p ><b class="text-theme no-margin">Enquire Today & avail attractive discounts.</b></p>
 		
 	<div class="inline-item" style="justify-content:flex-start;margin-top:20px">
 				<button class="btn btn-theme">ENQUIRE NOW</button>

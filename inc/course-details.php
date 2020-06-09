@@ -94,8 +94,13 @@
 							</ul>
 					
 						<h3>Class Timings</h3>
-						<p>Saturday (5pm to 8pm) Sunday, Festival & Public Holidays (8AM to 7PM)</p>
-						<table style="width: 100%" class="accr-table">
+						<p>Saturday (5pm to 8pm), Sunday, Festival & Public Holidays (8AM to 7PM)</p>
+						<p style="color: #808080"> 
+					Note : GATE syllabus will be covered on weekends & public holidays only.<br>
+					Extra ESE syllabus for prelims will be covered on weekdays.
+
+				</p>
+						<table style="width: 100%; text-decoration: bold;" class="accr-table">
 							  <tr>
 								<th>Exam</th>
 								<th>Duration</th> 
@@ -124,7 +129,7 @@
 							  
 					</table>
 		
-					<p> Note: Course fee includes registration fee, GST, Study materials, Test Series (Offline & Online)</p>
+					<p style="color: #808080"> Note: Course fee includes registration fee, GST, Study materials, Test Series (Offline & Online)</p>
 					<div class="inline-item">
 					<a class="btn btn-theme" href="enquire.php">ENQUIRE NOW</a>
 					<a class="btn btn-theme" href="enroll-now.php">ENROLL NOW</a>
