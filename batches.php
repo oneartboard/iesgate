@@ -54,11 +54,11 @@
             who are planning to do their preparation in full time or part time. Contact us to know
             more in detail about preparation & study plans.
 	</p>
-	<table style="width: 100%" class="accr-table">
+					<table style="width: 100%" class="accr-table">
 							  <tr>
-								<th>Exam</th>
-								<th>Duration</th> 
-								<th>Fee</th>
+								<th style="align-content: left;">Exam</th>
+								<th style="align-content: left;">Duration</th> 
+								<th style="align-content: left;">Fee</th>
 							  </tr>
 							  <tr>
 							       
@@ -89,10 +89,9 @@
 							  
 					</table>
 
-			<p ><b style="font-size: 30px;
-    color: var(--theme-color);">Course Validity</b> – Till end of the respective examinations</p>
-    <p ><b style="font-size: 30px;
-    color: var(--theme-color);">Enquire Today & avail attractive discounts.</b></p>
+				<p ><b style="font-size: 30px; color: var(--theme-color);">Course Validity</b> – 	Till end of the respective examinations</p>
+
+    			<p ><b style="font-size: 30px;color: var(--theme-color);">Enquire Today & avail attractive discounts.</b></p>
 		
 	<div class="inline-item" style="justify-content:flex-start;margin-top:20px">
 				<button class="btn btn-theme">ENQUIRE NOW</button>
