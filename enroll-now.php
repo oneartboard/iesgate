@@ -221,11 +221,23 @@
 				</select>
 			</div>
 
+			<div class="confirm">
+				<p>If Classroom course + LIve Class (Partial Payment) select</p>
+				<p><strong>Payment Details:</strong></p>
+				<p>Course Fee: Rs. 10,000/-</p>
+				<p>Total: Rs. 10,000/-</p>
+				<p>Note: Due amount should be paid in a month of enrollment. Online live classes + Classroom coaching after lockdown is lifted is included in this course.</p>
+			</div>
+
 			<div class="vgroup">
 				<button class="btn-theme">Submit</button>
 			</div>
 
 		</form>
+		<p>
+			
+		</p>
+
 		</div>
 	</div>
 
