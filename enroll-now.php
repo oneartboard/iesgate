@@ -171,6 +171,7 @@
 							<option value="">--Select Center--</option>
 							<option value="">Chennai</option>
 							<option value="">Coimbatore</option>
+							<option value="">Others</option>
 						</select>
 					</div>
 				</div>
@@ -198,6 +199,7 @@
 				<select name="" id="">
 					<option value="">--Select Stream--</option>
 					<option value="">EE - Electrical & Electronics Engineering</option>
+					<option value="">EC - Electronics & Communication Engineering</option>
 					<option value="">IN - Instrumentation Engineering</option>
 					<option value="">CE - Civil Engineering</option>
 					<option value="">ME - Mechanical Engineering</option>
