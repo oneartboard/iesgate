@@ -222,7 +222,7 @@
 			</div>
 
 			<div class="confirm">
-				<p>If Classroom course + LIve Class (Partial Payment) select</p>
+				<p>If (Classroom course + LIve Class) + Registration <i>selected</i></p>
 				<p><strong>Payment Details:</strong></p>
 				<p>Course Fee: Rs. 10,000/-</p>
 				<p>Total: Rs. 10,000/-</p>
@@ -230,7 +230,68 @@
 			</div>
 
 			<div class="vgroup">
+					<input type="checkbox" >
+					<label for="">I agree with terms & conditions</label>
 				<button class="btn-theme">Submit</button>
+			</div>
+			
+			<div class="confirm">
+				<h3>Confirm Details & Make Payment</h3>
+				<p>Name:</p>
+				<p>Email:</p>
+				<p>Mobile No:</p>
+				<p>Selected Course:</p>
+				<p>Selected Center:</p>
+				<p>Selected Exam:</p>
+				<p>Selected Batch:</p>
+				<p>Selected Stream:</p>
+				<p>Selected Payment:</p>
+				<p>Fee Payable:</p>
+				<p></p>
+				<button class="btn-theme">Proceed to Payment</button>
+				<p>Go back</p>
+			</div>
+
+			<div>
+				<h3>Terms & Conditions</h3>
+				<ol>
+			<li>
+				Student must be serious before taking admission and must remain committed in the course preparation of the target exam. Fees once paid will not be refunded or adjusted at any stage, under any circumstance.&nbsp;</li>
+			<li>
+				Students will have to pay the due amount in a month strictly from the date of admission</li>
+			<li>
+				Study Materials will be provided to the students after the complete fee payment &amp; Submission of admission documents.</li>
+			<li>
+				Rank improvement program is for classroom coaching only and is valid for three consecutive years from the date of admission.</li>
+			<li>
+				Extra IES syllabus for the weekend batch students will conduct on regular days since syllabus is vast to cover only on weekends.&nbsp;</li>
+			<li>
+				Change of place, change of packages / courses will not be entertained, under any circumstance.</li>
+			<li>
+				In case a student goes for upgrade, an extra amount will be charged for the packages / courses as per the institution fee.&nbsp;</li>
+			<li>
+				In case of reprint of study material during the academic year, due to lack of stock / a revision of content, IES GATE ACADEMY does not take the responsibility to distribute the reprinted edition to the students who were received earlier.&nbsp;</li>
+			<li>
+				IES GATE ACADEMY reserves the right to announce and withdraw discount schemes as its own discretion and no claim of any kind will be entertained in this matter. After the admission, even if a student is eligible for any discount will not be entertained.&nbsp;</li>
+			<li>
+				In case of misuse of ID Card is found by the management, then the candidate admission will be cancelled without any further explanation</li>
+			<li>
+				IES GATE ACADEMY reserves the right to change the schedule, staff, venue &amp; timings of the classes at its own discretion.&nbsp;</li>
+			<li>
+				Study materials, videos etc., are exclusive copyright of IES GATE ACADEMY and cannot be reproduced in print, media or otherwise, without explicit permission of the institution. They cannot be shared with other students or copied and provided as study material to any organization.</li>
+			<li>
+				IES GATE ACADEMY reserves the right to use results and information of students enrolled for its courses, in its advertisements and promotional material etc., to promote its products and services. IES GATE ACADEMY does not share the data to third party, with exception to Indian Government organizations.</li>
+			<li>
+				IES GATE ACADEMY assumes no liability whatsoever for any monetary or other damage suffered by the user on account of the delay, failure, interruption, or corruption of any data or other information transmitted in connection with use of the payment gateway or services in connection and any interruption or errors in the operation of the payment gateway.</li>
+			<li>
+				These terms and conditions may be revised at any time by updating this post. You are bound by any such revisions and should therefore periodically visit this page to review the then current terms and condition to which you are bound.</li>
+		</ol>
+		<div>
+			&nbsp;</div>
+		<div>
+			The above mentioned are the terms and conditions for IES GATE ACADEMY online enrollments. By submitting our online registration form for enrollment, you are accepting to the terms &amp; conditions.&nbsp;</div>
+		<div>
+			&nbsp;</div>
 			</div>
 
 		</form>
