@@ -415,7 +415,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 	var fee =  parseInt(<?php echo $fee_total ?>) *100;
 
 	var options = {
-	    "key": "rzp_test_F2m9M43m7w7HV3",
+	    "key": "rzp_live_k72SiUL4jGMwwG",
 	    "amount":fee,
 	    "currency": "INR",
 	    "name": "IES GATE ACADEMY",
