@@ -14,7 +14,7 @@
 	<title>IES GATE ACADEMY</title>
 </head>
 <?php include 'inc/header.php' ?>
-<?php //include 'send-email.php' ?>
+<?php include 'send-email.php' ?>
 <?php
 $fname = $lname = $email = $gender = $phone = $dob =$c_email =$father_name = $occupation =$fphone= "";
 $address = $street =$city=$pincode=$state ="";
