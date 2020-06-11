@@ -415,7 +415,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 	         console.log(response.razorpay_order_id);
 	         console.log(response.razorpay_signature);
 	         if (response.razorpay_payment_id) {
-	         	location.href = 'http://localhost/iesgate/iesgate/payment-status.php?txt='+response.razorpay_payment_id
+	         	location.href = 'http://iesgateacademy.in/live/iesgate/payment-status.php?txt='+response.razorpay_payment_id
 	         }
 	        
 	    },
