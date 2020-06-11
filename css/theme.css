@@ -1202,3 +1202,7 @@ background-color: #cc440d;
 .accr-li h4,.accr-li th ,.accr-li h3 {
     color: var(--theme-color);
 }
+.confirm {
+    border: 1px solid #c5c5c5;
+    padding: 10px;
+}

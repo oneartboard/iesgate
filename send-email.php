@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php 
 	 function sendEmail($data,$type)
 	 {
@@ -13,6 +14,21 @@
 	       $from      = $data['email'];
 	       if ($type =="enquiry") {
 	       $message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
+=======
+<?php
+	 function sendEmail($data,$type)
+	 {
+	     $subject = "";
+	     if ($type =="enquiry") {
+	         $subject = 'Enquiry From '.$data['name'];
+	       }
+	     else{
+	       	 $subject = 'New Enroll From '.$data['name'];
+	       }
+	     $to      = 'pranaypydi@gmail.com';
+	     $from      = $data['email'];
+	     $message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	 				<p>Email: <b>&nbsp;'. $data['email'] .'</b></p>
 	 				<p>Mobile No: <b>&nbsp;'. $data['phone'] .'</b></p>
 	 				<p>Selected Course: <b>&nbsp;'. $data['course'] .'</b></p>
@@ -22,6 +38,7 @@
 	 				<p>Selected Stream: <b>&nbsp;'. $data['stream'] .'</b></p>
 	 				<p>Message: <b>&nbsp;'. $data['message'] ?? " " .'</b></p>
 	 				';
+<<<<<<< HEAD
 	 	 }else{
 	 	 	$message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
 	 				<p>Email: <b>&nbsp;'. $data['email'] .'</b></p>
@@ -36,6 +53,8 @@
 	 				';
 	 	 }
 	  
+=======
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	 			  if ($data && $subject && $type && $to) {
 	 			  	 $headers = 'From: '.$from.'' . "\r\n" .
 	 			          'Reply-To: '.$from.'' . "\r\n" .
@@ -44,6 +63,7 @@
 	 			       echo true;
 	 			  }
 	 }
+<<<<<<< HEAD
 
 
 	  function sendSMS($phone,$type=null)
@@ -59,12 +79,23 @@
 	 	$ch = curl_init($url);
 
 	 	curl_setopt($ch, CURLOPT_POST, 1);
+=======
+	  function sendSMS($phone)
+	  {
+	  	$url = 'http://sms.adeep.in/api/v4/?api_key=A1b509a4a9cd046eb888085ad8192387d&method=sms&sender=IGADMY&to='.$phone.'&message=Thank you for your enquiry. we will get back to you .Regards IES Academy';
+	 	$ch = curl_init($url);
+	 	curl_setopt($ch, CURLOPT_POST, 1);
+	 	curl_setopt($ch, CURLOPT_POSTFIELDS, $xml);
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 	 	$response = curl_exec($ch);
 	 	curl_close($ch);
 	  }
+<<<<<<< HEAD
       
      
     
 
+=======
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
  ?>

@@ -18,9 +18,14 @@ session_start();
 </head>
 <?php include 'inc/header.php' ?>
 <?php include 'send-email.php' ?>
+<<<<<<< HEAD
 
 <?php
 $fname = $lname = $email = $gender = $phone = $dob =$c_email =$father_name = $occupation =$fphone= $emailErr="";
+=======
+<?php
+$fname = $lname = $email = $gender = $phone = $dob =$c_email =$father_name = $occupation =$fphone= "";
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 $address = $street =$city=$pincode=$state ="";
 $hdegree = $college_name =$college_addr=$college_status="";
 $course =$exam =$center= $batch =$stream =$payment_type ="";
@@ -45,7 +50,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 	 $gender = test_input($_POST["gender"]);
 	 $phone = test_input($_POST["phone"]);
 	 $dob =test_input($_POST["dob"]);
+<<<<<<< HEAD
 	 $c_email =test_input($_POST["c_email"]);
+=======
+	// $c_email =test_input($_POST["c_email"]);
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	 $father_name = test_input($_POST["father_name"]);
 	 $occupation =test_input($_POST["occupation"]);
 	 $fphone= test_input($_POST["fphone"]);
@@ -65,6 +74,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
     $stream=test_input($_POST["stream"]);
     $payment_type=test_input($_POST["payment_type"]);
 
+<<<<<<< HEAD
     if ($email != $c_email) {
     	$emailErr = "Confirmed Email is not matched";
     	$confirmation =false;
@@ -73,11 +83,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
     $fee_total = ($course == "online" && $payment_type="full-payment") ? 20000:10000;
 	$data = array(
 		'id' => md5(uniqid(rand(), true)),
+=======
+   $name= $fname .''.$lname;
+	$data = array(
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 		'name' => $name, 
 		'email' => $email, 
 		'gender' => $gender, 
 		'phone' => $phone, 
 		'dob' => $dob, 
+<<<<<<< HEAD
+=======
+		//'c_email' => $c_email, 
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 		'father_name' => $father_name, 
 		'occupation' => $occupation, 
 		'fphone' => $fphone, 
@@ -95,6 +113,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 		'center' => $center, 
 		'batch' => $batch, 
 		'stream' => $stream, 
+<<<<<<< HEAD
 		'payment_type' => $payment_type,
 		'fee'=>$fee_total
 	  );
@@ -105,6 +124,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 
  if(isset($_POST['cancel'])) { 
  	unset($_SESSION["enroll_data"]);
+=======
+		'payment_type' => $payment_type
+	  );
+
+	$fee_total = ($course == "online" && $payment_type="full-payment") ? 20000:10000;
+	$confirmation =true;
+ }
+
+ if(isset($_POST['cancel'])) { 
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
     $confirmation =false;
   }    
 ?>
@@ -216,7 +245,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 				<h4>Highest Degree</h4>
 				
 				<div class="cgroup">
+<<<<<<< HEAD
 					<input type="radio" name="hdegree" value="B.E/B.Tech" checked="">
+=======
+					<input type="radio" name="hdegree" value="B.E/B.Tech">
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 					<label for="">B.E/B.Tech</label>
 				</div>
 				<div class="cgroup">
@@ -240,7 +273,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 				<h4>Current Status</h4>
 				
 				<div class="cgroup">
+<<<<<<< HEAD
 					<input type="radio" name="college_status" value="student"  checked="">
+=======
+					<input type="radio" name="college_status" value="student" >
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 					<label for="">Student</label>
 				</div>
 				<div class="cgroup">
@@ -419,15 +456,25 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 	    "description": "IES GATE ACADEMY ENROLLMENT",
 	    "image": "http://iesgateacademy.in/live/iesgate/img/IES%20Logo%201%20White.png",
 	    "order_id": "", //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
+<<<<<<< HEAD
 	    "callback_url": 'http://localhost/iesgate/iesgate/payment-status.php',
 	    "redirect": true,
+=======
+	    "callback_url": 'http://iesgateacademy.in/live/iesgate/payment-status.php',
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	    "handler": function (response){
 	         console.log(response);
 	         console.log(response.razorpay_order_id);
 	         console.log(response.razorpay_signature);
+<<<<<<< HEAD
 	         /*if (response.razorpay_payment_id) {
 	         	location.href = 'http://localhost/iesgate/iesgate/payment-status.php?txt='+response.razorpay_payment_id
 	         }*/
+=======
+	         if (response.razorpay_payment_id) {
+	         	location.href = 'http://iesgateacademy.in/live/iesgate/payment-status.php?txt='+response.razorpay_payment_id
+	         }
+>>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	        
 	    },
 	    "prefill": {
