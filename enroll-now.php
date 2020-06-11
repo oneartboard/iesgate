@@ -409,13 +409,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 	    "description": "IES GATE ACADEMY ENROLLMENT",
 	    "image": "http://iesgateacademy.in/live/iesgate/img/IES%20Logo%201%20White.png",
 	    "order_id": "", //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
-	    "callback_url": 'http://iesgateacademy.in/live/iesgate/payment-status.php',
+	    "callback_url": 'http://localhost/iesgate/iesgate/payment-status.php',
 	    "handler": function (response){
 	         console.log(response);
 	         console.log(response.razorpay_order_id);
 	         console.log(response.razorpay_signature);
 	         if (response.razorpay_payment_id) {
-	         	location.href = 'http://iesgateacademy.in/live/iesgate/payment-status.php?txt='+response.razorpay_payment_id
+	         	location.href = 'http://localhost/iesgate/iesgate/payment-status.php?txt='+response.razorpay_payment_id
 	         }
 	        
 	    },
