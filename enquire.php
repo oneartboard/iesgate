@@ -13,6 +13,58 @@
 	<title>IES GATE ACADEMY</title>
 </head>
 <?php include 'inc/header.php' ?>
+<?php include 'send-email.php' ?>
+<?php
+$fname = $lname = $email = $gender = $phone = $dob =$c_email =$father_name = $occupation =$fphone= "";
+$address = $street =$city=$pincode=$state ="";
+$hdegree = $college_name =$college_addr=$college_status="";
+$course =$exam =$center= $batch =$stream =$payment_type ="";
+$confirmation =false;
+$data = null;
+$fee_total =0;
+
+function test_input($data) {
+	  $data = trim($data);
+	  $data = stripslashes($data);
+	  $data = htmlspecialchars($data);
+      return $data;
+    }
+ 
+
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) 
+{
+	$name = test_input($_POST["name"]);
+	$email = test_input($_POST["email"]);
+	$phone = test_input($_POST["phone"]);
+    $course=test_input($_POST["course"]);
+    $exam=test_input($_POST["exam"]);
+    $center=test_input($_POST["center"]);
+    $stream=test_input($_POST["stream"]);
+    $message=test_input($_POST["message"]);
+
+    	$data = array(
+		'name' => $name, 
+		'email' => $email, 
+		'phone' => $phone, 
+		'course' => $course, 
+		'exam' => $exam, 
+		'center' => $center, 
+		'stream' => $stream, 
+		'message' => $message, 
+	  );
+
+    if($name && $email && $phone){
+	  sendSMS($phone,"enquiry");
+	  sendEmail($data,"enquiry");
+	  $name = $email = $phone = $course=$exam=$center=$stream=$message=="";
+	  header('location: success.php');
+    }
+ }
+
+
+    
+?>
+
 	<div class="c-container spacer">
 		<h2 class="title  text-center text-theme no-margin">
 			Enquiry Now
@@ -22,23 +74,23 @@
 			form below and we will get back with you shortly
 		</p>
 		<br>
-		<form class="enquire-form">
+		<form class="enquire-form" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
 
 			<div class="vgroup inline">
 				<label for="">Full Name <span>*</span></label>
-				<input type="text" required>
+				<input type="text" name="name" required >
 			</div>
 			<div class="row">
 				<div class="col">
 					<div class="vgroup">
 						<label for="">Email <span>*</span></label>
-						<input type="text" required>
+						<input type="text" name="email" required>
 					</div>
 				</div>
 				<div class="col">
 					<div class="vgroup">
 						<label for="">Phone <span>*</span></label>
-						<input type="text" required>
+						<input type="tel" name="phone" minlength="10" maxlength="10" required id="phone">
 					</div>
 				</div>
 			</div>
@@ -47,17 +99,31 @@
 				<div class="col">
 					<div class="vgroup inline">
 						<label for="">Center?<span>*</span></label>
-						<select name="" id="">
+						<select name="center">
 							<option value="">--Select Center--</option>
-							<option value="">Chennai</option>
-							<option value="">Coimbatore</option>
+							<option value="Chennai">Chennai</option>
+							<option value="Coimbatore">Coimbatore</option>
 						</select>
 					</div>
 				</div>
 				<div class="col">
 					<div class="vgroup inline">
+						<label for="">Select Exam<span>*</span></label>
+						<select name="exam" id="">
+							<option value="IES+GATE+PSUs-2021">IES+GATE+PSUs-2021</option>
+							<option value="GATE+PSUs-2021">GATE+PSUs-2021</option>
+							<option value="IES+GATE+PSUs-2022">IES+GATE+PSUs-2022</option>
+							<option value="GATE+PSUs-2022">GATE+PSUs-2022</option>
+						</select>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col">
+					<div class="vgroup inline">
 						<label for="">Select Stream</label>
-						<select name="" id="">
+						<select name="stream" id="">
 							<option value="">--Select Stream--</option>
 							<option value="">EE - Electrical & Electronics Engineering</option>
 							<option value="">IN - Instrumentation Engineering</option>
@@ -76,47 +142,21 @@
 				</div>
 			</div>
 			<div class="vgroup">
-				<h4>Exams</h4>
-				
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IES</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">GATE</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">PSUs</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">IES+GATE+PSUs</label>
-				</div>
-				<div class="cgroup">
-					<input type="checkbox" >
-					<label for="">Others</label>
-				</div>
-				
-			</div>
-			<div class="vgroup">
 				<h4>Course</h4>
-				
 				<div class="cgroup">
-					<input type="checkbox" >
+					<input type="radio" name="course" value="Classroom Course" checked="">
 					<label for="">Classroom Course</label>
 				</div>
 				<div class="cgroup">
-					<input type="checkbox" >
+					<input type="checkbox" type="radio" name="course" value="Classroom Course">
 					<label for="">Online Live Class Course</label>
 				</div>
 				<div class="cgroup">
-					<input type="checkbox" >
+					<input type="radio" name="course" value="Online Test Series">
 					<label for="">Online Test Series</label>
 				</div>
 				<div class="cgroup">
-					<input type="checkbox" >
+					<input type="radio" name="course" value="others" >
 					<label for="">others</label>
 				</div>
 				
@@ -124,10 +164,10 @@
 			<div class="vgroup">
 				<h4>Message <span style="color: red;">*</span></h4>
 				
-				<textarea name="" id="" style="width: 100%;" rows="10"></textarea>
+				<textarea name="message" id="" style="width: 100%;" rows="5" maxlength="250" required=""></textarea>
 				
 			</div>
-			<button class="btn-theme">Submit</button>
+			<button class="btn-theme" name="submit" value="submit">Submit</button>
 		</form>
 		
 	</div>
