@@ -272,6 +272,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 							<option value="">--Select Center--</option>
 							<option value="Chennai">Chennai</option>
 							<option value="Coimbatore">Coimbatore</option>
+							<option value="Others">Others</option>
 						</select>
 					</div>
 				</div>
@@ -299,6 +300,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 				<select name="stream" id="">
 					<option value="">--Select Stream--</option>
 					<option value="EE">EE - Electrical & Electronics Engineering</option>
+					<option value="EE">EC - Electronics & Communication Engineering</option>
 					<option value="IN">IN - Instrumentation Engineering</option>
 					<option value="CE">CE - Civil Engineering</option>
 					<option value="ME">ME - Mechanical Engineering</option>
