@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 <?php
 session_start();
 ?>
 <!DOCTYPE html>
-=======
-  <?php if (isset($_GET['txt'])): ?>
-  <!DOCTYPE html>
->>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -21,7 +16,6 @@ session_start();
 	<title>IES GATE ACADEMY</title>
 </head>
   <?php include 'inc/header.php' ?>
-<<<<<<< HEAD
   <?php include 'send-email.php' ?>
 
   <?php if (isset($_POST['razorpay_payment_id'] )) { ?>
@@ -35,18 +29,13 @@ session_start();
 	        session_destroy();
 		}
      ?>
-=======
 
->>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	<div class="c-container spacer">
 		<h2 class="title  text-center text-theme no-margin">
 			Your Enrollment is successfully recorded .
 		</h2>
-<<<<<<< HEAD
 		<p class="text-center">Trancation ID : <?php echo $_POST['razorpay_payment_id']; ?>
-=======
-		<p class="text-center">Trancation ID : <?php echo $_GET['txt']; ?>
->>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
+
 		<p class="text-center">Thank you . we will get back to you.</p>
            <p class="text-center">Regards IES Academy</p>
 		</p>
@@ -59,11 +48,8 @@ session_start();
 		
 	</div>
 
-<<<<<<< HEAD
   <?php } ?>
 
-=======
->>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
 	<footer class="site-footer">
 		<div class="c-container">
 			<div class="flex-row" style="flex-wrap: nowrap;">
@@ -164,9 +150,4 @@ session_start();
 
 	</script>
 </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
-<?php endif ?>
->>>>>>> 71d927829161ac064e1f1740c2c40d80627ff629
