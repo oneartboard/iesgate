@@ -10,7 +10,7 @@
 	       }
 	     $to      = 'pranaypydi@gmail.com';
 	     $from      = $data['email'];
-	     //$message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
+	     $message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
 	 				<p>Email: <b>&nbsp;'. $data['email'] .'</b></p>
 	 				<p>Mobile No: <b>&nbsp;'. $data['phone'] .'</b></p>
 	 				<p>Selected Course: <b>&nbsp;'. $data['course'] .'</b></p>
