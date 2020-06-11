@@ -64,6 +64,14 @@
   	 			'message'=>""
   	 		  );
   	 	}
+  	 	if ($exam == "GATE+PSUs-2022" || $exam == "IES+GATE+PSUs-2022" && $batch=="Regular") {
+  	 		 $res = array(
+  	 			'partial' => 0,
+  	 			'full'=> 0,
+  	 			'enrollAlloed'=>false,
+  	 			'message'=>"Course is not available !"
+  	 		  );
+  	 	}
   	 	return $res;
   	 	
   	 }
@@ -111,7 +119,7 @@
 				'partial' => 0,
 				'full'=> 0,
 				'enrollAlloed'=>false,
-				'message'=>"This Street is not available in Coimbatore"
+				'message'=>"This Stream is not available in Coimbatore"
             );
          }
 
@@ -123,6 +131,15 @@
 			'message'=>"Regular Batch not available in Coimbatore"
             );
   	 	}
+  	 }
+
+  	 if($course == "classroom-and-online" && $center =="Others") {
+  	 	    $res = array(
+  	 			'partial' => 0,
+  	 			'full'=> 0,
+  	 			'enrollAlloed'=>false,
+  	 			'message'=>"Course is not available !"
+  	 		  );
   	 }
 
   	 if ($course == "online") {

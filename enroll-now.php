@@ -15,6 +15,17 @@ session_start();
 	<link rel="stylesheet" href="css/responsive.css">
 	
 	<title>IES GATE ACADEMY</title>
+	<style type="text/css">
+		.btn-theme:disabled {
+		    color: #fff;
+		}
+		.btn-theme:disabled {
+         opacity: .65;
+        }
+        .text-danger{
+        	color: red;
+        }
+	</style>
 </head>
 <?php include 'inc/header.php' ?>
 <?php include 'send-email.php' ?>
@@ -437,7 +448,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 		      	data =JSON.parse(data);
 		      	var content="";
 		      	if (data.message) {
-		      	 content += '<p><strong>'+data.message+'</strong></p>';
+		      	 content += '<p class="text-danger"><strong>'+data.message+'</strong></p>';
 		      	}
       	    	if (course =="classroom-and-online") {
       	    		content += '<p><strong>Details: Classroom Coaching+Online Live Classes</strong></p>';
@@ -453,7 +464,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
       			
       			content += '<p>Note: Due amount should be paid in a month of enrollment. Online live classes + Classroom coaching after lockdown is lifted is included in this course.</p>';
       	        $("#total-price").html(content);
-      	        fee = (payment_type =="registration-fee")?data.partial:data.full;
+      	        if (payment_type =="registration-fee") fee = data.partial;
+      	        else fee = data.full;
       	        fee=parseInt(fee);
       	        $("#fee_total").val(fee);
       	        if(!fee){
