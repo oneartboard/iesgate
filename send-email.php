@@ -1,5 +1,5 @@
 <?php
-	 function sendEmail($data,$type)
+	 //function sendEmail($data,$type)
 	 {
 	     $subject = "";
 	       if ($type =="enquiry") {
