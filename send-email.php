@@ -2,14 +2,15 @@
 	 function sendEmail($data,$type)
 	 {
 	     $subject = "";
-	       if ($type =="enquiry") {
+	     if ($type =="enquiry") {
 	         $subject = 'Enquiry From '.$data['name'];
-	       }else{
+	       }
+	     else{
 	       	 $subject = 'New Enroll From '.$data['name'];
 	       }
-	       $to      = 'pranaypydi@gmail.com';
-	       $from      = $data['email'];
-	       $message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
+	     $to      = 'pranaypydi@gmail.com';
+	     $from      = $data['email'];
+	     //$message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
 	 				<p>Email: <b>&nbsp;'. $data['email'] .'</b></p>
 	 				<p>Mobile No: <b>&nbsp;'. $data['phone'] .'</b></p>
 	 				<p>Selected Course: <b>&nbsp;'. $data['course'] .'</b></p>
