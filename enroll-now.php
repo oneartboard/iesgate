@@ -70,8 +70,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
     	$confirmation =false;
     }else{
     $name= $fname .''.$lname;
-    $fee_total = ($course == "online" && $payment_type="full-payment") ? 20000:10000;
-    
+
+    $fee_total = test_input($_POST["fee_total"]);
+
 	$data = array(
 		'id' => md5(uniqid(rand(), true)),
 		'name' => $name, 
@@ -125,7 +126,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 					<div class="vgroup inline">
 						<label for="">First Name <span>*</span></label>
 						<input type="text" name="fname" required id="fname">
-						<input type="hidden" name="fee" value="<?php $fee_total ?>" id="fee">
+						<input type="hidden" name="fee_total" value="<?php $fee_total ?>" id="fee_total">
 					</div>
 				</div>
 				<div class="col">
@@ -260,6 +261,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 			<div class="vgroup inline">
 				<label for="">Select Course<span>*</span></label>
 				<select name="course" id="course">
+					<option value="">Select Course</option>
 					<option value="classroom-and-online">Classroom Coaching+Online Live Classes</option>
 					<option value="online">Online Live Classes</option>
 				</select>
@@ -268,8 +270,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 				<div class="col">
 					<div class="vgroup inline">
 						<label for="">Center?<span>*</span></label>
-						<select name="center">
-							<option value="">--Select Center--</option>
+						<select name="center" id="center">
 							<option value="Chennai">Chennai</option>
 							<option value="Coimbatore">Coimbatore</option>
 							<option value="Others">Others</option>
@@ -279,7 +280,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 				<div class="col">
 					<div class="vgroup inline">
 						<label for="">Select Exam<span>*</span></label>
-						<select name="exam" id="">
+						<select name="exam" id="exam">
 							<option value="IES+GATE+PSUs-2021">IES+GATE+PSUs-2021</option>
 							<option value="GATE+PSUs-2021">GATE+PSUs-2021</option>
 							<option value="IES+GATE+PSUs-2022">IES+GATE+PSUs-2022</option>
@@ -290,15 +291,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 			</div>
 			<div class="vgroup inline">
 				<label for="">Select Batch<span>*</span></label>
-				<select name="batch" id="">
-					<option value="regular">Regular Batch</option>
-					<option value="weekend">Weekend Batch</option>
+				<select name="batch" id="batch">
+					<option value="Regular">Regular Batch</option>
+					<option value="Weekend">Weekend Batch</option>
 				</select>
 			</div>
 			<div class="vgroup inline">
 				<label for="">Select Stream</label>
-				<select name="stream" id="">
-					<option value="">--Select Stream--</option>
+				<select name="stream" id="stream">
 					<option value="EE">EE - Electrical & Electronics Engineering</option>
 					<option value="EE">EC - Electronics & Communication Engineering</option>
 					<option value="IN">IN - Instrumentation Engineering</option>
@@ -324,7 +324,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 				</select>
 			</div>
 
-            <div class="vgroup confirm" id="total-price"></div>
+            <div class="vgroup" id="total-price"></div>
 
 			<div class="vgroup inline">
 				<input type="checkbox" style="display: inline-block;width: 20px;">
@@ -332,7 +332,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 			</div>
 
 			<div class="vgroup">
-				<button class="btn-theme" name="submit" value="submit">Submit</button>
+				<button class="btn-theme" name="submit" value="submit" id="btn-submit">Submit</button>
 			</div>
 
 		</form>
@@ -379,36 +379,91 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 <script type="text/javascript">
 	var course = $('#course').val();
 	var payment_type =$('#payment-type').val();
-	console.log(course);
-
+	var exam = $('#exam').val();
+	var batch = $('#batch').val();
+	var stream = $('#stream').val();
+	var center = $('#center').val();
+	var fee;
+ 
 	$('#course').on('change', function() {
-	  cource = this.value;
-      showPrice(this.value,payment_type)
+	  course = this.value;
+      showPrice()
     });
 
     $('#payment-type').on('change', function() {
       payment_type = this.value;
-      showPrice(cource,payment_type)
+      showPrice()
     });
 
-	function showPrice(cource,payment_type){
-	var content = "";
-      if (cource == "online" && payment_type =="full-payment" ) {
-            content += '<p><strong>Details: Online Live Class Course</strong></p>';
-	 		content += '<p>Course Fee: Rs. 20,000/-</p>';
-	 		content += '<p>Total: Rs. 20,000/-</p>';
-      }
-    else{
-    	if (cource =="classroom-and-online") {
-    		content += '<p><strong>Details: Classroom Coaching+Online Live Classes</strong></p>';
-    	}else{
-    		content += '<p><strong>Details:Online Live Classes</strong></p>';
-    	}
-    	content += '<p>Course Fee: Rs. 10,000/-</p>';
-		content += '<p>Total: Rs. 10,000/-</p>';
-		content += '<p>Note: Due amount should be paid in a month of enrollment. Online live classes + Classroom coaching after lockdown is lifted is included in this course.</p>';
-      }
-      $("#total-price").html(content);
+    $('#exam').on('change', function() {
+	  exam = this.value;
+      showPrice()
+    });
+
+    $('#batch').on('change', function() {
+      batch = this.value;
+      showPrice()
+    });
+    $('#center').on('change', function() {
+	  center = this.value;
+      showPrice()
+    });
+
+    $('#stream').on('change', function() {
+      stream = this.value;
+      showPrice()
+    });
+
+	function showPrice(){
+		if (course=="online") {
+		  $('#center').prop('disabled', true);
+		  $('#batch').prop('disabled', true);
+		}else{
+		  $('#center').prop('disabled', false);
+		  $('#batch').prop('disabled', false);
+		}
+      getPrice();
+	}
+
+	function getPrice(){
+		console.log(course+","+exam+","+batch+","+stream+","+center);
+		$.ajax({
+		    url: './inc/pricing.php',
+		    method: "POST",
+		    data: { course:course,exam:exam,batch:batch,stream:stream,center:center },
+		    success: function(data) {
+		      console.log(data)
+		      if (data) {
+		      	data =JSON.parse(data);
+		      	var content="";
+		      	if (data.message) {
+		      	 content += '<p><strong>'+data.message+'</strong></p>';
+		      	}
+      	    	if (course =="classroom-and-online") {
+      	    		content += '<p><strong>Details: Classroom Coaching+Online Live Classes</strong></p>';
+      	    	}else{
+      	    		content += '<p><strong>Details:Online Live Classes</strong></p>';
+      	    	}
+      	    	content += '<p>Exam: '+exam+'</p>';
+      	    	if (payment_type =="registration-fee") {
+      	    		content += '<p>Course Fee: Rs. '+data.partial+'/-</p>';
+      	    	}else{
+      	    		content += '<p>Course Fee: Rs. '+data.full+'/-</p>';
+      	    	}
+      			
+      			content += '<p>Note: Due amount should be paid in a month of enrollment. Online live classes + Classroom coaching after lockdown is lifted is included in this course.</p>';
+      	        $("#total-price").html(content);
+      	        fee = (payment_type =="registration-fee")?data.partial:data.full;
+      	        fee=parseInt(fee);
+      	        $("#fee_total").val(fee);
+      	        if(!fee){
+      	        	$("#btn-submit").attr("disabled", true);
+      	        }else{
+      	        	$("#btn-submit").attr("disabled", false);
+      	        }
+		      }
+		    }
+		});
 	}
 </script>
 
@@ -418,7 +473,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 
 	var options = {
 	    "key": "rzp_live_k72SiUL4jGMwwG",
-	    "amount":fee,
+	    "amount":fee*100,
 	    "currency": "INR",
 	    "name": "IES GATE ACADEMY",
 	    "description": "IES GATE ACADEMY ENROLLMENT",
