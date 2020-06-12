@@ -489,9 +489,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 	    "currency": "INR",
 	    "name": "IES GATE ACADEMY",
 	    "description": "IES GATE ACADEMY ENROLLMENT",
-	    "image": "http://iesgateacademy.in/live/iesgate/img/IES%20Logo%201%20White.png",
+	    "image": "https://cdn.razorpay.com/logos/EzEHF4cQbZzeZ4_large.jpg",
 	    "order_id": "", //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
-	    "callback_url": 'http://localhost/iesgate/iesgate/payment-status.php',
+	    "callback_url": 'http://iesgateacademy.in/live/iesgate/payment-status.php',
 	    "redirect": true,
 
 	    "handler": function (response){
