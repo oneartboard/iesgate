@@ -72,6 +72,14 @@
   	 			'message'=>"Course is not available !"
   	 		  );
   	 	}
+      else{
+        $res = array(
+          'partial' => 0,
+          'full'=> 0,
+          'enrollAlloed'=>false,
+          'message'=>"Course is not available !"
+          );
+      }
   	 	return $res;
   	 	
   	 }

@@ -463,8 +463,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
       	    	}else{
       	    		content += '<p>Course Fee: Rs. '+data.full+'/-</p>';
       	    	}
-      			
+      			if (course =="classroom-and-online") {
       			content += '<p>Note: Due amount should be paid in a month of enrollment. Online live classes + Classroom coaching after lockdown is lifted is included in this course.</p>';
+      		    }
       	        $("#total-price").html(content);
       	        if (payment_type =="registration-fee") fee = data.partial;
       	        else fee = data.full;
