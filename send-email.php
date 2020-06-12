@@ -8,7 +8,7 @@
 	       	 $subject = 'New Enroll From '.$data['name'];
 	       }
 	     $message ="";
-		$to      = 'pranaypydi@gmail.com';
+		$to      = 'igaenquiries@gmail.com';
 		$from      = $data['email'];
 	    if ($type =="enquiry") {
 	       $message = '<html> 
