@@ -2,46 +2,95 @@
 	 function sendEmail($data,$type)
 	 {
 	     $subject = "";
-	     $message ="";
-	       if ($type =="enquiry") {
+	      if ($type =="enquiry") {
 	         $subject = 'Enquiry From '.$data['name'];
 	       }else{
 	       	 $subject = 'New Enroll From '.$data['name'];
 	       }
-
-	       $to      = 'pranaypydi@gmail.com';
-	       $from      = $data['email'];
-	       if ($type =="enquiry") {
-	       $message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
-	 				<p>Email: <b>&nbsp;'. $data['email'] .'</b></p>
-	 				<p>Mobile No: <b>&nbsp;'. $data['phone'] .'</b></p>
-	 				<p>Selected Course: <b>&nbsp;'. $data['course'] .'</b></p>
-	 				<p>Selected Center: <b>&nbsp;'. $data['center'] .'</b></p>
-	 				<p>Selected Exam: <b>&nbsp;'. $data['exam'] .'</b></p>
-	 				<p>Selected Batch: <b>&nbsp;'. $data['batch'] .'</b></p>
-	 				<p>Selected Stream: <b>&nbsp;'. $data['stream'] .'</b></p>
-	 				<p>Message: <b>&nbsp;'. $data['message'] ?? " " .'</b></p>
-	 				';
+	     $message ="";
+		$to      = 'pranaypydi@gmail.com';
+		$from      = $data['email'];
+	    if ($type =="enquiry") {
+	       $message = '<html> 
+				    <head> 
+				        <title>'.$subject.'</title> 
+				    </head> 
+				    <body> 
+				    <h1>'.$subject.'</h1>
+	 				<table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+	 				    <tr> 
+	 				        <th>Name:</th><td>'.$data['name'].'</td> 
+	 				    </tr> 
+	 				    <tr> 
+	 				        <th>Email:</th><td>'.$data['email'].'</td> 
+	 				    </tr> 
+	 				    <tr> 
+	 				        <th>Mobile No:</th><td>'.$data['phone'].'</td> 
+	 				    </tr> 
+	 				    <tr> 
+	 				        <th>Course:</th><td>'.$data['course'].'</td> 
+	 				    </tr> 
+	 				    <tr> 
+	 				        <th>Center:</th><td>'.$data['exam'].'</td> 
+	 				    </tr> 
+	 				    <tr> 
+	 				        <th>Batch:</th><td>'.$data['batch'].'</td> 
+	 				    </tr> 
+	 				    <tr> 
+	 				        <th>Stream:</th><td>'.$data['stream'].'</td> 
+	 				    </tr> 
+	 				    <tr> 
+	 				        <th>Message:</th><td>'.$data['message'].'</td> 
+	 				    </tr> 
+	 				</table> 
+	 				</body> 
+              </html>'; 
 	 	 }else{
-	 	 	$message = '<p>Name: <b>&nbsp'.$data['name'].'</b></p>
-	 				<p>Email: <b>&nbsp;'. $data['email'] .'</b></p>
-	 				<p>Mobile No: <b>&nbsp;'. $data['phone'] .'</b></p>
-	 				<p>Selected Course: <b>&nbsp;'. $data['course'] .'</b></p>
-	 				<p>Selected Center: <b>&nbsp;'. $data['center'] .'</b></p>
-	 				<p>Selected Exam: <b>&nbsp;'. $data['exam'] .'</b></p>
-	 				<p>Selected Batch: <b>&nbsp;'. $data['batch'] .'</b></p>
-	 				<p>Selected Stream: <b>&nbsp;'. $data['stream'] .'</b></p>
-	 				<p>Payment Type: <b>&nbsp;'. $data['payment_type'] .'</b></p>
-	 				<p>Total Amount: <b> INR&nbsp;'. $data['fee'] ?? " " .'</b></p>
-	 				';
+ 		       $message = '<html> 
+ 					    <head> 
+ 					        <title>'.$subject.'</title> 
+ 					    </head> 
+ 					    <body> 
+ 					    <h1>'.$subject.'</h1>
+ 		 				<table cellspacing="0" style="border: 2px dashed #FB4314; width: 100%;"> 
+ 		 				    <tr> 
+ 		 				        <th>Name:</th><td>'.$data['name'].'</td> 
+ 		 				    </tr> 
+ 		 				    <tr> 
+ 		 				        <th>Email:</th><td>'.$data['email'].'</td> 
+ 		 				    </tr> 
+ 		 				    <tr> 
+ 		 				        <th>Mobile No:</th><td>'.$data['phone'].'</td> 
+ 		 				    </tr> 
+ 		 				    <tr> 
+ 		 				        <th>Course:</th><td>'.$data['course'].'</td> 
+ 		 				    </tr> 
+ 		 				    <tr> 
+ 		 				        <th>Center:</th><td>'.$data['exam'].'</td> 
+ 		 				    </tr> 
+ 		 				    <tr> 
+ 		 				        <th>Batch:</th><td>'.$data['batch'].'</td> 
+ 		 				    </tr> 
+ 		 				    <tr> 
+ 		 				        <th>Stream:</th><td>'.$data['stream'].'</td> 
+ 		 				    </tr> 
+ 		 				    <tr> 
+ 		 				        <th>Payment Type:</th><td>'.$data['payment_type'].'</td> 
+ 		 				    </tr>
+ 		 				     <tr> 
+ 		 				        <th>Total Amount:</th><td>INR '.$data['fee'].'</td> 
+ 		 				    </tr> 
+ 		 				</table> 
+ 		 				</body> 
+ 	              </html>';
 	 	     }
-	 			  if ($data && $subject && $type && $to) {
-	 			  	 $headers = 'From: '.$from.'' . "\r\n" .
-	 			          'Reply-To: '.$from.'' . "\r\n" .
-	 			          'X-Mailer: PHP/' . phpversion();
-	 			       mail($to, $subject, $message, $headers);
-	 			       echo true;
-	 			  }
+			  if ($data && $subject && $type && $to) {
+			  	 $headers = 'From: '.$from.'' . "\r\n" .
+			          'Reply-To: '.$from.'' . "\r\n" .
+			          'X-Mailer: PHP/' . phpversion();
+			       mail($to, $subject, $message, $headers);
+			       echo true;
+			  }
 	 }
 
 
@@ -49,9 +98,9 @@
 	  {
 	  	$message ="";
 	  	if ($type =="enquiry") {
-	  	$message="Thank you for your enquiry. we will get back to you .Regards IES Academy";
+	  	$message="Thank you for your enquiry. We will get back to you shortly. Call to 9445017000 for quick response. Regards IES GATE ACADEMY";
 	  	}else{
-	  	$message="Thank you for your enrollment. we will get back to you .Regards IES Academy";
+	  	$message="Thank you for your enrollment. We will get back to you shortly. Call to 9445017000 for quick response. Regards IES GATE ACADEMY";
 	    }
 
 	  	$url = 'http://sms.adeep.in/api/v4/?api_key=A1b509a4a9cd046eb888085ad8192387d&method=sms&sender=IGADMY&to='.$phone.'&message='.$message.'';
