@@ -56,7 +56,7 @@
   	 			'message'=>""
   	 		  );
   	 	}
-  	 	if ($exam == "GATE+PSUs-2022" && $batch=="Weekend" && in_array($stream,array("EC","EE","IN","CE","ME","CS","IT","CH","PE","BT","AE"))) {
+  	 	if ($exam == "GATE+PSUs-2022" && $batch=="Weekend" && $stream) {
   	 		 $res = array(
   	 			'partial' => 10000,
   	 			'full'=> 25000,
@@ -64,7 +64,7 @@
   	 			'message'=>""
   	 		  );
   	 	}
-  	 	if ($exam == "GATE+PSUs-2022" || $exam == "IES+GATE+PSUs-2022" && $batch=="Regular") {
+  	 	if (($exam == "GATE+PSUs-2022" || $exam == "IES+GATE+PSUs-2022") && $batch=="Regular") {
   	 		 $res = array(
   	 			'partial' => 0,
   	 			'full'=> 0,
@@ -72,14 +72,7 @@
   	 			'message'=>"Course is not available !"
   	 		  );
   	 	}
-      else{
-        $res = array(
-          'partial' => 0,
-          'full'=> 0,
-          'enrollAlloed'=>false,
-          'message'=>"Course is not available !"
-          );
-      }
+    
   	 	return $res;
   	 	
   	 }
