@@ -485,7 +485,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 
 	var options = {
 	    "key": "rzp_live_k72SiUL4jGMwwG",
-	    "amount":fee*100,
+	    "amount":fee,
 	    "currency": "INR",
 	    "name": "IES GATE ACADEMY",
 	    "description": "IES GATE ACADEMY ENROLLMENT",
