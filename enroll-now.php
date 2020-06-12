@@ -339,7 +339,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 
 			<div class="vgroup inline">
 				<input type="checkbox" style="display: inline-block;width: 20px;">
-				<label style="display: inline-block;position: relative;bottom: 10px">I agree with terms &amp; conditions</label>
+				<label style="display: inline-block;position: relative;bottom: 10px">I agree with terms &amp; conditions
+                  <span><a href="terms-and-conditions.php">read now</a></span>
+				</label>
 			</div>
 
 			<div class="vgroup">
