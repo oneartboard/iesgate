@@ -8,12 +8,12 @@
 	       	 $subject = 'New Enroll From '.$data['name'];
 	       }
 	     $message ="";
-		$to      = 'igaenquiries@gmail.com';
+		$to      = 'rajnish42413@gmail.com';
 		$from      = $data['email'];
 
 		$headers = "MIME-Version: 1.0" . "\r\n"; 
 		$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n"; 
-		
+
 	    if ($type =="enquiry") {
 	       $message = '<html> 
 				    <head> 
