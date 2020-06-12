@@ -391,7 +391,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 <?php include 'inc/footer.php' ?>
 <script type="text/javascript">
 	var course = $('#course').val();
-	var payment_type =$('#payment-type').val();
+	var payment_type;
 	var exam = $('#exam').val();
 	var batch = $('#batch').val();
 	var stream = $('#stream').val();
@@ -400,11 +400,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
  
 	$('#course').on('change', function() {
 	  course = this.value;
+	  if (course=="online") {
+	  	$('#payment-type').html('<option value="full-payment" selected>Full Payment</option>');
+	  }else{
+	  	$('#payment-type').html('<option value="registration-fee">Registration Fee</option><option value="full-payment">Full Payment</option>');
+	  }
+
       showPrice()
     });
 
     $('#payment-type').on('change', function() {
       payment_type = this.value;
+      console.log(payment_type);
       showPrice()
     });
 
@@ -435,6 +442,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 		  $('#center').prop('disabled', false);
 		  $('#batch').prop('disabled', false);
 		}
+		 payment_type =$('#payment-type').val();
       getPrice();
 	}
 
@@ -463,7 +471,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
       	    	}else{
       	    		content += '<p>Course Fee: Rs. '+data.full+'/-</p>';
       	    	}
-      			if (course =="classroom-and-online") {
+      			if (course =="classroom-and-online" && payment_type=="registration-fee") {
       			content += '<p>Note: Due amount should be paid in a month of enrollment. Online live classes + Classroom coaching after lockdown is lifted is included in this course.</p>';
       		    }
       	        $("#total-price").html(content);
