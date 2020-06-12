@@ -7,7 +7,7 @@
 	       }else{
 	       	 $subject = 'New Enroll From '.$data['name'];
 	       }
-	     $message ="";
+	    $htmlContent ="";
 		$to      = 'rajnish42413@gmail.com';
 		$from      = $data['email'];
 
@@ -15,7 +15,7 @@
 		$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n"; 
 
 	    if ($type =="enquiry") {
-	       $message = '<html> 
+	      $htmlContent = '<html> 
 				    <head> 
 				        <title>'.$subject.'</title> 
 				    </head> 
@@ -50,7 +50,7 @@
 	 				</body> 
               </html>'; 
 	 	 }else{
- 		       $message = '<html> 
+ 		       $htmlContent = '<html> 
  					    <head> 
  					        <title>'.$subject.'</title> 
  					    </head> 
@@ -88,14 +88,14 @@
  		 				</body> 
  	              </html>';
 	 	     }
-	 	     $headers = "MIME-Version: 1.0" . "\r\n"; 
-			  if ($data && $subject && $type && $to) {
-			  	 $headers  .= 'From: '.$from.'' . "\r\n" .
-			          'Reply-To: '.$from.'' . "\r\n" .
-			          'X-Mailer: PHP/' . phpversion();
-			       mail($to, $subject, $message, $headers);
-			       echo true;
-			  }
+
+			// Set content-type header for sending HTML email 
+			$headers = "MIME-Version: 1.0" . "\r\n"; 
+			$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n"; 
+			 
+			// Additional headers 
+			$headers .= 'From: '.$data['name'].'<'.$from.'>' . "\r\n"; 
+			mail($to, $subject, $htmlContent, $headers);
 	 }
 
 
