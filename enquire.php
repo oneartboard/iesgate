@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
     
 
     if($name && $email && $phone){
-	//  sendSMS($phone,"enquiry");
+	 sendSMS($phone,"enquiry");
 	  sendEmail($data,"enquiry");
 	  $name = $email = $phone = $course=$exam=$center=$stream=$message=="";
 	  header('location: success.php');
