@@ -105,6 +105,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 							<option value="">--Select Center--</option>
 							<option value="Chennai">Chennai</option>
 							<option value="Coimbatore">Coimbatore</option>
+							<option value="Others">Others</option>
 						</select>
 					</div>
 				</div>

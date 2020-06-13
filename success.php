@@ -19,7 +19,7 @@
 			Your Enquiry Successfully submitted .
 		</h2>
 		<p class="text-center">Thank you for your enquiry. we will get back to you.</p>
-           <p class="text-center">Regards IES Academy</p>
+           <p class="text-center">Regards IES GATE ACADEMY</p>
 		</p>
 		<br>
 		<div class="text-center">
