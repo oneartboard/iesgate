@@ -53,8 +53,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 		'message' => $message, 
 	  );
 
+    
+
     if($name && $email && $phone){
-	  sendSMS($phone,"enquiry");
+	//  sendSMS($phone,"enquiry");
 	  sendEmail($data,"enquiry");
 	  $name = $email = $phone = $course=$exam=$center=$stream=$message=="";
 	  header('location: success.php');
@@ -124,19 +126,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 					<div class="vgroup inline">
 						<label for="">Select Stream</label>
 						<select name="stream" id="">
-							<option value="">--Select Stream--</option>
-							<option value="">EE - Electrical & Electronics Engineering</option>
-							<option value="">IN - Instrumentation Engineering</option>
-							<option value="">CE - Civil Engineering</option>
-							<option value="">ME - Mechanical Engineering</option>
-							<option value="">PI - Production & Industrial Engineering</option>
-							<option value="">CS - Computer Science Engineering</option>
-							<option value="">IT - Information Technology</option>
-							<option value="">CH -  Chemical Engineering</option>
-							<option value="">PE - Petroleum Engineering</option>
-							<option value="">BT - Bio-Technology</option>
-							<option value="">AE - Aerospace Engineering</option>
-							<option value="">Others</option>
+							<option value="EE">EE - Electrical & Electronics Engineering</option>
+							<option value="EE">EC - Electronics & Communication Engineering</option>
+							<option value="IN">IN - Instrumentation Engineering</option>
+							<option value="CE">CE - Civil Engineering</option>
+							<option value="ME">ME - Mechanical Engineering</option>
+							<option value="PI">PI - Production & Industrial Engineering</option>
+							<option value="CS">CS - Computer Science Engineering</option>
+							<option value="IT">IT - Information Technology</option>
+							<option value="CH">CH -  Chemical Engineering</option>
+							<option value="PE">PE - Petroleum Engineering</option>
+							<option value="BT">BT - Bio-Technology</option>
+							<option value="AE">AE - Aerospace Engineering</option>
+							<option value="Others">Others</option>
 						</select>
 					</div>
 				</div>
@@ -144,15 +146,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit']))
 			<div class="vgroup">
 				<h4>Course</h4>
 				<div class="cgroup">
-					<input type="radio" name="course" value="Classroom Course" checked="">
+					<input type="radio" name="course" value="Classroom-Course" checked="">
 					<label for="">Classroom Course</label>
 				</div>
 				<div class="cgroup">
-					<input type="checkbox" type="radio" name="course" value="Classroom Course">
+					<input type="radio" name="course" value="Classroom-Course">
 					<label for="">Online Live Class Course</label>
 				</div>
 				<div class="cgroup">
-					<input type="radio" name="course" value="Online Test Series">
+					<input type="radio" name="course" value="Online-Test-Series">
 					<label for="">Online Test Series</label>
 				</div>
 				<div class="cgroup">
