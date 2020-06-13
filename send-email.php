@@ -8,7 +8,7 @@
 	       	 $subject = 'New Enroll From '.$data['name'];
 	       }
 	    $htmlContent ="";
-		$to      = 'rajnish42413@gmail.com';
+		$to      = 'igaenquiries@gmail.com';
 		$from      = $data['email'];
 
 		$headers = "MIME-Version: 1.0" . "\r\n"; 
@@ -36,10 +36,7 @@
 	 				    </tr> 
 	 				    <tr> 
 	 				        <th>Center:</th><td>'.$data['exam'].'</td> 
-	 				    </tr> 
-	 				    <tr> 
-	 				        <th>Batch:</th><td>'.$data['batch'].'</td> 
-	 				    </tr> 
+	 				    </tr>
 	 				    <tr> 
 	 				        <th>Stream:</th><td>'.$data['stream'].'</td> 
 	 				    </tr> 
