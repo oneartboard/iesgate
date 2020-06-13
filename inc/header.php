@@ -10,7 +10,7 @@
 					</div>
 					<div class="menu-item">
 						<a href="enroll-now.php">Online admission</a>
-						<a href="#">Student Portal</a>
+						<a href="http://www.iesgateacademy.in/students/login">Student Portal</a>
 						<a href="online-test.php">Online Test Series</a>
 						<a href="liveroom.php">Live Online Classes</a>
 					</div>
