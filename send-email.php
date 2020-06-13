@@ -8,7 +8,7 @@
 	       	 $subject = 'New Enroll From '.$data['name'];
 	       }
 	    $htmlContent ="";
-		$to      = 'igaenquiries@gmail.com';
+		$to      = 'rajnish42413@gmail.com';
 		$from      = $data['email'];
 
 		$headers = "MIME-Version: 1.0" . "\r\n"; 
