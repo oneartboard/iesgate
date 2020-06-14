@@ -15,7 +15,7 @@
 
 <?php include 'inc/header.php' ?>
 
-<section style="background-color: #FFF2EC;" class="class-bg" >
+<section style="background-color: #FFF2EC;" class="class-bg nom" >
 	<div class="c-container" >
 		<center>
 		<h2 class="heading text-center" style="margin-bottom:0">
@@ -138,7 +138,7 @@ online lectures by our expert faculty.
 	<div class="c-container spacer" >
 		<div class="flex-row align-center">
 			<div class="flex-col col-6" >
-				<h2 class="heading mb30" style="margin-top: -100px">
+				<h2 class="heading mb30 mtl0" style="margin-top: -100px">
 					Doubts Sessions
 				</h2>
 				<br>
@@ -178,7 +178,7 @@ student community.
 
 	<div class="c-container spacer" >
 		<div class="flex-row">
-			<div class="" style="width: 40%;">
+			<div class="mtl12" style="width: 40%;">
 				
 				<h2 class="heading">
 					Discussion Forum
@@ -192,7 +192,7 @@ student community.
 				</ul>
 	
 			</div>
-			<div class="" style="width: 60%;" >
+			<div class="mtl12" style="width: 60%;" >
 				<ul class="simple-list space30 semibold">
 				
 					<li class="">

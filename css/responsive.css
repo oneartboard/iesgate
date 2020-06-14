@@ -129,7 +129,7 @@
 
 .swiper-sq2 .swiper-slide {
     position: relative;
-    height: 550px;
+    height: 150px;
 }
 .toppers-list li {
     padding: 5px;
@@ -340,7 +340,8 @@
 }
 
 .video-loop {
-  width: 100%;
+  width: 100% !important;
+    margin: 0 !important;
 }
 .stdc {
   position: absolute;
@@ -368,7 +369,7 @@
 
 .cta-wrapper {
   position: relative;
-  height: 550px;
+  height: 190px;
 }
 .cta-wrapper img {
   width: 100%;
@@ -382,6 +383,42 @@
 .btn-big {
   font-size: 22px;
 
+}
+
+.nom {
+  background: none;
+}
+
+.mtl0 {
+  margin-top: 0px !important;
+}
+
+.mtl12 {
+  width: 100% !important;
+}
+.c-accr {
+  width: 100% !important;
+}
+.hero-title {
+  font-size: 35px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.batch-tabs .tabs .bt-li a {
+  font-size: 18px;
+}
+.vwrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul.vtabs {
+  width: 100%;
+}
+
+#content {
+  width: 100%;
 }
 
 }
