@@ -130,7 +130,7 @@ online lectures by our expert faculty.
 	
 			</div>
 			<div class="flex-col col-6  text-right" >
-				<img data-scroll src="img/onlinelectures.svg" width="75%" style="margin-top:60px;" alt="">
+				<img class="onlrs" src="img/onlinelectures.svg" width="75%" style="margin-top:60px;" alt="">
 			</div>
 	
 		</div>

@@ -82,7 +82,7 @@ All the live lectures will be recorded & stored in sequence for your future revi
 
 	
 	<section class="c-container">
-		<div class="cta-wrapper">
+		<div class="cta-wrapper ctalm">
 			<img src="img/Slid.png" alt="">
 			<div class="overlay" style="color: #363405">
 				<h2 class="text-center mt0">
@@ -129,7 +129,7 @@ GATE / ESE examinations.
 		<!-- Swiper -->
 		<div class="swiper-container pcr">
 			<div class="swiper-wrapper">
-			  <div class="swiper-slide cta-wrapper">
+			  <div class="swiper-slide cta-wrapper ctw">
 				<img src="img/2121.png" alt="">
 				
 			  </div>
@@ -308,7 +308,7 @@ student community.
 
 	<div class="c-container spacer" >
 		<div class="flex-row">
-			<div class="" style="width: 40%;">
+			<div class="mtl12" style="width: 40%;">
 				
 				<h2 class="heading">
 					Discussion Forum
@@ -322,7 +322,7 @@ student community.
 				</ul>
 	
 			</div>
-			<div class="" style="width: 60%;" >
+			<div class="mtl12" style="width: 60%;" >
 				<ul class="simple-list space30 semibold">
 				
 					<li class="text-center">
