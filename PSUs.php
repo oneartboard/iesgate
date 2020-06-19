@@ -266,15 +266,17 @@
 		</ul>
 			  </div>
 
-			  <div id="three" class="vtab-content">
+			  <div id="three" class="vtab-content ">
 				   <h2 class="heading">
 					  PSUs THROUGH GATE SCORE
 				   </h2>
-				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout: fixed; font-size: 11pt; width: 100%; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
-			<colgroup>
-				<col width="30" />
-				<col width="100" />
-			</colgroup>
+				   <div class="table-responsive">
+				      
+				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="">
+						<colgroup>
+							<col width="30" />
+							<col width="100" />
+						</colgroup>
 			<tbody>
 				<tr style="height: 45px;">
 					<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IOCL&quot;}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;">
@@ -684,134 +686,139 @@
 				</tr>
 			</tbody>
 		</table>
+				   </div>
+				
 			   </div>
 			   
 			   <div id="four" class="vtab-content">
 				   <h2 class="heading">
 					  PSUs THROUGH INDIVIDUAL WRITTEN TEST
 				   </h2>
+				   <div class="table-responsive">
 				   <table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout: fixed; font-size: 11pt; width: 100%; border-collapse: collapse; border: none;" xmlns="http://www.w3.org/1999/xhtml">
-			<colgroup>
-				<col width="100" />
-				<col width="563" />
-			</colgroup>
-			<tbody>
-				<tr style="height: 45px;">
-					<td>
-						BSNL (JTO)</td>
-					<td>
-						Bharat Sanchar Nigam Limited</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						RRB</td>
-					<td>
-						Railway Recruitment Board</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						SSC</td>
-					<td>
-						Staff Selection Commission</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						AAI</td>
-					<td>
-						Airports Authority of India</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						SAIL</td>
-					<td>
-						Steel Authority of India Limited</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						ISRO</td>
-					<td>
-						Indian Space Research Organization</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						DRDO</td>
-					<td>
-						Defense Research and Development Organization</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						GRSC</td>
-					<td >
-						Garden Reach Shipbuilders &amp; Engineers Limited</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						TVNL</td>
-					<td>
-						TenughatVidyut Nigam Limited</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						BIS</td>
-					<td>
-						Bureau of Indian Standards</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						JUVNL</td>
-					<td>
-						Jharkhand UrjaVikash Nigam Limited</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						BEL</td>
-					<td>
-						Bharat Electronics Limite</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						JPSC</td>
-					<td>
-						Jharkhand Public Service Commissio</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						WAPCOS</td>
-					<td>
-						Water Resources, Power and Infrastructure Sectors</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						TSGENCO</td>
-					<td>
-						Telangana State Power Generation Corporation Ltd</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						TSNPDCL</td>
-					<td>
-						Telangana State Northern Power Distribution Limited</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						TSTRANSCO</td>
-					<td>
-						Transmission Corporation of Telangana Limite</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						MESCOM</td>
-					<td>
-						Mangalore Electricity Supply Company Limited</td>
-				</tr>
-				<tr style="height: 45px;">
-					<td>
-						EIL</td>
-					<td>
-						Engineers India Limited</td>
-				</tr>
-			</tbody>
-		</table>
+						<colgroup>
+							<col width="100" />
+							<col width="563" />
+						</colgroup>
+						<tbody>
+							<tr style="height: 45px;">
+								<td>
+									BSNL (JTO)</td>
+								<td>
+									Bharat Sanchar Nigam Limited</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									RRB</td>
+								<td>
+									Railway Recruitment Board</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									SSC</td>
+								<td>
+									Staff Selection Commission</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									AAI</td>
+								<td>
+									Airports Authority of India</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									SAIL</td>
+								<td>
+									Steel Authority of India Limited</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									ISRO</td>
+								<td>
+									Indian Space Research Organization</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									DRDO</td>
+								<td>
+									Defense Research and Development Organization</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									GRSC</td>
+								<td >
+									Garden Reach Shipbuilders &amp; Engineers Limited</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									TVNL</td>
+								<td>
+									TenughatVidyut Nigam Limited</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									BIS</td>
+								<td>
+									Bureau of Indian Standards</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									JUVNL</td>
+								<td>
+									Jharkhand UrjaVikash Nigam Limited</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									BEL</td>
+								<td>
+									Bharat Electronics Limite</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									JPSC</td>
+								<td>
+									Jharkhand Public Service Commissio</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									WAPCOS</td>
+								<td>
+									Water Resources, Power and Infrastructure Sectors</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									TSGENCO</td>
+								<td>
+									Telangana State Power Generation Corporation Ltd</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									TSNPDCL</td>
+								<td>
+									Telangana State Northern Power Distribution Limited</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									TSTRANSCO</td>
+								<td>
+									Transmission Corporation of Telangana Limite</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									MESCOM</td>
+								<td>
+									Mangalore Electricity Supply Company Limited</td>
+							</tr>
+							<tr style="height: 45px;">
+								<td>
+									EIL</td>
+								<td>
+									Engineers India Limited</td>
+							</tr>
+						</tbody>
+				   </table>
+				   </div>
+				  
 
 		<p class="read">VIZAG STEEL PLANT, JINDAL, RELIANCE, GE, L & T, Mahindra &Mahindra.
 </p>
@@ -821,872 +828,875 @@
 				   <h2 class="heading">
 					  PSUs ELIGIBILITY WITH ACADEMIC PERCENTAGE & AGE CRITERIA
 				   </h2>
+				   <div class="table-responsive">
 				   <table border="1" cellpadding="0" cellspacing="0" width="100%">
-			<tbody align="center">
-				<tr>
-					<td rowspan="2" style="width:109px;height:25px;">
-						<p>
-							<strong>PSU NAME</strong></p>
-					</td>
-					<td rowspan="2" style="width:156px;height:25px;">
-						<p>
-							<strong>ENGINEERING</strong></p>
-						<p>
-							<strong>DISCIPLINE</strong></p>
-					</td>
-					<td colspan="3" style="width:171px;height:25px;">
-						<p>
-							<strong><u>ACADEMIC PERCENTAGE</u></strong></p>
-					</td>
-					<td colspan="3" style="width:205px;height:25px;">
-						<p>
-							<strong><u>AGE LIMIT</u></strong></p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:48px;height:25px;">
-						<p>
-							<strong><u>GEN</u></strong></p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							<strong><u>OBC</u></strong></p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							<strong><u>SC/ST</u></strong></p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							<strong><u>GEN</u></strong></p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							<strong><u>OBC</u></strong></p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							<strong><u>SC/ST</u></strong></p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							BHEL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,EE,EC,MT</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							27yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							24yr -27yr</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							29yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							ONGC</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,CE,EE,EC,IN,CS,CH</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							32yr -33yr</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							35yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							NTPC</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							CE,ME,EE,EC,IN,CS</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							27yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							27-30</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							32yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							SAIL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							EC,ME,EE,CS,IN,CH,MT</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							50</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							32-33</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							35yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							IOCL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							CS,CE,EE,EC,IN,ME</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							36yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							26-29</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							31yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							ISRO</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,EE,EC,CS</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							PGCIL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							CE,CS,EC,EE</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							PASS</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							HAL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,PI,EC,EE,IN,CS</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							NALCO</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,EE,IN,CS,IT,CH,CE</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							32-33</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							35yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							GAIL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,EE,IN,CS,EC,CH</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							65</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							DRDO</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							EC,ME,CS,CH,EE</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							DMRC</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,EE,EC,CE</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							BPCL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,CS,IN,</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							MTNL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							EC,IT,CS,EE</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							30-33</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							35yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							HPCL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,CE,EE,EC,IN,CH</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							50</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							25yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							25-28</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							BEL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							EE,ME,EC,CS,CH,CE</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							PASS</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							25yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							25-28yr</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							BARC</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							CH,ME,MT,CS,EC,IN</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							28yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							28-31yr</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							33yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							RAILWAYS</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							CE,CH,ME,EE,EC,CS</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							22-35</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							22-35</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							22-35</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							ECIL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							EC,EE,IN,CS,CE,ME</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							50</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							----</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							----</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							-----</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							VIZAG STEEL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,EE,CH,CE,EC,IN,MT</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							50</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							25yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							25-28</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:26px;">
-						<p>
-							NHPC</p>
-					</td>
-					<td style="width:156px;height:26px;">
-						<p>
-							CE,EE,ME</p>
-					</td>
-					<td style="width:48px;height:26px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:26px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:26px;">
-						<p>
-							50</p>
-					</td>
-					<td style="width:51px;height:26px;">
-						<p>
-							30yr</p>
-					</td>
-					<td style="width:84px;height:26px;">
-						<p>
-							30-33</p>
-					</td>
-					<td style="width:70px;height:26px;">
-						<p>
-							35yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							SJVNL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							ME,EE,EC,CE,IT</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							50</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							50</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							30-33</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							35yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:25px;">
-						<p>
-							BSNL</p>
-					</td>
-					<td style="width:156px;height:25px;">
-						<p>
-							EC,CS,EE,IT,CE</p>
-					</td>
-					<td style="width:48px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:53px;height:25px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							55</p>
-					</td>
-					<td style="width:51px;height:25px;">
-						<p>
-							30yr</p>
-					</td>
-					<td style="width:84px;height:25px;">
-						<p>
-							30-33yr</p>
-					</td>
-					<td style="width:70px;height:25px;">
-						<p>
-							35yr</p>
-					</td>
-				</tr>
-				<tr>
-					<td style="width:109px;height:14px;">
-						<p>
-							B&amp;R Co.I.L</p>
-					</td>
-					<td style="width:156px;height:14px;">
-						<p>
-							CE,ME,EE</p>
-					</td>
-					<td style="width:48px;height:14px;">
-						<p>
-							70</p>
-					</td>
-					<td style="width:53px;height:14px;">
-						<p>
-							70</p>
-					</td>
-					<td style="width:70px;height:14px;">
-						<p>
-							60</p>
-					</td>
-					<td style="width:51px;height:14px;">
-						<p>
-							24yr</p>
-					</td>
-					<td style="width:84px;height:14px;">
-						<p>
-							24-27</p>
-					</td>
-					<td style="width:70px;height:14px;">
-						<p>
-							29yr</p>
-					</td>
-				</tr>
-			</tbody>
-		</table>
+						<tbody align="center">
+							<tr>
+								<td rowspan="2" style="width:109px;height:25px;">
+									<p>
+										<strong>PSU NAME</strong></p>
+								</td>
+								<td rowspan="2" style="width:156px;height:25px;">
+									<p>
+										<strong>ENGINEERING</strong></p>
+									<p>
+										<strong>DISCIPLINE</strong></p>
+								</td>
+								<td colspan="3" style="width:171px;height:25px;">
+									<p>
+										<strong><u>ACADEMIC PERCENTAGE</u></strong></p>
+								</td>
+								<td colspan="3" style="width:205px;height:25px;">
+									<p>
+										<strong><u>AGE LIMIT</u></strong></p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:48px;height:25px;">
+									<p>
+										<strong><u>GEN</u></strong></p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										<strong><u>OBC</u></strong></p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										<strong><u>SC/ST</u></strong></p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										<strong><u>GEN</u></strong></p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										<strong><u>OBC</u></strong></p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										<strong><u>SC/ST</u></strong></p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										BHEL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,EE,EC,MT</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										27yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										24yr -27yr</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										29yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										ONGC</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,CE,EE,EC,IN,CS,CH</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										32yr -33yr</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										35yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										NTPC</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										CE,ME,EE,EC,IN,CS</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										27yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										27-30</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										32yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										SAIL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										EC,ME,EE,CS,IN,CH,MT</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										50</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										32-33</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										35yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										IOCL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										CS,CE,EE,EC,IN,ME</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										36yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										26-29</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										31yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										ISRO</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,EE,EC,CS</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										PGCIL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										CE,CS,EC,EE</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										PASS</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										HAL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,PI,EC,EE,IN,CS</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										NALCO</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,EE,IN,CS,IT,CH,CE</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										32-33</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										35yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										GAIL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,EE,IN,CS,EC,CH</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										65</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										DRDO</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										EC,ME,CS,CH,EE</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										DMRC</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,EE,EC,CE</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										BPCL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,CS,IN,</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										MTNL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										EC,IT,CS,EE</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										30-33</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										35yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										HPCL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,CE,EE,EC,IN,CH</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										50</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										25yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										25-28</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										BEL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										EE,ME,EC,CS,CH,CE</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										PASS</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										25yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										25-28yr</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										BARC</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										CH,ME,MT,CS,EC,IN</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										28yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										28-31yr</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										33yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										RAILWAYS</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										CE,CH,ME,EE,EC,CS</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										22-35</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										22-35</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										22-35</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										ECIL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										EC,EE,IN,CS,CE,ME</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										50</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										----</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										----</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										-----</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										VIZAG STEEL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,EE,CH,CE,EC,IN,MT</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										50</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										25yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										25-28</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:26px;">
+									<p>
+										NHPC</p>
+								</td>
+								<td style="width:156px;height:26px;">
+									<p>
+										CE,EE,ME</p>
+								</td>
+								<td style="width:48px;height:26px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:26px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:26px;">
+									<p>
+										50</p>
+								</td>
+								<td style="width:51px;height:26px;">
+									<p>
+										30yr</p>
+								</td>
+								<td style="width:84px;height:26px;">
+									<p>
+										30-33</p>
+								</td>
+								<td style="width:70px;height:26px;">
+									<p>
+										35yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										SJVNL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										ME,EE,EC,CE,IT</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										50</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										50</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										30-33</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										35yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:25px;">
+									<p>
+										BSNL</p>
+								</td>
+								<td style="width:156px;height:25px;">
+									<p>
+										EC,CS,EE,IT,CE</p>
+								</td>
+								<td style="width:48px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:53px;height:25px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										55</p>
+								</td>
+								<td style="width:51px;height:25px;">
+									<p>
+										30yr</p>
+								</td>
+								<td style="width:84px;height:25px;">
+									<p>
+										30-33yr</p>
+								</td>
+								<td style="width:70px;height:25px;">
+									<p>
+										35yr</p>
+								</td>
+							</tr>
+							<tr>
+								<td style="width:109px;height:14px;">
+									<p>
+										B&amp;R Co.I.L</p>
+								</td>
+								<td style="width:156px;height:14px;">
+									<p>
+										CE,ME,EE</p>
+								</td>
+								<td style="width:48px;height:14px;">
+									<p>
+										70</p>
+								</td>
+								<td style="width:53px;height:14px;">
+									<p>
+										70</p>
+								</td>
+								<td style="width:70px;height:14px;">
+									<p>
+										60</p>
+								</td>
+								<td style="width:51px;height:14px;">
+									<p>
+										24yr</p>
+								</td>
+								<td style="width:84px;height:14px;">
+									<p>
+										24-27</p>
+								</td>
+								<td style="width:70px;height:14px;">
+									<p>
+										29yr</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				   </div>
+				 
 			   </div>
 		</div>
 	  </div>

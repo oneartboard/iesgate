@@ -192,7 +192,8 @@
 			   <h2 class="heading">
 				  GATE Structure
 			   </h2>
-			  	<table border="1" cellpadding="0" cellspacing="0" width="669">
+			   <div class="table-responsive">
+			   <table border="1" cellpadding="0" cellspacing="0" width="669">
 			<tbody align="center">
 				<tr>
 					<td style="width:187px;height:20px;">
@@ -344,6 +345,8 @@
 				</tr>
 			</tbody>
 		</table>
+			   </div>
+			 
 		<p>
 			Examination Paper is a combination of 35 questions from multiple choice &amp; rest 30 questions are from Numerical answer type. For 1mark MCQs, 1/3mark is deducted for each wrong answer. Likewise, for 2mark MCQs, 2/3 mark is deducted for each wrong answer.&nbsp;There is NO negative marking for numerical answer type questions.</p>
 			<h2 class="orange">TYPE OF QUESTIONS</h2>
@@ -407,7 +410,8 @@ entered using mouse and virtual keyboard on the monitor.
 				   GATE CUTOFF MARKS
    
 				</h2>
-			   <table border="1" cellpadding="0" cellspacing="0" style="width:751px;" width="451">
+				<div class="table-responsive">
+				<table border="1" cellpadding="0" cellspacing="0" style="width:751px;" width="451">
 			<tbody align="center">
 				<tr>
 					<td rowspan="2" style="width:85px;">
@@ -847,6 +851,8 @@ entered using mouse and virtual keyboard on the monitor.
 				</tr>
 			</tbody>
 		</table>
+				</div>
+			 
 			   </div>
 			   <div id="seven" class="vtab-content">
 			

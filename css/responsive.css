@@ -483,9 +483,6 @@ blockquote.quote ,.right-heading{
   width: 100% !important;
 }
 
-table strong {
-  word-break: break-all;
-}
 
 .swiper-wrapper {
   align-items: center;
@@ -495,14 +492,15 @@ table strong {
   font-size: 18px;
 }
 
-table td p {
-  font-size: 14px;
-}
-table td {
-  font-size: 14px;
-}
 
 .mscroll {
   overflow-x: scroll;
 }
+.table-responsive {
+  width: 100%;
+    height: 100%;
+    overflow-x: scroll;
+}
+
+
 }
