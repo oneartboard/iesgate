@@ -494,4 +494,15 @@ table strong {
 .lead {
   font-size: 18px;
 }
+
+table td p {
+  font-size: 14px;
+}
+table td {
+  font-size: 14px;
+}
+
+.mscroll {
+  overflow-x: scroll;
+}
 }

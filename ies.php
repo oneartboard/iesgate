@@ -189,11 +189,7 @@
 
 			   <!--table starts-->
 			   <p>
-	<html>
-		<head>
-			<title></title>
-		</head>
-		<body>
+
 			<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="width:488.4pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
  mso-border-themecolor:text1;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="488">
 				<tbody>
@@ -737,31 +733,8 @@
 					</tr>
 				</tbody>
 			</table>
-			<p>
-				<strong>
-				<style type="text/css">
-				</style>
-				</strong></p>
-		</body>
-	</html>
+		
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 			   </div>
