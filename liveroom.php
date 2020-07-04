@@ -83,7 +83,7 @@ All the live lectures will be recorded & stored in sequence for your future revi
 	
 	<section class="c-container">
 		<div class="cta-wrapper ctalm">
-			<img src="img/Slid.png" alt="">
+			<img class="mc-img" src="img/Slid.png" alt="">
 			<div class="overlay" style="color: #363405">
 				<h2 class="text-center mt0">
 					You are under Experts Guidance
@@ -326,7 +326,7 @@ student community.
 				<ul class="simple-list space30 semibold">
 				
 					<li class="text-center">
-						<video class="video-loop" autoPlay loop muted>
+						<video class="video-loop" autoPlay loop muted playsinline defaultMuted>
 							<source src="video/DiscussionForum.mp4" type="video/mp4" />
 							
 							Your browser does not support the video tag.
@@ -784,7 +784,7 @@ understanding of the concepts.
 		Tests Features
 	</h2>
 	
-	<video class="video-loop" autoplay loop muted>
+	<video class="video-loop" autoPlay loop muted playsinline defaultMuted>
 		<source src="video/TestsFeautures.mp4" type="video/mp4" />
 		
 		Your browser does not support the video tag.

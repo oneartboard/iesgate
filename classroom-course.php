@@ -88,7 +88,7 @@
 		<h2 class="heading c-container" style="text-align: left;">
 			Study Materials 
 		</h2>
-		<video class="video-loop" autoPlay loop muted style="width: 70%;
+		<video class="video-loop" autoPlay loop muted playsinline defaultMuted style="width: 70%;
     margin: auto;">
 			<source src="video/StudyMaterials.mp4" type="video/mp4" />
 			
@@ -196,7 +196,7 @@ student community.
 				<ul class="simple-list space30 semibold">
 				
 					<li class="">
-						<video class="video-loop" autoPlay loop muted style="width: 82%;
+						<video class="video-loop" autoPlay loop muted playsinline defaultMuted style="width: 82%;
     text-align: right;
     float: right;
     margin-right: -40px;">
@@ -677,7 +677,7 @@ understanding of the concepts.
 		Tests Features
 	</h2>
 	
-	<video class="video-loop" autoPlay loop muted>
+	<video class="video-loop" autoPlay loop muted playsinline defaultMuted>
 		<source src="video/TestsFeautures.mp4" type="video/mp4" />
 		
 		Your browser does not support the video tag.

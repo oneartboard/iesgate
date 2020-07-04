@@ -381,6 +381,10 @@
   padding: 0 15px;
 }
 
+.mc-img {
+  object-fit: cover !important;
+}
+
 .btn-big {
   font-size: 22px;
 
@@ -501,6 +505,5 @@ blockquote.quote ,.right-heading{
     height: 100%;
     overflow-x: scroll;
 }
-
 
 }
